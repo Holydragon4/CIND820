@@ -1,0 +1,4385 @@
+Food Items,Food Group,Year,Value
+Beer,Alcohol,1988,99.89
+Beer,Alcohol,1989,97.66
+Beer,Alcohol,1990,94.79
+Beer,Alcohol,1991,92.01
+Beer,Alcohol,1992,87.7
+Beer,Alcohol,1993,87.25
+Beer,Alcohol,1994,87.45
+Beer,Alcohol,1995,87.15
+Beer,Alcohol,1996,84.76
+Beer,Alcohol,1997,84.97
+Beer,Alcohol,1998,85.72
+Beer,Alcohol,1999,85.91
+Beer,Alcohol,2000,84.01
+Beer,Alcohol,2001,84.85
+Beer,Alcohol,2002,83.63
+Beer,Alcohol,2003,84.11
+Beer,Alcohol,2004,83.2
+Beer,Alcohol,2005,84.39
+Beer,Alcohol,2006,83.14
+Beer,Alcohol,2007,83.4
+Beer,Alcohol,2008,82.96
+Beer,Alcohol,2009,82.74
+Beer,Alcohol,2010,82.8
+Beer,Alcohol,2011,79.61
+Beer,Alcohol,2012,79.71
+Beer,Alcohol,2013,77.59
+Beer,Alcohol,2014,75.55
+Beer,Alcohol,2015,74.56
+Beer,Alcohol,2016,74.53
+Beer,Alcohol,2017,72.9
+Beer,Alcohol,2018,71.25
+Beer,Alcohol,2019,69.97
+Coffee,Non-Alcoholic Drink,1988,91.67
+Coffee,Non-Alcoholic Drink,1989,89.66
+Coffee,Non-Alcoholic Drink,1990,95.85
+Coffee,Non-Alcoholic Drink,1991,97.28
+Coffee,Non-Alcoholic Drink,1992,87.62
+Coffee,Non-Alcoholic Drink,1993,92.04
+Coffee,Non-Alcoholic Drink,1994,99.21
+Coffee,Non-Alcoholic Drink,1995,95.63
+Coffee,Non-Alcoholic Drink,1996,97.42
+Coffee,Non-Alcoholic Drink,1997,93.93
+Coffee,Non-Alcoholic Drink,1998,95.67
+Coffee,Non-Alcoholic Drink,1999,99.25
+Coffee,Non-Alcoholic Drink,2000,101.31
+Coffee,Non-Alcoholic Drink,2001,101.68
+Coffee,Non-Alcoholic Drink,2002,104
+Coffee,Non-Alcoholic Drink,2003,106.08
+Coffee,Non-Alcoholic Drink,2004,105.8
+Coffee,Non-Alcoholic Drink,2005,102.16
+Coffee,Non-Alcoholic Drink,2006,101.16
+Coffee,Non-Alcoholic Drink,2007,104.18
+Coffee,Non-Alcoholic Drink,2008,102.92
+Coffee,Non-Alcoholic Drink,2009,105.6
+Coffee,Non-Alcoholic Drink,2010,106.68
+Coffee,Non-Alcoholic Drink,2011,104.55
+Coffee,Non-Alcoholic Drink,2012,104.51
+Coffee,Non-Alcoholic Drink,2013,103.74
+Coffee,Non-Alcoholic Drink,2014,103.4
+Coffee,Non-Alcoholic Drink,2015,103.57
+Coffee,Non-Alcoholic Drink,2016,107.48
+Coffee,Non-Alcoholic Drink,2017,107.7
+Coffee,Non-Alcoholic Drink,2018,108.56
+Coffee,Non-Alcoholic Drink,2019,107.34
+Tea,Non-Alcoholic Drink,1988,50.09
+Tea,Non-Alcoholic Drink,1989,47.89
+Tea,Non-Alcoholic Drink,1990,42.4
+Tea,Non-Alcoholic Drink,1991,42.12
+Tea,Non-Alcoholic Drink,1992,47.61
+Tea,Non-Alcoholic Drink,1993,60.86
+Tea,Non-Alcoholic Drink,1994,55.58
+Tea,Non-Alcoholic Drink,1995,50.61
+Tea,Non-Alcoholic Drink,1996,49.89
+Tea,Non-Alcoholic Drink,1997,56.77
+Tea,Non-Alcoholic Drink,1998,62.54
+Tea,Non-Alcoholic Drink,1999,68.32
+Tea,Non-Alcoholic Drink,2000,69.88
+Tea,Non-Alcoholic Drink,2001,72.98
+Tea,Non-Alcoholic Drink,2002,71.36
+Tea,Non-Alcoholic Drink,2003,90.77
+Tea,Non-Alcoholic Drink,2004,74.7
+Tea,Non-Alcoholic Drink,2005,67.15
+Tea,Non-Alcoholic Drink,2006,62.05
+Tea,Non-Alcoholic Drink,2007,85.8
+Tea,Non-Alcoholic Drink,2008,91.93
+Tea,Non-Alcoholic Drink,2009,77.44
+Tea,Non-Alcoholic Drink,2010,111
+Tea,Non-Alcoholic Drink,2011,96.97
+Tea,Non-Alcoholic Drink,2012,85.91
+Tea,Non-Alcoholic Drink,2013,89.56
+Tea,Non-Alcoholic Drink,2014,105.42
+Tea,Non-Alcoholic Drink,2015,84.85
+Tea,Non-Alcoholic Drink,2016,75.28
+Tea,Non-Alcoholic Drink,2017,66.36
+Tea,Non-Alcoholic Drink,2018,63.7
+Tea,Non-Alcoholic Drink,2019,71.53
+Soft drinks,Non-Alcoholic Drink,1988,96.41
+Soft drinks,Non-Alcoholic Drink,1989,94.92
+Soft drinks,Non-Alcoholic Drink,1990,96.38
+Soft drinks,Non-Alcoholic Drink,1991,101.15
+Soft drinks,Non-Alcoholic Drink,1992,98.56
+Soft drinks,Non-Alcoholic Drink,1993,102.91
+Soft drinks,Non-Alcoholic Drink,1994,109.06
+Soft drinks,Non-Alcoholic Drink,1995,109.72
+Soft drinks,Non-Alcoholic Drink,1996,110.88
+Soft drinks,Non-Alcoholic Drink,1997,112.93
+Soft drinks,Non-Alcoholic Drink,1998,117.35
+Soft drinks,Non-Alcoholic Drink,1999,117
+Soft drinks,Non-Alcoholic Drink,2000,113.15
+Soft drinks,Non-Alcoholic Drink,2001,113.57
+Soft drinks,Non-Alcoholic Drink,2002,112.41
+Soft drinks,Non-Alcoholic Drink,2003,110.48
+Soft drinks,Non-Alcoholic Drink,2004,106.59
+Soft drinks,Non-Alcoholic Drink,2005,103.07
+Soft drinks,Non-Alcoholic Drink,2006,100.36
+Soft drinks,Non-Alcoholic Drink,2007,94.2
+Soft drinks,Non-Alcoholic Drink,2008,89.79
+Soft drinks,Non-Alcoholic Drink,2009,88.26
+Soft drinks,Non-Alcoholic Drink,2010,85.94
+Soft drinks,Non-Alcoholic Drink,2011,83.65
+Soft drinks,Non-Alcoholic Drink,2012,80
+Soft drinks,Non-Alcoholic Drink,2013,75.62
+Soft drinks,Non-Alcoholic Drink,2014,71.78
+Soft drinks,Non-Alcoholic Drink,2015,68.74
+Soft drinks,Non-Alcoholic Drink,2016,62.65
+Soft drinks,Non-Alcoholic Drink,2017,59.95
+Soft drinks,Non-Alcoholic Drink,2018,58.33
+Soft drinks,Non-Alcoholic Drink,2019,56.07
+Wheat flour,"Bread, Cereal, Rice, Pasta",1988,57.63
+Wheat flour,"Bread, Cereal, Rice, Pasta",1989,55.57
+Wheat flour,"Bread, Cereal, Rice, Pasta",1990,56.25
+Wheat flour,"Bread, Cereal, Rice, Pasta",1991,54.25
+Wheat flour,"Bread, Cereal, Rice, Pasta",1992,53.93
+Wheat flour,"Bread, Cereal, Rice, Pasta",1993,56.04
+Wheat flour,"Bread, Cereal, Rice, Pasta",1994,58.12
+Wheat flour,"Bread, Cereal, Rice, Pasta",1995,58.29
+Wheat flour,"Bread, Cereal, Rice, Pasta",1996,59.34
+Wheat flour,"Bread, Cereal, Rice, Pasta",1997,62.66
+Wheat flour,"Bread, Cereal, Rice, Pasta",1998,63.51
+Wheat flour,"Bread, Cereal, Rice, Pasta",1999,65.5
+Wheat flour,"Bread, Cereal, Rice, Pasta",2000,67.05
+Wheat flour,"Bread, Cereal, Rice, Pasta",2001,67.25
+Wheat flour,"Bread, Cereal, Rice, Pasta",2002,67.92
+Wheat flour,"Bread, Cereal, Rice, Pasta",2003,66.17
+Wheat flour,"Bread, Cereal, Rice, Pasta",2004,66.39
+Wheat flour,"Bread, Cereal, Rice, Pasta",2005,66.81
+Wheat flour,"Bread, Cereal, Rice, Pasta",2006,66.91
+Wheat flour,"Bread, Cereal, Rice, Pasta",2007,66.69
+Wheat flour,"Bread, Cereal, Rice, Pasta",2008,62.76
+Wheat flour,"Bread, Cereal, Rice, Pasta",2009,63.34
+Wheat flour,"Bread, Cereal, Rice, Pasta",2010,62.53
+Wheat flour,"Bread, Cereal, Rice, Pasta",2011,60.62
+Wheat flour,"Bread, Cereal, Rice, Pasta",2012,60.27
+Wheat flour,"Bread, Cereal, Rice, Pasta",2013,59.74
+Wheat flour,"Bread, Cereal, Rice, Pasta",2014,58.67
+Wheat flour,"Bread, Cereal, Rice, Pasta",2015,58.51
+Wheat flour,"Bread, Cereal, Rice, Pasta",2016,58.28
+Wheat flour,"Bread, Cereal, Rice, Pasta",2017,57.22
+Wheat flour,"Bread, Cereal, Rice, Pasta",2018,58.09
+Wheat flour,"Bread, Cereal, Rice, Pasta",2019,60.21
+Partly skimmed milk 2%,Dairy,1988,62.68
+Partly skimmed milk 2%,Dairy,1989,61.96
+Partly skimmed milk 2%,Dairy,1990,56.97
+Partly skimmed milk 2%,Dairy,1991,55.8
+Partly skimmed milk 2%,Dairy,1992,53.98
+Partly skimmed milk 2%,Dairy,1993,51.62
+Partly skimmed milk 2%,Dairy,1994,50.16
+Partly skimmed milk 2%,Dairy,1995,48.32
+Partly skimmed milk 2%,Dairy,1996,47.09
+Partly skimmed milk 2%,Dairy,1997,45.48
+Partly skimmed milk 2%,Dairy,1998,44.69
+Partly skimmed milk 2%,Dairy,1999,43.59
+Partly skimmed milk 2%,Dairy,2000,43.24
+Partly skimmed milk 2%,Dairy,2001,41.8
+Partly skimmed milk 2%,Dairy,2002,40.58
+Partly skimmed milk 2%,Dairy,2003,40.33
+Partly skimmed milk 2%,Dairy,2004,40.11
+Partly skimmed milk 2%,Dairy,2005,38.82
+Partly skimmed milk 2%,Dairy,2006,38.44
+Partly skimmed milk 2%,Dairy,2007,37.98
+Partly skimmed milk 2%,Dairy,2008,37.39
+Partly skimmed milk 2%,Dairy,2009,36.85
+Partly skimmed milk 2%,Dairy,2010,36.38
+Partly skimmed milk 2%,Dairy,2011,35
+Partly skimmed milk 2%,Dairy,2012,34.72
+Partly skimmed milk 2%,Dairy,2013,34.95
+Partly skimmed milk 2%,Dairy,2014,34.48
+Partly skimmed milk 2%,Dairy,2015,34.68
+Partly skimmed milk 2%,Dairy,2016,34.7
+Partly skimmed milk 2%,Dairy,2017,33.24
+Partly skimmed milk 2%,Dairy,2018,32.79
+Partly skimmed milk 2%,Dairy,2019,32.41
+Sugar refined,"Fats, Oils, Sweets",1988,38.48
+Sugar refined,"Fats, Oils, Sweets",1989,35.09
+Sugar refined,"Fats, Oils, Sweets",1990,35.81
+Sugar refined,"Fats, Oils, Sweets",1991,34.7
+Sugar refined,"Fats, Oils, Sweets",1992,36.62
+Sugar refined,"Fats, Oils, Sweets",1993,37.26
+Sugar refined,"Fats, Oils, Sweets",1994,37.97
+Sugar refined,"Fats, Oils, Sweets",1995,36.17
+Sugar refined,"Fats, Oils, Sweets",1996,36.11
+Sugar refined,"Fats, Oils, Sweets",1997,36.1
+Sugar refined,"Fats, Oils, Sweets",1998,33.19
+Sugar refined,"Fats, Oils, Sweets",1999,33.83
+Sugar refined,"Fats, Oils, Sweets",2000,34.55
+Sugar refined,"Fats, Oils, Sweets",2001,34.32
+Sugar refined,"Fats, Oils, Sweets",2002,34.38
+Sugar refined,"Fats, Oils, Sweets",2003,34.17
+Sugar refined,"Fats, Oils, Sweets",2004,34.05
+Sugar refined,"Fats, Oils, Sweets",2005,32.55
+Sugar refined,"Fats, Oils, Sweets",2006,30.55
+Sugar refined,"Fats, Oils, Sweets",2007,30.32
+Sugar refined,"Fats, Oils, Sweets",2008,31.17
+Sugar refined,"Fats, Oils, Sweets",2009,31.72
+Sugar refined,"Fats, Oils, Sweets",2010,29.79
+Sugar refined,"Fats, Oils, Sweets",2011,30.31
+Sugar refined,"Fats, Oils, Sweets",2012,29.06
+Sugar refined,"Fats, Oils, Sweets",2013,30.5
+Sugar refined,"Fats, Oils, Sweets",2014,30.24
+Sugar refined,"Fats, Oils, Sweets",2015,29.45
+Sugar refined,"Fats, Oils, Sweets",2016,29.46
+Sugar refined,"Fats, Oils, Sweets",2017,30
+Sugar refined,"Fats, Oils, Sweets",2018,30
+Sugar refined,"Fats, Oils, Sweets",2019,29.73
+"Beef, carcass weight",Proteins,1988,36.29
+"Beef, carcass weight",Proteins,1989,35.31
+"Beef, carcass weight",Proteins,1990,33.99
+"Beef, carcass weight",Proteins,1991,33.27
+"Beef, carcass weight",Proteins,1992,32.38
+"Beef, carcass weight",Proteins,1993,31.08
+"Beef, carcass weight",Proteins,1994,31.7
+"Beef, carcass weight",Proteins,1995,31.76
+"Beef, carcass weight",Proteins,1996,31.45
+"Beef, carcass weight",Proteins,1997,31.46
+"Beef, carcass weight",Proteins,1998,31.94
+"Beef, carcass weight",Proteins,1999,32.6
+"Beef, carcass weight",Proteins,2000,32.02
+"Beef, carcass weight",Proteins,2001,30.75
+"Beef, carcass weight",Proteins,2002,30.58
+"Beef, carcass weight",Proteins,2003,32.4
+"Beef, carcass weight",Proteins,2004,31.15
+"Beef, carcass weight",Proteins,2005,30.29
+"Beef, carcass weight",Proteins,2006,29.94
+"Beef, carcass weight",Proteins,2007,30.6
+"Beef, carcass weight",Proteins,2008,29.75
+"Beef, carcass weight",Proteins,2009,28.28
+"Beef, carcass weight",Proteins,2010,27.88
+"Beef, carcass weight",Proteins,2011,27.27
+"Beef, carcass weight",Proteins,2012,27.63
+"Beef, carcass weight",Proteins,2013,27.4
+"Beef, carcass weight",Proteins,2014,26.5
+"Beef, carcass weight",Proteins,2015,24.42
+"Beef, carcass weight",Proteins,2016,25.42
+"Beef, carcass weight",Proteins,2017,25.29
+"Beef, carcass weight",Proteins,2018,25.44
+"Beef, carcass weight",Proteins,2019,25.48
+Standard milk 3.25%,Dairy,1988,26.85
+Standard milk 3.25%,Dairy,1989,24.23
+Standard milk 3.25%,Dairy,1990,21.94
+Standard milk 3.25%,Dairy,1991,19.94
+Standard milk 3.25%,Dairy,1992,18.42
+Standard milk 3.25%,Dairy,1993,17.16
+Standard milk 3.25%,Dairy,1994,16.81
+Standard milk 3.25%,Dairy,1995,15.94
+Standard milk 3.25%,Dairy,1996,15.4
+Standard milk 3.25%,Dairy,1997,15.02
+Standard milk 3.25%,Dairy,1998,14.78
+Standard milk 3.25%,Dairy,1999,14.13
+Standard milk 3.25%,Dairy,2000,14.2
+Standard milk 3.25%,Dairy,2001,14.03
+Standard milk 3.25%,Dairy,2002,13.54
+Standard milk 3.25%,Dairy,2003,13.45
+Standard milk 3.25%,Dairy,2004,13.09
+Standard milk 3.25%,Dairy,2005,12.61
+Standard milk 3.25%,Dairy,2006,12.36
+Standard milk 3.25%,Dairy,2007,11.95
+Standard milk 3.25%,Dairy,2008,11.34
+Standard milk 3.25%,Dairy,2009,11.18
+Standard milk 3.25%,Dairy,2010,10.57
+Standard milk 3.25%,Dairy,2011,9.94
+Standard milk 3.25%,Dairy,2012,9.83
+Standard milk 3.25%,Dairy,2013,9.76
+Standard milk 3.25%,Dairy,2014,9.7
+Standard milk 3.25%,Dairy,2015,9.95
+Standard milk 3.25%,Dairy,2016,10.25
+Standard milk 3.25%,Dairy,2017,9.99
+Standard milk 3.25%,Dairy,2018,10.41
+Standard milk 3.25%,Dairy,2019,11.2
+"Chicken, eviscerated weight",Proteins,1988,21.95
+"Chicken, eviscerated weight",Proteins,1989,21.47
+"Chicken, eviscerated weight",Proteins,1990,22.13
+"Chicken, eviscerated weight",Proteins,1991,22.22
+"Chicken, eviscerated weight",Proteins,1992,22.31
+"Chicken, eviscerated weight",Proteins,1993,23.19
+"Chicken, eviscerated weight",Proteins,1994,25.04
+"Chicken, eviscerated weight",Proteins,1995,24.82
+"Chicken, eviscerated weight",Proteins,1996,24.9
+"Chicken, eviscerated weight",Proteins,1997,25.47
+"Chicken, eviscerated weight",Proteins,1998,26.3
+"Chicken, eviscerated weight",Proteins,1999,27.75
+"Chicken, eviscerated weight",Proteins,2000,29.12
+"Chicken, eviscerated weight",Proteins,2001,30.49
+"Chicken, eviscerated weight",Proteins,2002,30.79
+"Chicken, eviscerated weight",Proteins,2003,29.9
+"Chicken, eviscerated weight",Proteins,2004,30.41
+"Chicken, eviscerated weight",Proteins,2005,30.73
+"Chicken, eviscerated weight",Proteins,2006,30.81
+"Chicken, eviscerated weight",Proteins,2007,30.99
+"Chicken, eviscerated weight",Proteins,2008,30.77
+"Chicken, eviscerated weight",Proteins,2009,31.12
+"Chicken, eviscerated weight",Proteins,2010,30.47
+"Chicken, eviscerated weight",Proteins,2011,29.99
+"Chicken, eviscerated weight",Proteins,2012,29.73
+"Chicken, eviscerated weight",Proteins,2013,30.07
+"Chicken, eviscerated weight",Proteins,2014,31.1
+"Chicken, eviscerated weight",Proteins,2015,31.96
+"Chicken, eviscerated weight",Proteins,2016,32.67
+"Chicken, eviscerated weight",Proteins,2017,33.21
+"Chicken, eviscerated weight",Proteins,2018,34.67
+"Chicken, eviscerated weight",Proteins,2019,35.06
+Pork,Proteins,1988,21.32
+Pork,Proteins,1989,21.84
+Pork,Proteins,1990,19.87
+Pork,Proteins,1991,19.65
+Pork,Proteins,1992,21.56
+Pork,Proteins,1993,21
+Pork,Proteins,1994,21.59
+Pork,Proteins,1995,21.13
+Pork,Proteins,1996,19.76
+Pork,Proteins,1997,19.32
+Pork,Proteins,1998,21.81
+Pork,Proteins,1999,22.87
+Pork,Proteins,2000,21.81
+Pork,Proteins,2001,22.05
+Pork,Proteins,2002,21.13
+Pork,Proteins,2003,19.07
+Pork,Proteins,2004,20.4
+Pork,Proteins,2005,17.53
+Pork,Proteins,2006,17.78
+Pork,Proteins,2007,19.1
+Pork,Proteins,2008,18.16
+Pork,Proteins,2009,17.91
+Pork,Proteins,2010,16.76
+Pork,Proteins,2011,16.34
+Pork,Proteins,2012,16.97
+Pork,Proteins,2013,15.9
+Pork,Proteins,2014,15.64
+Pork,Proteins,2015,17.65
+Pork,Proteins,2016,15.8
+Pork,Proteins,2017,15.8
+Pork,Proteins,2018,16.49
+Pork,Proteins,2019,16.84
+Potatoes white fresh,Vegetables,1988,34.54
+Potatoes white fresh,Vegetables,1989,34.67
+Potatoes white fresh,Vegetables,1990,33.01
+Potatoes white fresh,Vegetables,1991,32.46
+Potatoes white fresh,Vegetables,1992,39.5
+Potatoes white fresh,Vegetables,1993,41.56
+Potatoes white fresh,Vegetables,1994,42.59
+Potatoes white fresh,Vegetables,1995,41.13
+Potatoes white fresh,Vegetables,1996,40.52
+Potatoes white fresh,Vegetables,1997,42.68
+Potatoes white fresh,Vegetables,1998,38.3
+Potatoes white fresh,Vegetables,1999,39.61
+Potatoes white fresh,Vegetables,2000,36.99
+Potatoes white fresh,Vegetables,2001,38.88
+Potatoes white fresh,Vegetables,2002,34.69
+Potatoes white fresh,Vegetables,2003,34.29
+Potatoes white fresh,Vegetables,2004,32.19
+Potatoes white fresh,Vegetables,2005,31.26
+Potatoes white fresh,Vegetables,2006,29.33
+Potatoes white fresh,Vegetables,2007,27.38
+Potatoes white fresh,Vegetables,2008,25.6
+Potatoes white fresh,Vegetables,2009,24.73
+Potatoes white fresh,Vegetables,2010,25.23
+Potatoes white fresh,Vegetables,2011,22.37
+Potatoes white fresh,Vegetables,2012,30.32
+Potatoes white fresh,Vegetables,2013,26.65
+Potatoes white fresh,Vegetables,2014,15.93
+Potatoes white fresh,Vegetables,2015,24.19
+Potatoes white fresh,Vegetables,2016,25.6
+Potatoes white fresh,Vegetables,2017,31.68
+Potatoes white fresh,Vegetables,2018,20.33
+Potatoes white fresh,Vegetables,2019,23.69
+Eggs,Proteins,1988,10.68
+Eggs,Proteins,1989,10.41
+Eggs,Proteins,1990,10.25
+Eggs,Proteins,1991,10.23
+Eggs,Proteins,1992,9.91
+Eggs,Proteins,1993,9.88
+Eggs,Proteins,1994,9.89
+Eggs,Proteins,1995,9.81
+Eggs,Proteins,1996,10.19
+Eggs,Proteins,1997,10.29
+Eggs,Proteins,1998,10.4
+Eggs,Proteins,1999,10.42
+Eggs,Proteins,2000,10.71
+Eggs,Proteins,2001,10.83
+Eggs,Proteins,2002,11.06
+Eggs,Proteins,2003,11.25
+Eggs,Proteins,2004,10.75
+Eggs,Proteins,2005,11.08
+Eggs,Proteins,2006,11.47
+Eggs,Proteins,2007,11
+Eggs,Proteins,2008,11.53
+Eggs,Proteins,2009,11.4
+Eggs,Proteins,2010,11.64
+Eggs,Proteins,2011,12.01
+Eggs,Proteins,2012,12.35
+Eggs,Proteins,2013,12.87
+Eggs,Proteins,2014,13.34
+Eggs,Proteins,2015,13.88
+Eggs,Proteins,2016,14.33
+Eggs,Proteins,2017,14.45
+Eggs,Proteins,2018,15.05
+Eggs,Proteins,2019,15.24
+Bananas fresh,Fruits,1988,12.04
+Bananas fresh,Fruits,1989,11.81
+Bananas fresh,Fruits,1990,12.3
+Bananas fresh,Fruits,1991,12.68
+Bananas fresh,Fruits,1992,13.34
+Bananas fresh,Fruits,1993,13.34
+Bananas fresh,Fruits,1994,13.31
+Bananas fresh,Fruits,1995,13.64
+Bananas fresh,Fruits,1996,13.78
+Bananas fresh,Fruits,1997,14
+Bananas fresh,Fruits,1998,13.81
+Bananas fresh,Fruits,1999,13.8
+Bananas fresh,Fruits,2000,12.99
+Bananas fresh,Fruits,2001,13.07
+Bananas fresh,Fruits,2002,13.29
+Bananas fresh,Fruits,2003,13.36
+Bananas fresh,Fruits,2004,13.85
+Bananas fresh,Fruits,2005,13.95
+Bananas fresh,Fruits,2006,14.06
+Bananas fresh,Fruits,2007,14.33
+Bananas fresh,Fruits,2008,14.35
+Bananas fresh,Fruits,2009,14.32
+Bananas fresh,Fruits,2010,14.58
+Bananas fresh,Fruits,2011,14.75
+Bananas fresh,Fruits,2012,14.77
+Bananas fresh,Fruits,2013,15.46
+Bananas fresh,Fruits,2014,15.66
+Bananas fresh,Fruits,2015,15.74
+Bananas fresh,Fruits,2016,15.78
+Bananas fresh,Fruits,2017,15.84
+Bananas fresh,Fruits,2018,15.58
+Bananas fresh,Fruits,2019,15.45
+Apples fresh,Fruits,1988,11.23
+Apples fresh,Fruits,1989,10.99
+Apples fresh,Fruits,1990,12.73
+Apples fresh,Fruits,1991,11.83
+Apples fresh,Fruits,1992,11.46
+Apples fresh,Fruits,1993,10.7
+Apples fresh,Fruits,1994,13.95
+Apples fresh,Fruits,1995,13.27
+Apples fresh,Fruits,1996,11.95
+Apples fresh,Fruits,1997,10.37
+Apples fresh,Fruits,1998,12.32
+Apples fresh,Fruits,1999,11.27
+Apples fresh,Fruits,2000,10.81
+Apples fresh,Fruits,2001,11.41
+Apples fresh,Fruits,2002,9.16
+Apples fresh,Fruits,2003,9.96
+Apples fresh,Fruits,2004,10
+Apples fresh,Fruits,2005,11.78
+Apples fresh,Fruits,2006,11.24
+Apples fresh,Fruits,2007,10.52
+Apples fresh,Fruits,2008,10.89
+Apples fresh,Fruits,2009,11.84
+Apples fresh,Fruits,2010,11.14
+Apples fresh,Fruits,2011,11.44
+Apples fresh,Fruits,2012,10.86
+Apples fresh,Fruits,2013,11.64
+Apples fresh,Fruits,2014,11.54
+Apples fresh,Fruits,2015,11.08
+Apples fresh,Fruits,2016,10.66
+Apples fresh,Fruits,2017,10.95
+Apples fresh,Fruits,2018,10.49
+Apples fresh,Fruits,2019,9.43
+Wines,Alcohol,1988,12.06
+Wines,Alcohol,1989,11.38
+Wines,Alcohol,1990,10.82
+Wines,Alcohol,1991,10.4
+Wines,Alcohol,1992,10.18
+Wines,Alcohol,1993,9.97
+Wines,Alcohol,1994,10.09
+Wines,Alcohol,1995,10.33
+Wines,Alcohol,1996,10.69
+Wines,Alcohol,1997,10.86
+Wines,Alcohol,1998,11.26
+Wines,Alcohol,1999,11.75
+Wines,Alcohol,2000,12.25
+Wines,Alcohol,2001,12.58
+Wines,Alcohol,2002,13.07
+Wines,Alcohol,2003,13.28
+Wines,Alcohol,2004,13.65
+Wines,Alcohol,2005,12.37
+Wines,Alcohol,2006,12.94
+Wines,Alcohol,2007,13.58
+Wines,Alcohol,2008,14.04
+Wines,Alcohol,2009,14.35
+Wines,Alcohol,2010,14.63
+Wines,Alcohol,2011,14.9
+Wines,Alcohol,2012,15.27
+Wines,Alcohol,2013,15.56
+Wines,Alcohol,2014,15.55
+Wines,Alcohol,2015,16.07
+Wines,Alcohol,2016,16.42
+Wines,Alcohol,2017,16.51
+Wines,Alcohol,2018,16.7
+Wines,Alcohol,2019,16.02
+Ice cream,Dairy,1988,11.73
+Ice cream,Dairy,1989,11.36
+Ice cream,Dairy,1990,11.26
+Ice cream,Dairy,1991,10.65
+Ice cream,Dairy,1992,10.02
+Ice cream,Dairy,1993,10.9
+Ice cream,Dairy,1994,11.74
+Ice cream,Dairy,1995,11.39
+Ice cream,Dairy,1996,10.87
+Ice cream,Dairy,1997,10.35
+Ice cream,Dairy,1998,10.18
+Ice cream,Dairy,1999,10.02
+Ice cream,Dairy,2000,8.62
+Ice cream,Dairy,2001,9.22
+Ice cream,Dairy,2002,9.49
+Ice cream,Dairy,2003,8.77
+Ice cream,Dairy,2004,8.41
+Ice cream,Dairy,2005,8.85
+Ice cream,Dairy,2006,9.21
+Ice cream,Dairy,2007,8.02
+Ice cream,Dairy,2008,6.89
+Ice cream,Dairy,2009,5.53
+Ice cream,Dairy,2010,5.54
+Ice cream,Dairy,2011,5.19
+Ice cream,Dairy,2012,5
+Ice cream,Dairy,2013,4.43
+Ice cream,Dairy,2014,5.16
+Ice cream,Dairy,2015,4.45
+Ice cream,Dairy,2016,4.29
+Ice cream,Dairy,2017,3.9
+Ice cream,Dairy,2018,4.02
+Ice cream,Dairy,2019,4.21
+Orange juice,Non-Alcoholic Drink,1988,9.73
+Orange juice,Non-Alcoholic Drink,1989,9.79
+Orange juice,Non-Alcoholic Drink,1990,7.81
+Orange juice,Non-Alcoholic Drink,1991,8.28
+Orange juice,Non-Alcoholic Drink,1992,8.21
+Orange juice,Non-Alcoholic Drink,1993,10.06
+Orange juice,Non-Alcoholic Drink,1994,11.85
+Orange juice,Non-Alcoholic Drink,1995,12.98
+Orange juice,Non-Alcoholic Drink,1996,14.09
+Orange juice,Non-Alcoholic Drink,1997,15.5
+Orange juice,Non-Alcoholic Drink,1998,13.33
+Orange juice,Non-Alcoholic Drink,1999,13.89
+Orange juice,Non-Alcoholic Drink,2000,14.98
+Orange juice,Non-Alcoholic Drink,2001,14.08
+Orange juice,Non-Alcoholic Drink,2002,14.1
+Orange juice,Non-Alcoholic Drink,2003,13.98
+Orange juice,Non-Alcoholic Drink,2004,14.36
+Orange juice,Non-Alcoholic Drink,2005,14.24
+Orange juice,Non-Alcoholic Drink,2006,14.12
+Orange juice,Non-Alcoholic Drink,2007,13.15
+Orange juice,Non-Alcoholic Drink,2008,12.8
+Orange juice,Non-Alcoholic Drink,2009,11.13
+Orange juice,Non-Alcoholic Drink,2010,10.98
+Orange juice,Non-Alcoholic Drink,2011,10.93
+Orange juice,Non-Alcoholic Drink,2012,10.92
+Orange juice,Non-Alcoholic Drink,2013,10.95
+Orange juice,Non-Alcoholic Drink,2014,10.69
+Orange juice,Non-Alcoholic Drink,2015,10.09
+Orange juice,Non-Alcoholic Drink,2016,9.69
+Orange juice,Non-Alcoholic Drink,2017,9.01
+Orange juice,Non-Alcoholic Drink,2018,9.07
+Orange juice,Non-Alcoholic Drink,2019,8.7
+Oranges fresh,Fruits,1988,9.09
+Oranges fresh,Fruits,1989,9.6
+Oranges fresh,Fruits,1990,9.71
+Oranges fresh,Fruits,1991,7.4
+Oranges fresh,Fruits,1992,9.55
+Oranges fresh,Fruits,1993,10.17
+Oranges fresh,Fruits,1994,9.32
+Oranges fresh,Fruits,1995,9.02
+Oranges fresh,Fruits,1996,9.23
+Oranges fresh,Fruits,1997,9.99
+Oranges fresh,Fruits,1998,10.12
+Oranges fresh,Fruits,1999,7.66
+Oranges fresh,Fruits,2000,9.43
+Oranges fresh,Fruits,2001,8.7
+Oranges fresh,Fruits,2002,9.24
+Oranges fresh,Fruits,2003,9.72
+Oranges fresh,Fruits,2004,9.36
+Oranges fresh,Fruits,2005,9.93
+Oranges fresh,Fruits,2006,9.53
+Oranges fresh,Fruits,2007,8.63
+Oranges fresh,Fruits,2008,9.52
+Oranges fresh,Fruits,2009,8.94
+Oranges fresh,Fruits,2010,9.27
+Oranges fresh,Fruits,2011,9.29
+Oranges fresh,Fruits,2012,9.03
+Oranges fresh,Fruits,2013,9.02
+Oranges fresh,Fruits,2014,8.34
+Oranges fresh,Fruits,2015,9.08
+Oranges fresh,Fruits,2016,9.46
+Oranges fresh,Fruits,2017,8.81
+Oranges fresh,Fruits,2018,8.78
+Oranges fresh,Fruits,2019,8.49
+Lettuce fresh,Vegetables,1988,7.83
+Lettuce fresh,Vegetables,1989,8.21
+Lettuce fresh,Vegetables,1990,8.73
+Lettuce fresh,Vegetables,1991,10.39
+Lettuce fresh,Vegetables,1992,10.46
+Lettuce fresh,Vegetables,1993,10.22
+Lettuce fresh,Vegetables,1994,9.8
+Lettuce fresh,Vegetables,1995,9.47
+Lettuce fresh,Vegetables,1996,9.38
+Lettuce fresh,Vegetables,1997,10.29
+Lettuce fresh,Vegetables,1998,10.84
+Lettuce fresh,Vegetables,1999,10.67
+Lettuce fresh,Vegetables,2000,10.32
+Lettuce fresh,Vegetables,2001,11.15
+Lettuce fresh,Vegetables,2002,11.7
+Lettuce fresh,Vegetables,2003,11.46
+Lettuce fresh,Vegetables,2004,10.99
+Lettuce fresh,Vegetables,2005,11.11
+Lettuce fresh,Vegetables,2006,10.6
+Lettuce fresh,Vegetables,2007,10.06
+Lettuce fresh,Vegetables,2008,9.67
+Lettuce fresh,Vegetables,2009,9.42
+Lettuce fresh,Vegetables,2010,9.63
+Lettuce fresh,Vegetables,2011,9.52
+Lettuce fresh,Vegetables,2012,9.23
+Lettuce fresh,Vegetables,2013,9.14
+Lettuce fresh,Vegetables,2014,8.74
+Lettuce fresh,Vegetables,2015,8.59
+Lettuce fresh,Vegetables,2016,8.65
+Lettuce fresh,Vegetables,2017,8.48
+Lettuce fresh,Vegetables,2018,8.2
+Lettuce fresh,Vegetables,2019,8.2
+Shortening and shortening oils,"Fats, Oils, Sweets",1988,8.39
+Shortening and shortening oils,"Fats, Oils, Sweets",1989,8.26
+Shortening and shortening oils,"Fats, Oils, Sweets",1990,8.71
+Shortening and shortening oils,"Fats, Oils, Sweets",1991,9.44
+Shortening and shortening oils,"Fats, Oils, Sweets",1992,10.72
+Shortening and shortening oils,"Fats, Oils, Sweets",1993,10.74
+Shortening and shortening oils,"Fats, Oils, Sweets",1994,11.81
+Shortening and shortening oils,"Fats, Oils, Sweets",1995,11.78
+Shortening and shortening oils,"Fats, Oils, Sweets",1996,10.65
+Shortening and shortening oils,"Fats, Oils, Sweets",1997,10.44
+Shortening and shortening oils,"Fats, Oils, Sweets",1998,10.93
+Shortening and shortening oils,"Fats, Oils, Sweets",1999,10.31
+Shortening and shortening oils,"Fats, Oils, Sweets",2000,10.16
+Shortening and shortening oils,"Fats, Oils, Sweets",2001,10.23
+Shortening and shortening oils,"Fats, Oils, Sweets",2002,9.88
+Shortening and shortening oils,"Fats, Oils, Sweets",2003,9.69
+Shortening and shortening oils,"Fats, Oils, Sweets",2004,8.75
+Shortening and shortening oils,"Fats, Oils, Sweets",2005,8.87
+Shortening and shortening oils,"Fats, Oils, Sweets",2006,8.24
+Shortening and shortening oils,"Fats, Oils, Sweets",2007,8.19
+Shortening and shortening oils,"Fats, Oils, Sweets",2008,7.87
+Shortening and shortening oils,"Fats, Oils, Sweets",2009,7.74
+Shortening and shortening oils,"Fats, Oils, Sweets",2010,7.34
+Shortening and shortening oils,"Fats, Oils, Sweets",2011,7.2
+Shortening and shortening oils,"Fats, Oils, Sweets",2012,6.9
+Shortening and shortening oils,"Fats, Oils, Sweets",2013,6.65
+Shortening and shortening oils,"Fats, Oils, Sweets",2014,6.43
+Shortening and shortening oils,"Fats, Oils, Sweets",2015,6.12
+Shortening and shortening oils,"Fats, Oils, Sweets",2016,5.89
+Shortening and shortening oils,"Fats, Oils, Sweets",2017,5.79
+Shortening and shortening oils,"Fats, Oils, Sweets",2018,5.31
+Shortening and shortening oils,"Fats, Oils, Sweets",2019,5.26
+Salad oils,"Fats, Oils, Sweets",1988,5.91
+Salad oils,"Fats, Oils, Sweets",1989,6.17
+Salad oils,"Fats, Oils, Sweets",1990,6.16
+Salad oils,"Fats, Oils, Sweets",1991,5.82
+Salad oils,"Fats, Oils, Sweets",1992,4.95
+Salad oils,"Fats, Oils, Sweets",1993,6.19
+Salad oils,"Fats, Oils, Sweets",1994,6.67
+Salad oils,"Fats, Oils, Sweets",1995,7.32
+Salad oils,"Fats, Oils, Sweets",1996,9.61
+Salad oils,"Fats, Oils, Sweets",1997,11.45
+Salad oils,"Fats, Oils, Sweets",1998,11.99
+Salad oils,"Fats, Oils, Sweets",1999,12.53
+Salad oils,"Fats, Oils, Sweets",2000,12.73
+Salad oils,"Fats, Oils, Sweets",2001,12.97
+Salad oils,"Fats, Oils, Sweets",2002,12.55
+Salad oils,"Fats, Oils, Sweets",2003,12.44
+Salad oils,"Fats, Oils, Sweets",2004,12.55
+Salad oils,"Fats, Oils, Sweets",2005,12.48
+Salad oils,"Fats, Oils, Sweets",2006,12.38
+Salad oils,"Fats, Oils, Sweets",2007,12.39
+Salad oils,"Fats, Oils, Sweets",2008,12.89
+Salad oils,"Fats, Oils, Sweets",2009,13.13
+Salad oils,"Fats, Oils, Sweets",2010,13.31
+Salad oils,"Fats, Oils, Sweets",2011,13.37
+Salad oils,"Fats, Oils, Sweets",2012,13.9
+Salad oils,"Fats, Oils, Sweets",2013,14.07
+Salad oils,"Fats, Oils, Sweets",2014,14.23
+Salad oils,"Fats, Oils, Sweets",2015,14.23
+Salad oils,"Fats, Oils, Sweets",2016,14.65
+Salad oils,"Fats, Oils, Sweets",2017,15.3
+Salad oils,"Fats, Oils, Sweets",2018,15.91
+Salad oils,"Fats, Oils, Sweets",2019,16.73
+Potatoes total processed,Vegetables,1988,13.91
+Potatoes total processed,Vegetables,1989,13.81
+Potatoes total processed,Vegetables,1990,13.95
+Potatoes total processed,Vegetables,1991,14.28
+Potatoes total processed,Vegetables,1992,13.7
+Potatoes total processed,Vegetables,1993,14.28
+Potatoes total processed,Vegetables,1994,14.09
+Potatoes total processed,Vegetables,1995,13.6
+Potatoes total processed,Vegetables,1996,13.77
+Potatoes total processed,Vegetables,1997,13.92
+Potatoes total processed,Vegetables,1998,13.97
+Potatoes total processed,Vegetables,1999,14.09
+Potatoes total processed,Vegetables,2000,14.58
+Potatoes total processed,Vegetables,2001,14.82
+Potatoes total processed,Vegetables,2002,14.84
+Potatoes total processed,Vegetables,2003,14.32
+Potatoes total processed,Vegetables,2004,14.8
+Potatoes total processed,Vegetables,2005,14.92
+Potatoes total processed,Vegetables,2006,15.58
+Potatoes total processed,Vegetables,2007,15.31
+Potatoes total processed,Vegetables,2008,14.45
+Potatoes total processed,Vegetables,2009,14.12
+Potatoes total processed,Vegetables,2010,15
+Potatoes total processed,Vegetables,2011,12.73
+Potatoes total processed,Vegetables,2012,15.29
+Potatoes total processed,Vegetables,2013,14.58
+Potatoes total processed,Vegetables,2014,13.8
+Potatoes total processed,Vegetables,2015,14.18
+Potatoes total processed,Vegetables,2016,14.31
+Potatoes total processed,Vegetables,2017,13.57
+Potatoes total processed,Vegetables,2018,11.78
+Potatoes total processed,Vegetables,2019,13.92
+Carrots fresh,Vegetables,1988,8.02
+Carrots fresh,Vegetables,1989,7.83
+Carrots fresh,Vegetables,1990,10.07
+Carrots fresh,Vegetables,1991,8.21
+Carrots fresh,Vegetables,1992,9.35
+Carrots fresh,Vegetables,1993,9.05
+Carrots fresh,Vegetables,1994,9.65
+Carrots fresh,Vegetables,1995,7.31
+Carrots fresh,Vegetables,1996,8.72
+Carrots fresh,Vegetables,1997,7.49
+Carrots fresh,Vegetables,1998,9.23
+Carrots fresh,Vegetables,1999,8.06
+Carrots fresh,Vegetables,2000,8.44
+Carrots fresh,Vegetables,2001,8.67
+Carrots fresh,Vegetables,2002,7.36
+Carrots fresh,Vegetables,2003,7.96
+Carrots fresh,Vegetables,2004,7.13
+Carrots fresh,Vegetables,2005,9.21
+Carrots fresh,Vegetables,2006,6.64
+Carrots fresh,Vegetables,2007,6.62
+Carrots fresh,Vegetables,2008,6.19
+Carrots fresh,Vegetables,2009,7.12
+Carrots fresh,Vegetables,2010,9.43
+Carrots fresh,Vegetables,2011,9.08
+Carrots fresh,Vegetables,2012,9.07
+Carrots fresh,Vegetables,2013,7.89
+Carrots fresh,Vegetables,2014,6.79
+Carrots fresh,Vegetables,2015,8.72
+Carrots fresh,Vegetables,2016,7.75
+Carrots fresh,Vegetables,2017,7.2
+Carrots fresh,Vegetables,2018,7.27
+Carrots fresh,Vegetables,2019,6.43
+Partly skimmed milk 1%,Dairy,1988,5.1
+Partly skimmed milk 1%,Dairy,1989,5.62
+Partly skimmed milk 1%,Dairy,1990,5.85
+Partly skimmed milk 1%,Dairy,1991,8.52
+Partly skimmed milk 1%,Dairy,1992,10.2
+Partly skimmed milk 1%,Dairy,1993,11.12
+Partly skimmed milk 1%,Dairy,1994,13
+Partly skimmed milk 1%,Dairy,1995,14.32
+Partly skimmed milk 1%,Dairy,1996,15.46
+Partly skimmed milk 1%,Dairy,1997,16.19
+Partly skimmed milk 1%,Dairy,1998,16.41
+Partly skimmed milk 1%,Dairy,1999,16.56
+Partly skimmed milk 1%,Dairy,2000,17.26
+Partly skimmed milk 1%,Dairy,2001,17.21
+Partly skimmed milk 1%,Dairy,2002,17.25
+Partly skimmed milk 1%,Dairy,2003,17.46
+Partly skimmed milk 1%,Dairy,2004,17.91
+Partly skimmed milk 1%,Dairy,2005,17.88
+Partly skimmed milk 1%,Dairy,2006,18.12
+Partly skimmed milk 1%,Dairy,2007,18.2
+Partly skimmed milk 1%,Dairy,2008,18.18
+Partly skimmed milk 1%,Dairy,2009,18.16
+Partly skimmed milk 1%,Dairy,2010,17.8
+Partly skimmed milk 1%,Dairy,2011,17.2
+Partly skimmed milk 1%,Dairy,2012,16.73
+Partly skimmed milk 1%,Dairy,2013,16
+Partly skimmed milk 1%,Dairy,2014,14.97
+Partly skimmed milk 1%,Dairy,2015,14.12
+Partly skimmed milk 1%,Dairy,2016,13.4
+Partly skimmed milk 1%,Dairy,2017,12.38
+Partly skimmed milk 1%,Dairy,2018,11.92
+Partly skimmed milk 1%,Dairy,2019,10.9
+Distilled spirits,Alcohol,1988,7.49
+Distilled spirits,Alcohol,1989,7.05
+Distilled spirits,Alcohol,1990,6.55
+Distilled spirits,Alcohol,1991,6.15
+Distilled spirits,Alcohol,1992,5.73
+Distilled spirits,Alcohol,1993,5.58
+Distilled spirits,Alcohol,1994,5.52
+Distilled spirits,Alcohol,1995,5.49
+Distilled spirits,Alcohol,1996,5.5
+Distilled spirits,Alcohol,1997,5.78
+Distilled spirits,Alcohol,1998,6.1
+Distilled spirits,Alcohol,1999,6.55
+Distilled spirits,Alcohol,2000,6.72
+Distilled spirits,Alcohol,2001,7.59
+Distilled spirits,Alcohol,2002,8.06
+Distilled spirits,Alcohol,2003,8
+Distilled spirits,Alcohol,2004,7.94
+Distilled spirits,Alcohol,2005,7.95
+Distilled spirits,Alcohol,2006,5.38
+Distilled spirits,Alcohol,2007,5.48
+Distilled spirits,Alcohol,2008,5.54
+Distilled spirits,Alcohol,2009,5.54
+Distilled spirits,Alcohol,2010,5.4
+Distilled spirits,Alcohol,2011,5.4
+Distilled spirits,Alcohol,2012,5.43
+Distilled spirits,Alcohol,2013,5.46
+Distilled spirits,Alcohol,2014,5.31
+Distilled spirits,Alcohol,2015,5.35
+Distilled spirits,Alcohol,2016,5.43
+Distilled spirits,Alcohol,2017,5.5
+Distilled spirits,Alcohol,2018,5.53
+Distilled spirits,Alcohol,2019,5.52
+Onions and shallots fresh,Vegetables,1988,6.82
+Onions and shallots fresh,Vegetables,1989,6.66
+Onions and shallots fresh,Vegetables,1990,6.45
+Onions and shallots fresh,Vegetables,1991,6.47
+Onions and shallots fresh,Vegetables,1992,6.8
+Onions and shallots fresh,Vegetables,1993,9.17
+Onions and shallots fresh,Vegetables,1994,6.49
+Onions and shallots fresh,Vegetables,1995,8.21
+Onions and shallots fresh,Vegetables,1996,8.33
+Onions and shallots fresh,Vegetables,1997,7.96
+Onions and shallots fresh,Vegetables,1998,8.53
+Onions and shallots fresh,Vegetables,1999,7.96
+Onions and shallots fresh,Vegetables,2000,8.27
+Onions and shallots fresh,Vegetables,2001,8.5
+Onions and shallots fresh,Vegetables,2002,6.62
+Onions and shallots fresh,Vegetables,2003,6.8
+Onions and shallots fresh,Vegetables,2004,6.66
+Onions and shallots fresh,Vegetables,2005,8.25
+Onions and shallots fresh,Vegetables,2006,8.14
+Onions and shallots fresh,Vegetables,2007,8.41
+Onions and shallots fresh,Vegetables,2008,6.11
+Onions and shallots fresh,Vegetables,2009,8.58
+Onions and shallots fresh,Vegetables,2010,8.64
+Onions and shallots fresh,Vegetables,2011,9.09
+Onions and shallots fresh,Vegetables,2012,9.04
+Onions and shallots fresh,Vegetables,2013,8.71
+Onions and shallots fresh,Vegetables,2014,9.17
+Onions and shallots fresh,Vegetables,2015,9.43
+Onions and shallots fresh,Vegetables,2016,8.77
+Onions and shallots fresh,Vegetables,2017,8.68
+Onions and shallots fresh,Vegetables,2018,8.45
+Onions and shallots fresh,Vegetables,2019,9.3
+Tomatoes fresh,Vegetables,1988,6.75
+Tomatoes fresh,Vegetables,1989,6.54
+Tomatoes fresh,Vegetables,1990,6.2
+Tomatoes fresh,Vegetables,1991,6.22
+Tomatoes fresh,Vegetables,1992,6.94
+Tomatoes fresh,Vegetables,1993,7.66
+Tomatoes fresh,Vegetables,1994,7.59
+Tomatoes fresh,Vegetables,1995,7.66
+Tomatoes fresh,Vegetables,1996,7.37
+Tomatoes fresh,Vegetables,1997,7.46
+Tomatoes fresh,Vegetables,1998,6.86
+Tomatoes fresh,Vegetables,1999,7.53
+Tomatoes fresh,Vegetables,2000,7.72
+Tomatoes fresh,Vegetables,2001,8.43
+Tomatoes fresh,Vegetables,2002,8.29
+Tomatoes fresh,Vegetables,2003,7.42
+Tomatoes fresh,Vegetables,2004,7.76
+Tomatoes fresh,Vegetables,2005,7.45
+Tomatoes fresh,Vegetables,2006,7.4
+Tomatoes fresh,Vegetables,2007,7.95
+Tomatoes fresh,Vegetables,2008,7.71
+Tomatoes fresh,Vegetables,2009,7.79
+Tomatoes fresh,Vegetables,2010,7.6
+Tomatoes fresh,Vegetables,2011,8.27
+Tomatoes fresh,Vegetables,2012,8.48
+Tomatoes fresh,Vegetables,2013,8.48
+Tomatoes fresh,Vegetables,2014,8.59
+Tomatoes fresh,Vegetables,2015,8.13
+Tomatoes fresh,Vegetables,2016,8.15
+Tomatoes fresh,Vegetables,2017,7.88
+Tomatoes fresh,Vegetables,2018,8.39
+Tomatoes fresh,Vegetables,2019,7.98
+Melons total fresh,Fruits,1988,4.09
+Melons total fresh,Fruits,1989,3.41
+Melons total fresh,Fruits,1990,3.59
+Melons total fresh,Fruits,1991,3.73
+Melons total fresh,Fruits,1992,5.98
+Melons total fresh,Fruits,1993,6.2
+Melons total fresh,Fruits,1994,6.51
+Melons total fresh,Fruits,1995,6.7
+Melons total fresh,Fruits,1996,7.32
+Melons total fresh,Fruits,1997,7.65
+Melons total fresh,Fruits,1998,7.6
+Melons total fresh,Fruits,1999,8.65
+Melons total fresh,Fruits,2000,8.4
+Melons total fresh,Fruits,2001,7.93
+Melons total fresh,Fruits,2002,9.31
+Melons total fresh,Fruits,2003,9.81
+Melons total fresh,Fruits,2004,10.51
+Melons total fresh,Fruits,2005,10.08
+Melons total fresh,Fruits,2006,10.63
+Melons total fresh,Fruits,2007,10.69
+Melons total fresh,Fruits,2008,10.13
+Melons total fresh,Fruits,2009,10.11
+Melons total fresh,Fruits,2010,10.1
+Melons total fresh,Fruits,2011,10.47
+Melons total fresh,Fruits,2012,10.22
+Melons total fresh,Fruits,2013,10.44
+Melons total fresh,Fruits,2014,10.19
+Melons total fresh,Fruits,2015,10.64
+Melons total fresh,Fruits,2016,10.91
+Melons total fresh,Fruits,2017,10.46
+Melons total fresh,Fruits,2018,10.56
+Melons total fresh,Fruits,2019,9.98
+Apple juice,Non-Alcoholic Drink,1988,10.54
+Apple juice,Non-Alcoholic Drink,1989,9.77
+Apple juice,Non-Alcoholic Drink,1990,8.83
+Apple juice,Non-Alcoholic Drink,1991,8.67
+Apple juice,Non-Alcoholic Drink,1992,10.08
+Apple juice,Non-Alcoholic Drink,1993,8.53
+Apple juice,Non-Alcoholic Drink,1994,10.27
+Apple juice,Non-Alcoholic Drink,1995,8.86
+Apple juice,Non-Alcoholic Drink,1996,7.28
+Apple juice,Non-Alcoholic Drink,1997,6.64
+Apple juice,Non-Alcoholic Drink,1998,7.01
+Apple juice,Non-Alcoholic Drink,1999,7.4
+Apple juice,Non-Alcoholic Drink,2000,7.13
+Apple juice,Non-Alcoholic Drink,2001,4.77
+Apple juice,Non-Alcoholic Drink,2002,6.23
+Apple juice,Non-Alcoholic Drink,2003,6.18
+Apple juice,Non-Alcoholic Drink,2004,6.21
+Apple juice,Non-Alcoholic Drink,2005,6.44
+Apple juice,Non-Alcoholic Drink,2006,5.74
+Apple juice,Non-Alcoholic Drink,2007,6
+Apple juice,Non-Alcoholic Drink,2008,5.54
+Apple juice,Non-Alcoholic Drink,2009,5.85
+Apple juice,Non-Alcoholic Drink,2010,5.59
+Apple juice,Non-Alcoholic Drink,2011,5.21
+Apple juice,Non-Alcoholic Drink,2012,4.63
+Apple juice,Non-Alcoholic Drink,2013,4.74
+Apple juice,Non-Alcoholic Drink,2014,4.73
+Apple juice,Non-Alcoholic Drink,2015,4.53
+Apple juice,Non-Alcoholic Drink,2016,4.44
+Apple juice,Non-Alcoholic Drink,2017,4.35
+Apple juice,Non-Alcoholic Drink,2018,4.1
+Apple juice,Non-Alcoholic Drink,2019,3.71
+Skim milk,Dairy,1988,5.43
+Skim milk,Dairy,1989,5.79
+Skim milk,Dairy,1990,6.33
+Skim milk,Dairy,1991,6.37
+Skim milk,Dairy,1992,6.26
+Skim milk,Dairy,1993,6.19
+Skim milk,Dairy,1994,6.6
+Skim milk,Dairy,1995,7.3
+Skim milk,Dairy,1996,7.76
+Skim milk,Dairy,1997,8.05
+Skim milk,Dairy,1998,8.22
+Skim milk,Dairy,1999,8.37
+Skim milk,Dairy,2000,8.59
+Skim milk,Dairy,2001,8.73
+Skim milk,Dairy,2002,8.83
+Skim milk,Dairy,2003,8.54
+Skim milk,Dairy,2004,8.64
+Skim milk,Dairy,2005,8.75
+Skim milk,Dairy,2006,8.71
+Skim milk,Dairy,2007,8.76
+Skim milk,Dairy,2008,8.69
+Skim milk,Dairy,2009,8.61
+Skim milk,Dairy,2010,8.32
+Skim milk,Dairy,2011,8.14
+Skim milk,Dairy,2012,7.79
+Skim milk,Dairy,2013,7.18
+Skim milk,Dairy,2014,6.42
+Skim milk,Dairy,2015,5.62
+Skim milk,Dairy,2016,5.07
+Skim milk,Dairy,2017,4.75
+Skim milk,Dairy,2018,4.57
+Skim milk,Dairy,2019,3.74
+Grapes fresh,Fruits,1988,5.17
+Grapes fresh,Fruits,1989,5.49
+Grapes fresh,Fruits,1990,6.1
+Grapes fresh,Fruits,1991,5.49
+Grapes fresh,Fruits,1992,4.99
+Grapes fresh,Fruits,1993,5.1
+Grapes fresh,Fruits,1994,4.68
+Grapes fresh,Fruits,1995,4.72
+Grapes fresh,Fruits,1996,4.21
+Grapes fresh,Fruits,1997,4.43
+Grapes fresh,Fruits,1998,3.88
+Grapes fresh,Fruits,1999,3.97
+Grapes fresh,Fruits,2000,4.54
+Grapes fresh,Fruits,2001,4.19
+Grapes fresh,Fruits,2002,4.67
+Grapes fresh,Fruits,2003,4.75
+Grapes fresh,Fruits,2004,4.79
+Grapes fresh,Fruits,2005,5.2
+Grapes fresh,Fruits,2006,4.85
+Grapes fresh,Fruits,2007,5.09
+Grapes fresh,Fruits,2008,5.29
+Grapes fresh,Fruits,2009,5.01
+Grapes fresh,Fruits,2010,5.07
+Grapes fresh,Fruits,2011,4.73
+Grapes fresh,Fruits,2012,4.68
+Grapes fresh,Fruits,2013,4.82
+Grapes fresh,Fruits,2014,4.46
+Grapes fresh,Fruits,2015,4.62
+Grapes fresh,Fruits,2016,4.31
+Grapes fresh,Fruits,2017,4.39
+Grapes fresh,Fruits,2018,4.57
+Grapes fresh,Fruits,2019,4.51
+Cabbage fresh,Vegetables,1988,4.62
+Cabbage fresh,Vegetables,1989,4.78
+Cabbage fresh,Vegetables,1990,5.35
+Cabbage fresh,Vegetables,1991,4.85
+Cabbage fresh,Vegetables,1992,5.07
+Cabbage fresh,Vegetables,1993,5.19
+Cabbage fresh,Vegetables,1994,4.92
+Cabbage fresh,Vegetables,1995,5.61
+Cabbage fresh,Vegetables,1996,5.34
+Cabbage fresh,Vegetables,1997,5.27
+Cabbage fresh,Vegetables,1998,5.93
+Cabbage fresh,Vegetables,1999,5.71
+Cabbage fresh,Vegetables,2000,5.48
+Cabbage fresh,Vegetables,2001,4.81
+Cabbage fresh,Vegetables,2002,4.86
+Cabbage fresh,Vegetables,2003,4.13
+Cabbage fresh,Vegetables,2004,5.18
+Cabbage fresh,Vegetables,2005,4.81
+Cabbage fresh,Vegetables,2006,3.55
+Cabbage fresh,Vegetables,2007,3.14
+Cabbage fresh,Vegetables,2008,3.62
+Cabbage fresh,Vegetables,2009,4.28
+Cabbage fresh,Vegetables,2010,3.61
+Cabbage fresh,Vegetables,2011,4.18
+Cabbage fresh,Vegetables,2012,4.57
+Cabbage fresh,Vegetables,2013,4.38
+Cabbage fresh,Vegetables,2014,4.42
+Cabbage fresh,Vegetables,2015,4.36
+Cabbage fresh,Vegetables,2016,4.31
+Cabbage fresh,Vegetables,2017,4
+Cabbage fresh,Vegetables,2018,4.27
+Cabbage fresh,Vegetables,2019,4.5
+Margarine,Dairy,1988,5.6
+Margarine,Dairy,1989,5.59
+Margarine,Dairy,1990,5.45
+Margarine,Dairy,1991,5.55
+Margarine,Dairy,1992,5.22
+Margarine,Dairy,1993,4.89
+Margarine,Dairy,1994,4.34
+Margarine,Dairy,1995,5.14
+Margarine,Dairy,1996,5.33
+Margarine,Dairy,1997,5.39
+Margarine,Dairy,1998,5.35
+Margarine,Dairy,1999,5.2
+Margarine,Dairy,2000,5.02
+Margarine,Dairy,2001,4.89
+Margarine,Dairy,2002,4.72
+Margarine,Dairy,2003,4.5
+Margarine,Dairy,2004,4.3
+Margarine,Dairy,2005,4.13
+Margarine,Dairy,2006,3.96
+Margarine,Dairy,2007,3.94
+Margarine,Dairy,2008,3.78
+Margarine,Dairy,2009,3.72
+Margarine,Dairy,2010,3.53
+Margarine,Dairy,2011,3.5
+Margarine,Dairy,2012,3.37
+Margarine,Dairy,2013,3.17
+Margarine,Dairy,2014,3.04
+Margarine,Dairy,2015,2.97
+Margarine,Dairy,2016,2.89
+Margarine,Dairy,2017,2.78
+Margarine,Dairy,2018,2.65
+Margarine,Dairy,2019,2.58
+Variety cheese,Dairy,1988,4.77
+Variety cheese,Dairy,1989,4.82
+Variety cheese,Dairy,1990,4.88
+Variety cheese,Dairy,1991,5.3
+Variety cheese,Dairy,1992,5.4
+Variety cheese,Dairy,1993,5.45
+Variety cheese,Dairy,1994,5.6
+Variety cheese,Dairy,1995,5.63
+Variety cheese,Dairy,1996,5.66
+Variety cheese,Dairy,1997,6.53
+Variety cheese,Dairy,1998,6.34
+Variety cheese,Dairy,1999,6.22
+Variety cheese,Dairy,2000,6.56
+Variety cheese,Dairy,2001,6.28
+Variety cheese,Dairy,2002,6.45
+Variety cheese,Dairy,2003,6.4
+Variety cheese,Dairy,2004,6.72
+Variety cheese,Dairy,2005,6.57
+Variety cheese,Dairy,2006,6.57
+Variety cheese,Dairy,2007,7.05
+Variety cheese,Dairy,2008,7.07
+Variety cheese,Dairy,2009,7.02
+Variety cheese,Dairy,2010,6.88
+Variety cheese,Dairy,2011,7.08
+Variety cheese,Dairy,2012,7.06
+Variety cheese,Dairy,2013,6.79
+Variety cheese,Dairy,2014,7.18
+Variety cheese,Dairy,2015,7.3
+Variety cheese,Dairy,2016,7.92
+Variety cheese,Dairy,2017,8.03
+Variety cheese,Dairy,2018,8.08
+Variety cheese,Dairy,2019,8.51
+Butter,Dairy,1988,3.71
+Butter,Dairy,1989,3.47
+Butter,Dairy,1990,3.28
+Butter,Dairy,1991,2.99
+Butter,Dairy,1992,2.8
+Butter,Dairy,1993,2.88
+Butter,Dairy,1994,2.89
+Butter,Dairy,1995,2.76
+Butter,Dairy,1996,2.86
+Butter,Dairy,1997,2.61
+Butter,Dairy,1998,2.88
+Butter,Dairy,1999,2.83
+Butter,Dairy,2000,2.75
+Butter,Dairy,2001,2.81
+Butter,Dairy,2002,2.89
+Butter,Dairy,2003,2.89
+Butter,Dairy,2004,3.03
+Butter,Dairy,2005,2.79
+Butter,Dairy,2006,2.7
+Butter,Dairy,2007,2.59
+Butter,Dairy,2008,2.62
+Butter,Dairy,2009,2.67
+Butter,Dairy,2010,2.69
+Butter,Dairy,2011,2.84
+Butter,Dairy,2012,2.79
+Butter,Dairy,2013,2.63
+Butter,Dairy,2014,2.72
+Butter,Dairy,2015,2.69
+Butter,Dairy,2016,3.15
+Butter,Dairy,2017,3.15
+Butter,Dairy,2018,3.25
+Butter,Dairy,2019,3.67
+Breakfast food,"Bread, Cereal, Rice, Pasta",1988,4.2
+Breakfast food,"Bread, Cereal, Rice, Pasta",1989,4.2
+Breakfast food,"Bread, Cereal, Rice, Pasta",1990,4.87
+Breakfast food,"Bread, Cereal, Rice, Pasta",1991,3.96
+Breakfast food,"Bread, Cereal, Rice, Pasta",1992,4.48
+Breakfast food,"Bread, Cereal, Rice, Pasta",1993,5.3
+Breakfast food,"Bread, Cereal, Rice, Pasta",1994,4.79
+Breakfast food,"Bread, Cereal, Rice, Pasta",1995,5.1
+Breakfast food,"Bread, Cereal, Rice, Pasta",1996,5.06
+Breakfast food,"Bread, Cereal, Rice, Pasta",1997,5.3
+Breakfast food,"Bread, Cereal, Rice, Pasta",1998,5.34
+Breakfast food,"Bread, Cereal, Rice, Pasta",1999,5.33
+Breakfast food,"Bread, Cereal, Rice, Pasta",2000,5.28
+Breakfast food,"Bread, Cereal, Rice, Pasta",2001,5.15
+Breakfast food,"Bread, Cereal, Rice, Pasta",2002,5.16
+Breakfast food,"Bread, Cereal, Rice, Pasta",2003,5.28
+Breakfast food,"Bread, Cereal, Rice, Pasta",2004,5.33
+Breakfast food,"Bread, Cereal, Rice, Pasta",2005,5.56
+Breakfast food,"Bread, Cereal, Rice, Pasta",2006,5.55
+Breakfast food,"Bread, Cereal, Rice, Pasta",2007,5.67
+Breakfast food,"Bread, Cereal, Rice, Pasta",2008,5.71
+Breakfast food,"Bread, Cereal, Rice, Pasta",2009,5.76
+Breakfast food,"Bread, Cereal, Rice, Pasta",2010,5.64
+Breakfast food,"Bread, Cereal, Rice, Pasta",2011,5.52
+Breakfast food,"Bread, Cereal, Rice, Pasta",2012,5.45
+Breakfast food,"Bread, Cereal, Rice, Pasta",2013,5.18
+Breakfast food,"Bread, Cereal, Rice, Pasta",2014,5.09
+Breakfast food,"Bread, Cereal, Rice, Pasta",2015,5.11
+Breakfast food,"Bread, Cereal, Rice, Pasta",2016,5.07
+Breakfast food,"Bread, Cereal, Rice, Pasta",2017,4.99
+Breakfast food,"Bread, Cereal, Rice, Pasta",2018,4.84
+Breakfast food,"Bread, Cereal, Rice, Pasta",2019,4.65
+"Turkey, eviscerated weight",Proteins,1988,4.35
+"Turkey, eviscerated weight",Proteins,1989,4.46
+"Turkey, eviscerated weight",Proteins,1990,4.51
+"Turkey, eviscerated weight",Proteins,1991,4.54
+"Turkey, eviscerated weight",Proteins,1992,4.55
+"Turkey, eviscerated weight",Proteins,1993,4.36
+"Turkey, eviscerated weight",Proteins,1994,4.41
+"Turkey, eviscerated weight",Proteins,1995,4.32
+"Turkey, eviscerated weight",Proteins,1996,4.12
+"Turkey, eviscerated weight",Proteins,1997,4.23
+"Turkey, eviscerated weight",Proteins,1998,4.28
+"Turkey, eviscerated weight",Proteins,1999,4.17
+"Turkey, eviscerated weight",Proteins,2000,4.26
+"Turkey, eviscerated weight",Proteins,2001,4.22
+"Turkey, eviscerated weight",Proteins,2002,4.22
+"Turkey, eviscerated weight",Proteins,2003,4.12
+"Turkey, eviscerated weight",Proteins,2004,4.17
+"Turkey, eviscerated weight",Proteins,2005,4.43
+"Turkey, eviscerated weight",Proteins,2006,4.31
+"Turkey, eviscerated weight",Proteins,2007,4.33
+"Turkey, eviscerated weight",Proteins,2008,4.58
+"Turkey, eviscerated weight",Proteins,2009,4.49
+"Turkey, eviscerated weight",Proteins,2010,4.34
+"Turkey, eviscerated weight",Proteins,2011,4.24
+"Turkey, eviscerated weight",Proteins,2012,4.08
+"Turkey, eviscerated weight",Proteins,2013,4.13
+"Turkey, eviscerated weight",Proteins,2014,4
+"Turkey, eviscerated weight",Proteins,2015,4.17
+"Turkey, eviscerated weight",Proteins,2016,4.27
+"Turkey, eviscerated weight",Proteins,2017,4.18
+"Turkey, eviscerated weight",Proteins,2018,4.28
+"Turkey, eviscerated weight",Proteins,2019,3.93
+Chocolate and other flavoured milk,Dairy,1988,3.99
+Chocolate and other flavoured milk,Dairy,1989,3.92
+Chocolate and other flavoured milk,Dairy,1990,3.9
+Chocolate and other flavoured milk,Dairy,1991,3.42
+Chocolate and other flavoured milk,Dairy,1992,3.28
+Chocolate and other flavoured milk,Dairy,1993,3.38
+Chocolate and other flavoured milk,Dairy,1994,3.81
+Chocolate and other flavoured milk,Dairy,1995,4.03
+Chocolate and other flavoured milk,Dairy,1996,3.95
+Chocolate and other flavoured milk,Dairy,1997,4.02
+Chocolate and other flavoured milk,Dairy,1998,4.25
+Chocolate and other flavoured milk,Dairy,1999,4.67
+Chocolate and other flavoured milk,Dairy,2000,4.54
+Chocolate and other flavoured milk,Dairy,2001,4.87
+Chocolate and other flavoured milk,Dairy,2002,4.94
+Chocolate and other flavoured milk,Dairy,2003,5.07
+Chocolate and other flavoured milk,Dairy,2004,5.4
+Chocolate and other flavoured milk,Dairy,2005,5.48
+Chocolate and other flavoured milk,Dairy,2006,5.51
+Chocolate and other flavoured milk,Dairy,2007,5.78
+Chocolate and other flavoured milk,Dairy,2008,6.07
+Chocolate and other flavoured milk,Dairy,2009,5.74
+Chocolate and other flavoured milk,Dairy,2010,5.81
+Chocolate and other flavoured milk,Dairy,2011,5.89
+Chocolate and other flavoured milk,Dairy,2012,5.88
+Chocolate and other flavoured milk,Dairy,2013,5.85
+Chocolate and other flavoured milk,Dairy,2014,5.91
+Chocolate and other flavoured milk,Dairy,2015,6.39
+Chocolate and other flavoured milk,Dairy,2016,6.14
+Chocolate and other flavoured milk,Dairy,2017,5.74
+Chocolate and other flavoured milk,Dairy,2018,5.53
+Chocolate and other flavoured milk,Dairy,2019,5.25
+Rice,"Bread, Cereal, Rice, Pasta",1988,4.8
+Rice,"Bread, Cereal, Rice, Pasta",1989,4.85
+Rice,"Bread, Cereal, Rice, Pasta",1990,4.88
+Rice,"Bread, Cereal, Rice, Pasta",1991,5.45
+Rice,"Bread, Cereal, Rice, Pasta",1992,5.63
+Rice,"Bread, Cereal, Rice, Pasta",1993,5.98
+Rice,"Bread, Cereal, Rice, Pasta",1994,5.98
+Rice,"Bread, Cereal, Rice, Pasta",1995,5.9
+Rice,"Bread, Cereal, Rice, Pasta",1996,5.74
+Rice,"Bread, Cereal, Rice, Pasta",1997,6.05
+Rice,"Bread, Cereal, Rice, Pasta",1998,6.07
+Rice,"Bread, Cereal, Rice, Pasta",1999,6.11
+Rice,"Bread, Cereal, Rice, Pasta",2000,6.04
+Rice,"Bread, Cereal, Rice, Pasta",2001,6.11
+Rice,"Bread, Cereal, Rice, Pasta",2002,5.72
+Rice,"Bread, Cereal, Rice, Pasta",2003,5.95
+Rice,"Bread, Cereal, Rice, Pasta",2004,7.2
+Rice,"Bread, Cereal, Rice, Pasta",2005,7.07
+Rice,"Bread, Cereal, Rice, Pasta",2006,7.42
+Rice,"Bread, Cereal, Rice, Pasta",2007,7.47
+Rice,"Bread, Cereal, Rice, Pasta",2008,7.9
+Rice,"Bread, Cereal, Rice, Pasta",2009,7.93
+Rice,"Bread, Cereal, Rice, Pasta",2010,7.7
+Rice,"Bread, Cereal, Rice, Pasta",2011,7.85
+Rice,"Bread, Cereal, Rice, Pasta",2012,7.44
+Rice,"Bread, Cereal, Rice, Pasta",2013,8.85
+Rice,"Bread, Cereal, Rice, Pasta",2014,8.25
+Rice,"Bread, Cereal, Rice, Pasta",2015,8.38
+Rice,"Bread, Cereal, Rice, Pasta",2016,8.52
+Rice,"Bread, Cereal, Rice, Pasta",2017,8.65
+Rice,"Bread, Cereal, Rice, Pasta",2018,8.78
+Rice,"Bread, Cereal, Rice, Pasta",2019,8.92
+Potatoes frozen,Vegetables,1988,8.51
+Potatoes frozen,Vegetables,1989,8.31
+Potatoes frozen,Vegetables,1990,8.71
+Potatoes frozen,Vegetables,1991,8.72
+Potatoes frozen,Vegetables,1992,8.37
+Potatoes frozen,Vegetables,1993,8.45
+Potatoes frozen,Vegetables,1994,8.23
+Potatoes frozen,Vegetables,1995,7.89
+Potatoes frozen,Vegetables,1996,7.45
+Potatoes frozen,Vegetables,1997,7.34
+Potatoes frozen,Vegetables,1998,7.31
+Potatoes frozen,Vegetables,1999,7.33
+Potatoes frozen,Vegetables,2000,7.42
+Potatoes frozen,Vegetables,2001,7.52
+Potatoes frozen,Vegetables,2002,7.55
+Potatoes frozen,Vegetables,2003,7.34
+Potatoes frozen,Vegetables,2004,7.3
+Potatoes frozen,Vegetables,2005,7.45
+Potatoes frozen,Vegetables,2006,8.41
+Potatoes frozen,Vegetables,2007,7.62
+Potatoes frozen,Vegetables,2008,6.89
+Potatoes frozen,Vegetables,2009,6.67
+Potatoes frozen,Vegetables,2010,7.83
+Potatoes frozen,Vegetables,2011,5.98
+Potatoes frozen,Vegetables,2012,8.01
+Potatoes frozen,Vegetables,2013,7.37
+Potatoes frozen,Vegetables,2014,6.73
+Potatoes frozen,Vegetables,2015,6.89
+Potatoes frozen,Vegetables,2016,6.59
+Potatoes frozen,Vegetables,2017,5.72
+Potatoes frozen,Vegetables,2018,4.11
+Potatoes frozen,Vegetables,2019,6.01
+Yogurt,Dairy,1988,3.21
+Yogurt,Dairy,1989,3.26
+Yogurt,Dairy,1990,3.09
+Yogurt,Dairy,1991,2.99
+Yogurt,Dairy,1992,2.91
+Yogurt,Dairy,1993,3.04
+Yogurt,Dairy,1994,3.09
+Yogurt,Dairy,1995,3.05
+Yogurt,Dairy,1996,3.17
+Yogurt,Dairy,1997,3.19
+Yogurt,Dairy,1998,3.46
+Yogurt,Dairy,1999,4.05
+Yogurt,Dairy,2000,4.59
+Yogurt,Dairy,2001,4.88
+Yogurt,Dairy,2002,5.39
+Yogurt,Dairy,2003,5.86
+Yogurt,Dairy,2004,6.31
+Yogurt,Dairy,2005,6.77
+Yogurt,Dairy,2006,7.21
+Yogurt,Dairy,2007,7.4
+Yogurt,Dairy,2008,7.92
+Yogurt,Dairy,2009,8.04
+Yogurt,Dairy,2010,8.56
+Yogurt,Dairy,2011,9.47
+Yogurt,Dairy,2012,10.28
+Yogurt,Dairy,2013,9.9
+Yogurt,Dairy,2014,9.82
+Yogurt,Dairy,2015,10.99
+Yogurt,Dairy,2016,10.8
+Yogurt,Dairy,2017,10
+Yogurt,Dairy,2018,9.87
+Yogurt,Dairy,2019,9.35
+Celery fresh,Vegetables,1988,4.55
+Celery fresh,Vegetables,1989,4.54
+Celery fresh,Vegetables,1990,4.14
+Celery fresh,Vegetables,1991,4.42
+Celery fresh,Vegetables,1992,4.22
+Celery fresh,Vegetables,1993,4.18
+Celery fresh,Vegetables,1994,4.39
+Celery fresh,Vegetables,1995,4.07
+Celery fresh,Vegetables,1996,3.82
+Celery fresh,Vegetables,1997,3.69
+Celery fresh,Vegetables,1998,3.64
+Celery fresh,Vegetables,1999,3.66
+Celery fresh,Vegetables,2000,3.38
+Celery fresh,Vegetables,2001,3.46
+Celery fresh,Vegetables,2002,3.45
+Celery fresh,Vegetables,2003,3.41
+Celery fresh,Vegetables,2004,3.57
+Celery fresh,Vegetables,2005,3.34
+Celery fresh,Vegetables,2006,3.13
+Celery fresh,Vegetables,2007,3.28
+Celery fresh,Vegetables,2008,3.05
+Celery fresh,Vegetables,2009,3.2
+Celery fresh,Vegetables,2010,3.15
+Celery fresh,Vegetables,2011,3.06
+Celery fresh,Vegetables,2012,3.06
+Celery fresh,Vegetables,2013,3.11
+Celery fresh,Vegetables,2014,3.08
+Celery fresh,Vegetables,2015,3.07
+Celery fresh,Vegetables,2016,3.07
+Celery fresh,Vegetables,2017,2.8
+Celery fresh,Vegetables,2018,2.69
+Celery fresh,Vegetables,2019,2.43
+Tomatoes canned,Vegetables,1988,3.4
+Tomatoes canned,Vegetables,1989,3.24
+Tomatoes canned,Vegetables,1990,3.18
+Tomatoes canned,Vegetables,1991,3.16
+Tomatoes canned,Vegetables,1992,3.13
+Tomatoes canned,Vegetables,1993,3.36
+Tomatoes canned,Vegetables,1994,3.62
+Tomatoes canned,Vegetables,1995,3.65
+Tomatoes canned,Vegetables,1996,3.65
+Tomatoes canned,Vegetables,1997,3.71
+Tomatoes canned,Vegetables,1998,3.69
+Tomatoes canned,Vegetables,1999,3.73
+Tomatoes canned,Vegetables,2000,3.65
+Tomatoes canned,Vegetables,2001,3.79
+Tomatoes canned,Vegetables,2002,3.88
+Tomatoes canned,Vegetables,2003,3.69
+Tomatoes canned,Vegetables,2004,3.87
+Tomatoes canned,Vegetables,2005,3.98
+Tomatoes canned,Vegetables,2006,3.85
+Tomatoes canned,Vegetables,2007,3.84
+Tomatoes canned,Vegetables,2008,3.78
+Tomatoes canned,Vegetables,2009,3.52
+Tomatoes canned,Vegetables,2010,3.59
+Tomatoes canned,Vegetables,2011,3.53
+Tomatoes canned,Vegetables,2012,3.56
+Tomatoes canned,Vegetables,2013,3.63
+Tomatoes canned,Vegetables,2014,3.2
+Tomatoes canned,Vegetables,2015,3.25
+Tomatoes canned,Vegetables,2016,3.44
+Tomatoes canned,Vegetables,2017,3.37
+Tomatoes canned,Vegetables,2018,3.45
+Tomatoes canned,Vegetables,2019,3.46
+Watermelons fresh,Fruits,1988,1.49
+Watermelons fresh,Fruits,1989,1.14
+Watermelons fresh,Fruits,1990,1.33
+Watermelons fresh,Fruits,1991,1.53
+Watermelons fresh,Fruits,1992,3.26
+Watermelons fresh,Fruits,1993,3.23
+Watermelons fresh,Fruits,1994,3.41
+Watermelons fresh,Fruits,1995,3.43
+Watermelons fresh,Fruits,1996,3.79
+Watermelons fresh,Fruits,1997,3.92
+Watermelons fresh,Fruits,1998,3.77
+Watermelons fresh,Fruits,1999,4.41
+Watermelons fresh,Fruits,2000,4.3
+Watermelons fresh,Fruits,2001,3.59
+Watermelons fresh,Fruits,2002,4.83
+Watermelons fresh,Fruits,2003,5.55
+Watermelons fresh,Fruits,2004,6.15
+Watermelons fresh,Fruits,2005,5.28
+Watermelons fresh,Fruits,2006,5.64
+Watermelons fresh,Fruits,2007,5.68
+Watermelons fresh,Fruits,2008,5.46
+Watermelons fresh,Fruits,2009,5.5
+Watermelons fresh,Fruits,2010,5.66
+Watermelons fresh,Fruits,2011,5.96
+Watermelons fresh,Fruits,2012,6.06
+Watermelons fresh,Fruits,2013,6.11
+Watermelons fresh,Fruits,2014,6.11
+Watermelons fresh,Fruits,2015,6.36
+Watermelons fresh,Fruits,2016,6.38
+Watermelons fresh,Fruits,2017,6.14
+Watermelons fresh,Fruits,2018,6.27
+Watermelons fresh,Fruits,2019,6.22
+Corn fresh,Vegetables,1988,2.94
+Corn fresh,Vegetables,1989,3.61
+Corn fresh,Vegetables,1990,4.03
+Corn fresh,Vegetables,1991,3.69
+Corn fresh,Vegetables,1992,4.02
+Corn fresh,Vegetables,1993,3.98
+Corn fresh,Vegetables,1994,3.44
+Corn fresh,Vegetables,1995,3.39
+Corn fresh,Vegetables,1996,3.9
+Corn fresh,Vegetables,1997,3.29
+Corn fresh,Vegetables,1998,3.91
+Corn fresh,Vegetables,1999,3.36
+Corn fresh,Vegetables,2000,2.76
+Corn fresh,Vegetables,2001,3.05
+Corn fresh,Vegetables,2002,3.2
+Corn fresh,Vegetables,2003,3.14
+Corn fresh,Vegetables,2004,3.49
+Corn fresh,Vegetables,2005,3.56
+Corn fresh,Vegetables,2006,3.54
+Corn fresh,Vegetables,2007,2.92
+Corn fresh,Vegetables,2008,3.46
+Corn fresh,Vegetables,2009,3.26
+Corn fresh,Vegetables,2010,3.47
+Corn fresh,Vegetables,2011,3.74
+Corn fresh,Vegetables,2012,3.62
+Corn fresh,Vegetables,2013,3.58
+Corn fresh,Vegetables,2014,3.29
+Corn fresh,Vegetables,2015,3.32
+Corn fresh,Vegetables,2016,3.12
+Corn fresh,Vegetables,2017,3.01
+Corn fresh,Vegetables,2018,2.84
+Corn fresh,Vegetables,2019,2.78
+Peanuts,Proteins,1988,2.28
+Peanuts,Proteins,1989,2.56
+Peanuts,Proteins,1990,3.06
+Peanuts,Proteins,1991,2.74
+Peanuts,Proteins,1992,3.14
+Peanuts,Proteins,1993,3.21
+Peanuts,Proteins,1994,3.27
+Peanuts,Proteins,1995,3.28
+Peanuts,Proteins,1996,3.22
+Peanuts,Proteins,1997,3.07
+Peanuts,Proteins,1998,3.14
+Peanuts,Proteins,1999,2.92
+Peanuts,Proteins,2000,2.95
+Peanuts,Proteins,2001,2.68
+Peanuts,Proteins,2002,2.89
+Peanuts,Proteins,2003,2.69
+Peanuts,Proteins,2004,2.89
+Peanuts,Proteins,2005,2.88
+Peanuts,Proteins,2006,2.9
+Peanuts,Proteins,2007,2.92
+Peanuts,Proteins,2008,3.02
+Peanuts,Proteins,2009,2.82
+Peanuts,Proteins,2010,2.89
+Peanuts,Proteins,2011,2.82
+Peanuts,Proteins,2012,2.41
+Peanuts,Proteins,2013,2.88
+Peanuts,Proteins,2014,3.12
+Peanuts,Proteins,2015,3.08
+Peanuts,Proteins,2016,3.33
+Peanuts,Proteins,2017,3.38
+Peanuts,Proteins,2018,3.28
+Peanuts,Proteins,2019,3.32
+Cheddar cheese,Dairy,1988,3.03
+Cheddar cheese,Dairy,1989,3.08
+Cheddar cheese,Dairy,1990,3.05
+Cheddar cheese,Dairy,1991,3.12
+Cheddar cheese,Dairy,1992,3.08
+Cheddar cheese,Dairy,1993,3.02
+Cheddar cheese,Dairy,1994,3.19
+Cheddar cheese,Dairy,1995,3.24
+Cheddar cheese,Dairy,1996,3.07
+Cheddar cheese,Dairy,1997,3.18
+Cheddar cheese,Dairy,1998,3.16
+Cheddar cheese,Dairy,1999,3.28
+Cheddar cheese,Dairy,2000,3.17
+Cheddar cheese,Dairy,2001,3.13
+Cheddar cheese,Dairy,2002,3.1
+Cheddar cheese,Dairy,2003,3.13
+Cheddar cheese,Dairy,2004,3.09
+Cheddar cheese,Dairy,2005,3.26
+Cheddar cheese,Dairy,2006,3.4
+Cheddar cheese,Dairy,2007,3.04
+Cheddar cheese,Dairy,2008,3.22
+Cheddar cheese,Dairy,2009,3.31
+Cheddar cheese,Dairy,2010,3.42
+Cheddar cheese,Dairy,2011,3.3
+Cheddar cheese,Dairy,2012,3.14
+Cheddar cheese,Dairy,2013,3.31
+Cheddar cheese,Dairy,2014,3.31
+Cheddar cheese,Dairy,2015,3.22
+Cheddar cheese,Dairy,2016,3.55
+Cheddar cheese,Dairy,2017,3.51
+Cheddar cheese,Dairy,2018,4.13
+Cheddar cheese,Dairy,2019,3.59
+Cereal cream 10%,Dairy,1988,2.89
+Cereal cream 10%,Dairy,1989,2.75
+Cereal cream 10%,Dairy,1990,2.92
+Cereal cream 10%,Dairy,1991,2.81
+Cereal cream 10%,Dairy,1992,2.8
+Cereal cream 10%,Dairy,1993,2.8
+Cereal cream 10%,Dairy,1994,2.81
+Cereal cream 10%,Dairy,1995,2.9
+Cereal cream 10%,Dairy,1996,2.89
+Cereal cream 10%,Dairy,1997,2.86
+Cereal cream 10%,Dairy,1998,2.92
+Cereal cream 10%,Dairy,1999,2.88
+Cereal cream 10%,Dairy,2000,2.92
+Cereal cream 10%,Dairy,2001,2.95
+Cereal cream 10%,Dairy,2002,2.92
+Cereal cream 10%,Dairy,2003,3.04
+Cereal cream 10%,Dairy,2004,3.21
+Cereal cream 10%,Dairy,2005,3.11
+Cereal cream 10%,Dairy,2006,3.05
+Cereal cream 10%,Dairy,2007,3.03
+Cereal cream 10%,Dairy,2008,2.97
+Cereal cream 10%,Dairy,2009,3.06
+Cereal cream 10%,Dairy,2010,2.94
+Cereal cream 10%,Dairy,2011,3
+Cereal cream 10%,Dairy,2012,3.26
+Cereal cream 10%,Dairy,2013,3.09
+Cereal cream 10%,Dairy,2014,3.17
+Cereal cream 10%,Dairy,2015,3.17
+Cereal cream 10%,Dairy,2016,3.27
+Cereal cream 10%,Dairy,2017,3.24
+Cereal cream 10%,Dairy,2018,3.13
+Cereal cream 10%,Dairy,2019,3.22
+Cucumbers fresh,Vegetables,1988,3.32
+Cucumbers fresh,Vegetables,1989,3.49
+Cucumbers fresh,Vegetables,1990,3.05
+Cucumbers fresh,Vegetables,1991,2.88
+Cucumbers fresh,Vegetables,1992,3.19
+Cucumbers fresh,Vegetables,1993,3.11
+Cucumbers fresh,Vegetables,1994,3.26
+Cucumbers fresh,Vegetables,1995,3.14
+Cucumbers fresh,Vegetables,1996,3.23
+Cucumbers fresh,Vegetables,1997,3.07
+Cucumbers fresh,Vegetables,1998,3.65
+Cucumbers fresh,Vegetables,1999,3.7
+Cucumbers fresh,Vegetables,2000,3.95
+Cucumbers fresh,Vegetables,2001,4.16
+Cucumbers fresh,Vegetables,2002,2.22
+Cucumbers fresh,Vegetables,2003,2.02
+Cucumbers fresh,Vegetables,2004,2.08
+Cucumbers fresh,Vegetables,2005,2.42
+Cucumbers fresh,Vegetables,2006,3.13
+Cucumbers fresh,Vegetables,2007,2.7
+Cucumbers fresh,Vegetables,2008,2.65
+Cucumbers fresh,Vegetables,2009,3.44
+Cucumbers fresh,Vegetables,2010,3.46
+Cucumbers fresh,Vegetables,2011,3.44
+Cucumbers fresh,Vegetables,2012,3.65
+Cucumbers fresh,Vegetables,2013,3.37
+Cucumbers fresh,Vegetables,2014,3.52
+Cucumbers fresh,Vegetables,2015,3.37
+Cucumbers fresh,Vegetables,2016,3
+Cucumbers fresh,Vegetables,2017,3.18
+Cucumbers fresh,Vegetables,2018,3.56
+Cucumbers fresh,Vegetables,2019,3.46
+Tomato juice,Non-Alcoholic Drink,1988,2.85
+Tomato juice,Non-Alcoholic Drink,1989,2.63
+Tomato juice,Non-Alcoholic Drink,1990,2.07
+Tomato juice,Non-Alcoholic Drink,1991,2.05
+Tomato juice,Non-Alcoholic Drink,1992,1.82
+Tomato juice,Non-Alcoholic Drink,1993,1.59
+Tomato juice,Non-Alcoholic Drink,1994,1.56
+Tomato juice,Non-Alcoholic Drink,1995,1.53
+Tomato juice,Non-Alcoholic Drink,1996,1.54
+Tomato juice,Non-Alcoholic Drink,1997,1.54
+Tomato juice,Non-Alcoholic Drink,1998,1.53
+Tomato juice,Non-Alcoholic Drink,1999,1.52
+Tomato juice,Non-Alcoholic Drink,2000,1.47
+Tomato juice,Non-Alcoholic Drink,2001,1.5
+Tomato juice,Non-Alcoholic Drink,2002,1.42
+Tomato juice,Non-Alcoholic Drink,2003,1.43
+Tomato juice,Non-Alcoholic Drink,2004,1.29
+Tomato juice,Non-Alcoholic Drink,2005,1.3
+Tomato juice,Non-Alcoholic Drink,2006,1.06
+Tomato juice,Non-Alcoholic Drink,2007,1.04
+Tomato juice,Non-Alcoholic Drink,2008,0.98
+Tomato juice,Non-Alcoholic Drink,2009,0.8
+Tomato juice,Non-Alcoholic Drink,2010,0.78
+Tomato juice,Non-Alcoholic Drink,2011,0.8
+Tomato juice,Non-Alcoholic Drink,2012,0.7
+Tomato juice,Non-Alcoholic Drink,2013,0.71
+Tomato juice,Non-Alcoholic Drink,2014,0.6
+Tomato juice,Non-Alcoholic Drink,2015,0.64
+Tomato juice,Non-Alcoholic Drink,2016,0.56
+Tomato juice,Non-Alcoholic Drink,2017,0.56
+Tomato juice,Non-Alcoholic Drink,2018,0.54
+Tomato juice,Non-Alcoholic Drink,2019,0.48
+Grapefruits fresh,Fruits,1988,2.74
+Grapefruits fresh,Fruits,1989,2.59
+Grapefruits fresh,Fruits,1990,2.11
+Grapefruits fresh,Fruits,1991,2.75
+Grapefruits fresh,Fruits,1992,2.3
+Grapefruits fresh,Fruits,1993,2.48
+Grapefruits fresh,Fruits,1994,2.53
+Grapefruits fresh,Fruits,1995,2.53
+Grapefruits fresh,Fruits,1996,2.36
+Grapefruits fresh,Fruits,1997,2.44
+Grapefruits fresh,Fruits,1998,1.69
+Grapefruits fresh,Fruits,1999,1.88
+Grapefruits fresh,Fruits,2000,1.74
+Grapefruits fresh,Fruits,2001,1.66
+Grapefruits fresh,Fruits,2002,1.78
+Grapefruits fresh,Fruits,2003,1.55
+Grapefruits fresh,Fruits,2004,1.54
+Grapefruits fresh,Fruits,2005,1.35
+Grapefruits fresh,Fruits,2006,1.42
+Grapefruits fresh,Fruits,2007,1.61
+Grapefruits fresh,Fruits,2008,1.5
+Grapefruits fresh,Fruits,2009,1.36
+Grapefruits fresh,Fruits,2010,1.3
+Grapefruits fresh,Fruits,2011,1.28
+Grapefruits fresh,Fruits,2012,1.23
+Grapefruits fresh,Fruits,2013,1.19
+Grapefruits fresh,Fruits,2014,1.12
+Grapefruits fresh,Fruits,2015,1.12
+Grapefruits fresh,Fruits,2016,1.01
+Grapefruits fresh,Fruits,2017,0.99
+Grapefruits fresh,Fruits,2018,0.94
+Grapefruits fresh,Fruits,2019,0.87
+Peppers fresh,Vegetables,1988,2.6
+Peppers fresh,Vegetables,1989,2.48
+Peppers fresh,Vegetables,1990,2.51
+Peppers fresh,Vegetables,1991,2.53
+Peppers fresh,Vegetables,1992,2.53
+Peppers fresh,Vegetables,1993,2.73
+Peppers fresh,Vegetables,1994,2.92
+Peppers fresh,Vegetables,1995,2.88
+Peppers fresh,Vegetables,1996,3.21
+Peppers fresh,Vegetables,1997,3.26
+Peppers fresh,Vegetables,1998,3.01
+Peppers fresh,Vegetables,1999,3.04
+Peppers fresh,Vegetables,2000,3.23
+Peppers fresh,Vegetables,2001,3.26
+Peppers fresh,Vegetables,2002,3.05
+Peppers fresh,Vegetables,2003,3
+Peppers fresh,Vegetables,2004,3.24
+Peppers fresh,Vegetables,2005,3.62
+Peppers fresh,Vegetables,2006,3.9
+Peppers fresh,Vegetables,2007,3.77
+Peppers fresh,Vegetables,2008,4.06
+Peppers fresh,Vegetables,2009,4.07
+Peppers fresh,Vegetables,2010,3.74
+Peppers fresh,Vegetables,2011,3.87
+Peppers fresh,Vegetables,2012,4.35
+Peppers fresh,Vegetables,2013,4.51
+Peppers fresh,Vegetables,2014,4.29
+Peppers fresh,Vegetables,2015,4.51
+Peppers fresh,Vegetables,2016,4.09
+Peppers fresh,Vegetables,2017,4.36
+Peppers fresh,Vegetables,2018,4.33
+Peppers fresh,Vegetables,2019,4.18
+Processed cheese,Dairy,1988,2.98
+Processed cheese,Dairy,1989,2.94
+Processed cheese,Dairy,1990,3.05
+Processed cheese,Dairy,1991,2.77
+Processed cheese,Dairy,1992,2.79
+Processed cheese,Dairy,1993,2.71
+Processed cheese,Dairy,1994,2.77
+Processed cheese,Dairy,1995,2.74
+Processed cheese,Dairy,1996,2.58
+Processed cheese,Dairy,1997,2.44
+Processed cheese,Dairy,1998,2.25
+Processed cheese,Dairy,1999,2.39
+Processed cheese,Dairy,2000,2.35
+Processed cheese,Dairy,2001,2.47
+Processed cheese,Dairy,2002,2.25
+Processed cheese,Dairy,2003,2.22
+Processed cheese,Dairy,2004,2.35
+Processed cheese,Dairy,2005,2.25
+Processed cheese,Dairy,2006,2.3
+Processed cheese,Dairy,2007,2.24
+Processed cheese,Dairy,2008,2.13
+Processed cheese,Dairy,2009,2.1
+Processed cheese,Dairy,2010,1.93
+Processed cheese,Dairy,2011,2.11
+Processed cheese,Dairy,2012,2.02
+Processed cheese,Dairy,2013,1.91
+Processed cheese,Dairy,2014,1.75
+Processed cheese,Dairy,2015,1.61
+Processed cheese,Dairy,2016,1.7
+Processed cheese,Dairy,2017,1.85
+Processed cheese,Dairy,2018,1.87
+Processed cheese,Dairy,2019,1.77
+Sea Fish,Proteins,1988,4.28
+Sea Fish,Proteins,1989,4.54
+Sea Fish,Proteins,1990,4.29
+Sea Fish,Proteins,1991,4.28
+Sea Fish,Proteins,1992,4.85
+Sea Fish,Proteins,1993,4.87
+Sea Fish,Proteins,1994,4.79
+Sea Fish,Proteins,1995,3.97
+Sea Fish,Proteins,1996,4.49
+Sea Fish,Proteins,1997,4.3
+Sea Fish,Proteins,1998,4.03
+Sea Fish,Proteins,1999,4.82
+Sea Fish,Proteins,2000,4.51
+Sea Fish,Proteins,2001,4.39
+Sea Fish,Proteins,2002,4.01
+Sea Fish,Proteins,2003,4.43
+Sea Fish,Proteins,2004,3.94
+Sea Fish,Proteins,2005,3.7
+Sea Fish,Proteins,2006,4
+Sea Fish,Proteins,2007,3.94
+Sea Fish,Proteins,2008,3.26
+Sea Fish,Proteins,2009,3.63
+Sea Fish,Proteins,2010,3.37
+Sea Fish,Proteins,2011,3.63
+Sea Fish,Proteins,2012,3.14
+Sea Fish,Proteins,2013,3.75
+Sea Fish,Proteins,2014,3.73
+Sea Fish,Proteins,2015,3.43
+Sea Fish,Proteins,2016,3.72
+Sea Fish,Proteins,2017,3.94
+Sea Fish,Proteins,2018,3.93
+Sea Fish,Proteins,2019,4
+Tomatoes,Vegetables,1988,2.32
+Tomatoes,Vegetables,1989,2.55
+Tomatoes,Vegetables,1990,2.98
+Tomatoes,Vegetables,1991,2.27
+Tomatoes,Vegetables,1992,2.77
+Tomatoes,Vegetables,1993,2.99
+Tomatoes,Vegetables,1994,2.66
+Tomatoes,Vegetables,1995,2.4
+Tomatoes,Vegetables,1996,2.91
+Tomatoes,Vegetables,1997,2.79
+Tomatoes,Vegetables,1998,2.76
+Tomatoes,Vegetables,1999,2.57
+Tomatoes,Vegetables,2000,2.77
+Tomatoes,Vegetables,2001,2.79
+Tomatoes,Vegetables,2002,2.68
+Tomatoes,Vegetables,2003,2.68
+Tomatoes,Vegetables,2004,2.62
+Tomatoes,Vegetables,2005,2.59
+Tomatoes,Vegetables,2006,2.76
+Tomatoes,Vegetables,2007,2.75
+Tomatoes,Vegetables,2008,2.8
+Tomatoes,Vegetables,2009,2.76
+Tomatoes,Vegetables,2010,2.84
+Tomatoes,Vegetables,2011,2.84
+Tomatoes,Vegetables,2012,2.78
+Tomatoes,Vegetables,2013,2.74
+Tomatoes,Vegetables,2014,2.78
+Tomatoes,Vegetables,2015,2.89
+Tomatoes,Vegetables,2016,2.73
+Tomatoes,Vegetables,2017,2.71
+Tomatoes,Vegetables,2018,2.68
+Tomatoes,Vegetables,2019,2.68
+Grape juice,Non-Alcoholic Drink,1988,1.64
+Grape juice,Non-Alcoholic Drink,1989,1.95
+Grape juice,Non-Alcoholic Drink,1990,1.65
+Grape juice,Non-Alcoholic Drink,1991,1.9
+Grape juice,Non-Alcoholic Drink,1992,2.5
+Grape juice,Non-Alcoholic Drink,1993,2.82
+Grape juice,Non-Alcoholic Drink,1994,2.75
+Grape juice,Non-Alcoholic Drink,1995,3.5
+Grape juice,Non-Alcoholic Drink,1996,4.61
+Grape juice,Non-Alcoholic Drink,1997,4.71
+Grape juice,Non-Alcoholic Drink,1998,4.28
+Grape juice,Non-Alcoholic Drink,1999,3.31
+Grape juice,Non-Alcoholic Drink,2000,3.37
+Grape juice,Non-Alcoholic Drink,2001,2.98
+Grape juice,Non-Alcoholic Drink,2002,4.36
+Grape juice,Non-Alcoholic Drink,2003,4.05
+Grape juice,Non-Alcoholic Drink,2004,3.46
+Grape juice,Non-Alcoholic Drink,2005,3.11
+Grape juice,Non-Alcoholic Drink,2006,3.62
+Grape juice,Non-Alcoholic Drink,2007,3.65
+Grape juice,Non-Alcoholic Drink,2008,4.1
+Grape juice,Non-Alcoholic Drink,2009,3.78
+Grape juice,Non-Alcoholic Drink,2010,3.41
+Grape juice,Non-Alcoholic Drink,2011,4.09
+Grape juice,Non-Alcoholic Drink,2012,4.06
+Grape juice,Non-Alcoholic Drink,2013,3.46
+Grape juice,Non-Alcoholic Drink,2014,3.27
+Grape juice,Non-Alcoholic Drink,2015,3.44
+Grape juice,Non-Alcoholic Drink,2016,3.35
+Grape juice,Non-Alcoholic Drink,2017,3.23
+Grape juice,Non-Alcoholic Drink,2018,2.98
+Grape juice,Non-Alcoholic Drink,2019,3.2
+Rutabagas and turnips fresh,Vegetables,1988,2.4
+Rutabagas and turnips fresh,Vegetables,1989,1.89
+Rutabagas and turnips fresh,Vegetables,1990,2.81
+Rutabagas and turnips fresh,Vegetables,1991,2.01
+Rutabagas and turnips fresh,Vegetables,1992,2.17
+Rutabagas and turnips fresh,Vegetables,1993,2.08
+Rutabagas and turnips fresh,Vegetables,1994,2.47
+Rutabagas and turnips fresh,Vegetables,1995,1.88
+Rutabagas and turnips fresh,Vegetables,1996,1.83
+Rutabagas and turnips fresh,Vegetables,1997,2.04
+Rutabagas and turnips fresh,Vegetables,1998,1.91
+Rutabagas and turnips fresh,Vegetables,1999,1.85
+Rutabagas and turnips fresh,Vegetables,2000,1.53
+Rutabagas and turnips fresh,Vegetables,2001,1.3
+Rutabagas and turnips fresh,Vegetables,2002,1.26
+Rutabagas and turnips fresh,Vegetables,2003,1.25
+Rutabagas and turnips fresh,Vegetables,2004,0.96
+Rutabagas and turnips fresh,Vegetables,2005,1.51
+Rutabagas and turnips fresh,Vegetables,2006,0.96
+Rutabagas and turnips fresh,Vegetables,2007,1.1
+Rutabagas and turnips fresh,Vegetables,2008,1.06
+Rutabagas and turnips fresh,Vegetables,2009,1.36
+Rutabagas and turnips fresh,Vegetables,2010,0.92
+Rutabagas and turnips fresh,Vegetables,2011,1.4
+Rutabagas and turnips fresh,Vegetables,2012,1.19
+Rutabagas and turnips fresh,Vegetables,2013,1.05
+Rutabagas and turnips fresh,Vegetables,2014,1.28
+Rutabagas and turnips fresh,Vegetables,2015,1.33
+Rutabagas and turnips fresh,Vegetables,2016,1.08
+Rutabagas and turnips fresh,Vegetables,2017,0.98
+Rutabagas and turnips fresh,Vegetables,2018,1.17
+Rutabagas and turnips fresh,Vegetables,2019,0.98
+Potatoes other processed,Vegetables,1988,2.88
+Potatoes other processed,Vegetables,1989,3.07
+Potatoes other processed,Vegetables,1990,2.87
+Potatoes other processed,Vegetables,1991,3
+Potatoes other processed,Vegetables,1992,2.84
+Potatoes other processed,Vegetables,1993,3.25
+Potatoes other processed,Vegetables,1994,3.29
+Potatoes other processed,Vegetables,1995,3.2
+Potatoes other processed,Vegetables,1996,3.71
+Potatoes other processed,Vegetables,1997,3.81
+Potatoes other processed,Vegetables,1998,3.87
+Potatoes other processed,Vegetables,1999,3.96
+Potatoes other processed,Vegetables,2000,4.08
+Potatoes other processed,Vegetables,2001,4.33
+Potatoes other processed,Vegetables,2002,4.38
+Potatoes other processed,Vegetables,2003,4.19
+Potatoes other processed,Vegetables,2004,4.2
+Potatoes other processed,Vegetables,2005,4.21
+Potatoes other processed,Vegetables,2006,3.62
+Potatoes other processed,Vegetables,2007,4.05
+Potatoes other processed,Vegetables,2008,3.97
+Potatoes other processed,Vegetables,2009,3.98
+Potatoes other processed,Vegetables,2010,3.71
+Potatoes other processed,Vegetables,2011,3.55
+Potatoes other processed,Vegetables,2012,4.02
+Potatoes other processed,Vegetables,2013,3.93
+Potatoes other processed,Vegetables,2014,3.8
+Potatoes other processed,Vegetables,2015,3.99
+Potatoes other processed,Vegetables,2016,4.05
+Potatoes other processed,Vegetables,2017,4.15
+Potatoes other processed,Vegetables,2018,4.02
+Potatoes other processed,Vegetables,2019,4.29
+Cauliflower fresh,Vegetables,1988,2.83
+Cauliflower fresh,Vegetables,1989,2.4
+Cauliflower fresh,Vegetables,1990,2.7
+Cauliflower fresh,Vegetables,1991,2.34
+Cauliflower fresh,Vegetables,1992,2.43
+Cauliflower fresh,Vegetables,1993,2.14
+Cauliflower fresh,Vegetables,1994,2.33
+Cauliflower fresh,Vegetables,1995,2.13
+Cauliflower fresh,Vegetables,1996,2.16
+Cauliflower fresh,Vegetables,1997,1.82
+Cauliflower fresh,Vegetables,1998,1.9
+Cauliflower fresh,Vegetables,1999,2.15
+Cauliflower fresh,Vegetables,2000,2.09
+Cauliflower fresh,Vegetables,2001,2.31
+Cauliflower fresh,Vegetables,2002,2.13
+Cauliflower fresh,Vegetables,2003,2.13
+Cauliflower fresh,Vegetables,2004,2.08
+Cauliflower fresh,Vegetables,2005,2.25
+Cauliflower fresh,Vegetables,2006,2.25
+Cauliflower fresh,Vegetables,2007,2.08
+Cauliflower fresh,Vegetables,2008,2.33
+Cauliflower fresh,Vegetables,2009,2.58
+Cauliflower fresh,Vegetables,2010,2.79
+Cauliflower fresh,Vegetables,2011,2.8
+Cauliflower fresh,Vegetables,2012,2.79
+Cauliflower fresh,Vegetables,2013,2.71
+Cauliflower fresh,Vegetables,2014,2.37
+Cauliflower fresh,Vegetables,2015,2.29
+Cauliflower fresh,Vegetables,2016,2.87
+Cauliflower fresh,Vegetables,2017,2.88
+Cauliflower fresh,Vegetables,2018,3.01
+Cauliflower fresh,Vegetables,2019,2.8
+Pears fresh,Fruits,1988,2.17
+Pears fresh,Fruits,1989,2.15
+Pears fresh,Fruits,1990,2.14
+Pears fresh,Fruits,1991,2.07
+Pears fresh,Fruits,1992,2.06
+Pears fresh,Fruits,1993,2.12
+Pears fresh,Fruits,1994,2.26
+Pears fresh,Fruits,1995,2.26
+Pears fresh,Fruits,1996,2.17
+Pears fresh,Fruits,1997,2.19
+Pears fresh,Fruits,1998,2.25
+Pears fresh,Fruits,1999,2.45
+Pears fresh,Fruits,2000,2.4
+Pears fresh,Fruits,2001,2.46
+Pears fresh,Fruits,2002,2.48
+Pears fresh,Fruits,2003,2.52
+Pears fresh,Fruits,2004,2.23
+Pears fresh,Fruits,2005,2.23
+Pears fresh,Fruits,2006,2.43
+Pears fresh,Fruits,2007,2.46
+Pears fresh,Fruits,2008,2.2
+Pears fresh,Fruits,2009,2.22
+Pears fresh,Fruits,2010,2.13
+Pears fresh,Fruits,2011,2.14
+Pears fresh,Fruits,2012,2.25
+Pears fresh,Fruits,2013,2.18
+Pears fresh,Fruits,2014,2.21
+Pears fresh,Fruits,2015,2.13
+Pears fresh,Fruits,2016,1.94
+Pears fresh,Fruits,2017,1.81
+Pears fresh,Fruits,2018,1.84
+Pears fresh,Fruits,2019,1.83
+Strawberries fresh,Fruits,1988,1.92
+Strawberries fresh,Fruits,1989,1.98
+Strawberries fresh,Fruits,1990,1.99
+Strawberries fresh,Fruits,1991,1.96
+Strawberries fresh,Fruits,1992,2
+Strawberries fresh,Fruits,1993,1.99
+Strawberries fresh,Fruits,1994,2.14
+Strawberries fresh,Fruits,1995,2.18
+Strawberries fresh,Fruits,1996,2.03
+Strawberries fresh,Fruits,1997,2.02
+Strawberries fresh,Fruits,1998,1.87
+Strawberries fresh,Fruits,1999,2.1
+Strawberries fresh,Fruits,2000,2.12
+Strawberries fresh,Fruits,2001,2.01
+Strawberries fresh,Fruits,2002,2.14
+Strawberries fresh,Fruits,2003,2.35
+Strawberries fresh,Fruits,2004,2.46
+Strawberries fresh,Fruits,2005,2.72
+Strawberries fresh,Fruits,2006,2.98
+Strawberries fresh,Fruits,2007,3.06
+Strawberries fresh,Fruits,2008,3.05
+Strawberries fresh,Fruits,2009,3.31
+Strawberries fresh,Fruits,2010,3.48
+Strawberries fresh,Fruits,2011,3.88
+Strawberries fresh,Fruits,2012,3.88
+Strawberries fresh,Fruits,2013,3.78
+Strawberries fresh,Fruits,2014,3.23
+Strawberries fresh,Fruits,2015,3.19
+Strawberries fresh,Fruits,2016,3.25
+Strawberries fresh,Fruits,2017,3.43
+Strawberries fresh,Fruits,2018,3.45
+Strawberries fresh,Fruits,2019,2.92
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",1988,2.23
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",1989,1.86
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",1990,1.58
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",1991,1.55
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",1992,1.85
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",1993,1.32
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",1994,1.46
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",1995,2.15
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",1996,2.67
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",1997,2.09
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",1998,2.31
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",1999,2.36
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2000,2.25
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2001,2.31
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2002,2.45
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2003,3.14
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2004,2.85
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2005,2.77
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2006,2.33
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2007,1.85
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2008,0.81
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2009,1.04
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2010,1.01
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2011,1.29
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2012,1.74
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2013,1.5
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2014,0.67
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2015,0.67
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2016,2.24
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2017,2.77
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2018,4.09
+Oatmeal and rolled oats,"Bread, Cereal, Rice, Pasta",2019,4.68
+Broccoli fresh,Vegetables,1988,2.06
+Broccoli fresh,Vegetables,1989,2.73
+Broccoli fresh,Vegetables,1990,2.72
+Broccoli fresh,Vegetables,1991,2.64
+Broccoli fresh,Vegetables,1992,3.44
+Broccoli fresh,Vegetables,1993,3.23
+Broccoli fresh,Vegetables,1994,3.18
+Broccoli fresh,Vegetables,1995,3.16
+Broccoli fresh,Vegetables,1996,3.27
+Broccoli fresh,Vegetables,1997,3.31
+Broccoli fresh,Vegetables,1998,3.22
+Broccoli fresh,Vegetables,1999,3.27
+Broccoli fresh,Vegetables,2000,3.17
+Broccoli fresh,Vegetables,2001,3.15
+Broccoli fresh,Vegetables,2002,3.13
+Broccoli fresh,Vegetables,2003,2.83
+Broccoli fresh,Vegetables,2004,3.14
+Broccoli fresh,Vegetables,2005,3.08
+Broccoli fresh,Vegetables,2006,2.98
+Broccoli fresh,Vegetables,2007,3.11
+Broccoli fresh,Vegetables,2008,2.9
+Broccoli fresh,Vegetables,2009,2.9
+Broccoli fresh,Vegetables,2010,2.67
+Broccoli fresh,Vegetables,2011,2.39
+Broccoli fresh,Vegetables,2012,2.55
+Broccoli fresh,Vegetables,2013,2.6
+Broccoli fresh,Vegetables,2014,2.72
+Broccoli fresh,Vegetables,2015,2.7
+Broccoli fresh,Vegetables,2016,2.7
+Broccoli fresh,Vegetables,2017,2.31
+Broccoli fresh,Vegetables,2018,2.45
+Broccoli fresh,Vegetables,2019,2.38
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",1988,2.01
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",1989,2.45
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",1990,2.48
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",1991,2.37
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",1992,2.77
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",1993,2.6
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",1994,2.44
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",1995,2.68
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",1996,3.9
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",1997,4.28
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",1998,4.25
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",1999,3.57
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2000,2.55
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2001,2.82
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2002,1.69
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2003,1.13
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2004,1.46
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2005,1.07
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2006,1.71
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2007,0.89
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2008,1.78
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2009,1.67
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2010,0.98
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2011,1.17
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2012,0.85
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2013,0.51
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2014,0.28
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2015,0.41
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2016,0.63
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2017,0.71
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2018,0.7
+Corn flour and meal,"Bread, Cereal, Rice, Pasta",2019,0.56
+Powder skim milk,Dairy,1988,1.96
+Powder skim milk,Dairy,1989,2.02
+Powder skim milk,Dairy,1990,1.05
+Powder skim milk,Dairy,1991,0.78
+Powder skim milk,Dairy,1992,0.78
+Powder skim milk,Dairy,1993,0.93
+Powder skim milk,Dairy,1994,0.89
+Powder skim milk,Dairy,1995,0.73
+Powder skim milk,Dairy,1996,1.13
+Powder skim milk,Dairy,1997,0.9
+Powder skim milk,Dairy,1998,1.13
+Powder skim milk,Dairy,1999,1.37
+Powder skim milk,Dairy,2000,0.95
+Powder skim milk,Dairy,2001,1.1
+Powder skim milk,Dairy,2002,1.19
+Powder skim milk,Dairy,2003,1.3
+Powder skim milk,Dairy,2004,1.09
+Powder skim milk,Dairy,2005,1.02
+Powder skim milk,Dairy,2006,1.1
+Powder skim milk,Dairy,2007,1.32
+Powder skim milk,Dairy,2008,1.36
+Powder skim milk,Dairy,2009,1.33
+Powder skim milk,Dairy,2010,0.91
+Powder skim milk,Dairy,2011,1.03
+Powder skim milk,Dairy,2012,0.92
+Powder skim milk,Dairy,2013,0.83
+Powder skim milk,Dairy,2014,0.7
+Powder skim milk,Dairy,2015,0.81
+Powder skim milk,Dairy,2016,0.75
+Powder skim milk,Dairy,2017,0.65
+Powder skim milk,Dairy,2018,0.63
+Powder skim milk,Dairy,2019,0.29
+Baked and canned beans,Proteins,1988,2.05
+Baked and canned beans,Proteins,1989,1.82
+Baked and canned beans,Proteins,1990,1.97
+Baked and canned beans,Proteins,1991,1.55
+Baked and canned beans,Proteins,1992,1.86
+Baked and canned beans,Proteins,1993,1.56
+Baked and canned beans,Proteins,1994,1.54
+Baked and canned beans,Proteins,1995,1.44
+Baked and canned beans,Proteins,1996,1.43
+Baked and canned beans,Proteins,1997,1.42
+Baked and canned beans,Proteins,1998,1.38
+Baked and canned beans,Proteins,1999,1.38
+Baked and canned beans,Proteins,2000,1.37
+Baked and canned beans,Proteins,2001,1.42
+Baked and canned beans,Proteins,2002,1.35
+Baked and canned beans,Proteins,2003,1.35
+Baked and canned beans,Proteins,2004,1.35
+Baked and canned beans,Proteins,2005,1.29
+Baked and canned beans,Proteins,2006,1.29
+Baked and canned beans,Proteins,2007,1.26
+Baked and canned beans,Proteins,2008,1.23
+Baked and canned beans,Proteins,2009,1.16
+Baked and canned beans,Proteins,2010,1.22
+Baked and canned beans,Proteins,2011,1.26
+Baked and canned beans,Proteins,2012,1.08
+Baked and canned beans,Proteins,2013,1.13
+Baked and canned beans,Proteins,2014,1.05
+Baked and canned beans,Proteins,2015,1.07
+Baked and canned beans,Proteins,2016,1.02
+Baked and canned beans,Proteins,2017,0.99
+Baked and canned beans,Proteins,2018,0.97
+Baked and canned beans,Proteins,2019,0.95
+Peaches fresh,Fruits,1988,1.82
+Peaches fresh,Fruits,1989,1.81
+Peaches fresh,Fruits,1990,1.92
+Peaches fresh,Fruits,1991,1.72
+Peaches fresh,Fruits,1992,1.84
+Peaches fresh,Fruits,1993,1.79
+Peaches fresh,Fruits,1994,1.93
+Peaches fresh,Fruits,1995,1.85
+Peaches fresh,Fruits,1996,1.53
+Peaches fresh,Fruits,1997,1.37
+Peaches fresh,Fruits,1998,1.28
+Peaches fresh,Fruits,1999,1.28
+Peaches fresh,Fruits,2000,1.29
+Peaches fresh,Fruits,2001,1.36
+Peaches fresh,Fruits,2002,1.4
+Peaches fresh,Fruits,2003,1.43
+Peaches fresh,Fruits,2004,1.36
+Peaches fresh,Fruits,2005,1.24
+Peaches fresh,Fruits,2006,1.33
+Peaches fresh,Fruits,2007,1.55
+Peaches fresh,Fruits,2008,1.39
+Peaches fresh,Fruits,2009,1.21
+Peaches fresh,Fruits,2010,1.27
+Peaches fresh,Fruits,2011,1.28
+Peaches fresh,Fruits,2012,1.2
+Peaches fresh,Fruits,2013,1.23
+Peaches fresh,Fruits,2014,1.13
+Peaches fresh,Fruits,2015,1.18
+Peaches fresh,Fruits,2016,1.15
+Peaches fresh,Fruits,2017,0.99
+Peaches fresh,Fruits,2018,1.08
+Peaches fresh,Fruits,2019,1.11
+"Stewing hen, eviscerated weight",Proteins,1988,1.12
+"Stewing hen, eviscerated weight",Proteins,1989,1.17
+"Stewing hen, eviscerated weight",Proteins,1990,1.52
+"Stewing hen, eviscerated weight",Proteins,1991,1.54
+"Stewing hen, eviscerated weight",Proteins,1992,1.95
+"Stewing hen, eviscerated weight",Proteins,1993,1.59
+"Stewing hen, eviscerated weight",Proteins,1994,1.42
+"Stewing hen, eviscerated weight",Proteins,1995,1.44
+"Stewing hen, eviscerated weight",Proteins,1996,1.75
+"Stewing hen, eviscerated weight",Proteins,1997,2.06
+"Stewing hen, eviscerated weight",Proteins,1998,2.07
+"Stewing hen, eviscerated weight",Proteins,1999,1.86
+"Stewing hen, eviscerated weight",Proteins,2000,1.9
+"Stewing hen, eviscerated weight",Proteins,2001,1.74
+"Stewing hen, eviscerated weight",Proteins,2002,1.81
+"Stewing hen, eviscerated weight",Proteins,2003,1.76
+"Stewing hen, eviscerated weight",Proteins,2004,1.8
+"Stewing hen, eviscerated weight",Proteins,2005,1.73
+"Stewing hen, eviscerated weight",Proteins,2006,2.04
+"Stewing hen, eviscerated weight",Proteins,2007,2.11
+"Stewing hen, eviscerated weight",Proteins,2008,2.31
+"Stewing hen, eviscerated weight",Proteins,2009,2.15
+"Stewing hen, eviscerated weight",Proteins,2010,2.47
+"Stewing hen, eviscerated weight",Proteins,2011,2.62
+"Stewing hen, eviscerated weight",Proteins,2012,3.26
+"Stewing hen, eviscerated weight",Proteins,2013,2.94
+"Stewing hen, eviscerated weight",Proteins,2014,2.52
+"Stewing hen, eviscerated weight",Proteins,2015,3.15
+"Stewing hen, eviscerated weight",Proteins,2016,3.09
+"Stewing hen, eviscerated weight",Proteins,2017,2.67
+"Stewing hen, eviscerated weight",Proteins,2018,2.82
+"Stewing hen, eviscerated weight",Proteins,2019,2.9
+Corn canned,Vegetables,1988,1.51
+Corn canned,Vegetables,1989,1.62
+Corn canned,Vegetables,1990,1.73
+Corn canned,Vegetables,1991,1.7
+Corn canned,Vegetables,1992,1.7
+Corn canned,Vegetables,1993,1.71
+Corn canned,Vegetables,1994,1.5
+Corn canned,Vegetables,1995,1.68
+Corn canned,Vegetables,1996,1.58
+Corn canned,Vegetables,1997,1.61
+Corn canned,Vegetables,1998,1.58
+Corn canned,Vegetables,1999,1.56
+Corn canned,Vegetables,2000,1.36
+Corn canned,Vegetables,2001,1.33
+Corn canned,Vegetables,2002,1.27
+Corn canned,Vegetables,2003,1.23
+Corn canned,Vegetables,2004,1.16
+Corn canned,Vegetables,2005,1.13
+Corn canned,Vegetables,2006,1.14
+Corn canned,Vegetables,2007,1.13
+Corn canned,Vegetables,2008,1.04
+Corn canned,Vegetables,2009,1.11
+Corn canned,Vegetables,2010,1.05
+Corn canned,Vegetables,2011,1.05
+Corn canned,Vegetables,2012,1
+Corn canned,Vegetables,2013,0.95
+Corn canned,Vegetables,2014,0.94
+Corn canned,Vegetables,2015,0.93
+Corn canned,Vegetables,2016,0.88
+Corn canned,Vegetables,2017,0.86
+Corn canned,Vegetables,2018,0.83
+Corn canned,Vegetables,2019,0.8
+"Veal, carcass weight",Proteins,1988,1.32
+"Veal, carcass weight",Proteins,1989,1.43
+"Veal, carcass weight",Proteins,1990,1.53
+"Veal, carcass weight",Proteins,1991,1.48
+"Veal, carcass weight",Proteins,1992,1.48
+"Veal, carcass weight",Proteins,1993,1.35
+"Veal, carcass weight",Proteins,1994,1.32
+"Veal, carcass weight",Proteins,1995,1.38
+"Veal, carcass weight",Proteins,1996,1.3
+"Veal, carcass weight",Proteins,1997,1.37
+"Veal, carcass weight",Proteins,1998,1.31
+"Veal, carcass weight",Proteins,1999,1.29
+"Veal, carcass weight",Proteins,2000,1.32
+"Veal, carcass weight",Proteins,2001,1.25
+"Veal, carcass weight",Proteins,2002,1.26
+"Veal, carcass weight",Proteins,2003,1.23
+"Veal, carcass weight",Proteins,2004,1.17
+"Veal, carcass weight",Proteins,2005,1.05
+"Veal, carcass weight",Proteins,2006,1.05
+"Veal, carcass weight",Proteins,2007,1.26
+"Veal, carcass weight",Proteins,2008,1.18
+"Veal, carcass weight",Proteins,2009,1.18
+"Veal, carcass weight",Proteins,2010,1.25
+"Veal, carcass weight",Proteins,2011,1.19
+"Veal, carcass weight",Proteins,2012,1.13
+"Veal, carcass weight",Proteins,2013,1.08
+"Veal, carcass weight",Proteins,2014,1.07
+"Veal, carcass weight",Proteins,2015,1
+"Veal, carcass weight",Proteins,2016,0.94
+"Veal, carcass weight",Proteins,2017,0.95
+"Veal, carcass weight",Proteins,2018,0.93
+"Veal, carcass weight",Proteins,2019,0.9
+Potatoes chips,"Fats, Oils, Sweets",1988,2.52
+Potatoes chips,"Fats, Oils, Sweets",1989,2.43
+Potatoes chips,"Fats, Oils, Sweets",1990,2.37
+Potatoes chips,"Fats, Oils, Sweets",1991,2.56
+Potatoes chips,"Fats, Oils, Sweets",1992,2.49
+Potatoes chips,"Fats, Oils, Sweets",1993,2.58
+Potatoes chips,"Fats, Oils, Sweets",1994,2.57
+Potatoes chips,"Fats, Oils, Sweets",1995,2.51
+Potatoes chips,"Fats, Oils, Sweets",1996,2.61
+Potatoes chips,"Fats, Oils, Sweets",1997,2.77
+Potatoes chips,"Fats, Oils, Sweets",1998,2.79
+Potatoes chips,"Fats, Oils, Sweets",1999,2.8
+Potatoes chips,"Fats, Oils, Sweets",2000,3.08
+Potatoes chips,"Fats, Oils, Sweets",2001,2.97
+Potatoes chips,"Fats, Oils, Sweets",2002,2.91
+Potatoes chips,"Fats, Oils, Sweets",2003,2.79
+Potatoes chips,"Fats, Oils, Sweets",2004,3.3
+Potatoes chips,"Fats, Oils, Sweets",2005,3.26
+Potatoes chips,"Fats, Oils, Sweets",2006,3.56
+Potatoes chips,"Fats, Oils, Sweets",2007,3.63
+Potatoes chips,"Fats, Oils, Sweets",2008,3.59
+Potatoes chips,"Fats, Oils, Sweets",2009,3.47
+Potatoes chips,"Fats, Oils, Sweets",2010,3.45
+Potatoes chips,"Fats, Oils, Sweets",2011,3.19
+Potatoes chips,"Fats, Oils, Sweets",2012,3.27
+Potatoes chips,"Fats, Oils, Sweets",2013,3.28
+Potatoes chips,"Fats, Oils, Sweets",2014,3.28
+Potatoes chips,"Fats, Oils, Sweets",2015,3.3
+Potatoes chips,"Fats, Oils, Sweets",2016,3.67
+Potatoes chips,"Fats, Oils, Sweets",2017,3.71
+Potatoes chips,"Fats, Oils, Sweets",2018,3.65
+Potatoes chips,"Fats, Oils, Sweets",2019,3.63
+Mandarins fresh,Fruits,1988,1.96
+Mandarins fresh,Fruits,1989,1.86
+Mandarins fresh,Fruits,1990,2.08
+Mandarins fresh,Fruits,1991,2.1
+Mandarins fresh,Fruits,1992,2.62
+Mandarins fresh,Fruits,1993,2.47
+Mandarins fresh,Fruits,1994,2.25
+Mandarins fresh,Fruits,1995,2.31
+Mandarins fresh,Fruits,1996,2.53
+Mandarins fresh,Fruits,1997,2.53
+Mandarins fresh,Fruits,1998,2.67
+Mandarins fresh,Fruits,1999,2.56
+Mandarins fresh,Fruits,2000,2.81
+Mandarins fresh,Fruits,2001,2.51
+Mandarins fresh,Fruits,2002,2.76
+Mandarins fresh,Fruits,2003,2.71
+Mandarins fresh,Fruits,2004,2.75
+Mandarins fresh,Fruits,2005,3.09
+Mandarins fresh,Fruits,2006,3.23
+Mandarins fresh,Fruits,2007,3.5
+Mandarins fresh,Fruits,2008,3.49
+Mandarins fresh,Fruits,2009,3.51
+Mandarins fresh,Fruits,2010,3.47
+Mandarins fresh,Fruits,2011,3.43
+Mandarins fresh,Fruits,2012,3.55
+Mandarins fresh,Fruits,2013,3.5
+Mandarins fresh,Fruits,2014,3.3
+Mandarins fresh,Fruits,2015,3.88
+Mandarins fresh,Fruits,2016,3.83
+Mandarins fresh,Fruits,2017,3.88
+Mandarins fresh,Fruits,2018,3.71
+Mandarins fresh,Fruits,2019,3.62
+"Offal, carcass weight",Proteins,1988,0.93
+"Offal, carcass weight",Proteins,1989,1.63
+"Offal, carcass weight",Proteins,1990,1.82
+"Offal, carcass weight",Proteins,1991,1.68
+"Offal, carcass weight",Proteins,1992,1.48
+"Offal, carcass weight",Proteins,1993,1.1
+"Offal, carcass weight",Proteins,1994,1.51
+"Offal, carcass weight",Proteins,1995,1.35
+"Offal, carcass weight",Proteins,1996,1.33
+"Offal, carcass weight",Proteins,1997,1.16
+"Offal, carcass weight",Proteins,1998,1.36
+"Offal, carcass weight",Proteins,1999,1.7
+"Offal, carcass weight",Proteins,2000,1.04
+"Offal, carcass weight",Proteins,2001,0.85
+"Offal, carcass weight",Proteins,2002,1.04
+"Offal, carcass weight",Proteins,2003,1.39
+"Offal, carcass weight",Proteins,2004,1.5
+"Offal, carcass weight",Proteins,2005,1.05
+"Offal, carcass weight",Proteins,2006,1.2
+"Offal, carcass weight",Proteins,2007,1.09
+"Offal, carcass weight",Proteins,2008,0.93
+"Offal, carcass weight",Proteins,2009,1.38
+"Offal, carcass weight",Proteins,2010,1.18
+"Offal, carcass weight",Proteins,2011,0.54
+"Offal, carcass weight",Proteins,2012,0.7
+"Offal, carcass weight",Proteins,2013,0.54
+"Offal, carcass weight",Proteins,2014,0.46
+"Offal, carcass weight",Proteins,2015,1.17
+"Offal, carcass weight",Proteins,2016,0.73
+"Offal, carcass weight",Proteins,2017,0.53
+"Offal, carcass weight",Proteins,2018,1.13
+"Offal, carcass weight",Proteins,2019,1.13
+"Cocoa, green bean equivalent",Fruits,1988,1.83
+"Cocoa, green bean equivalent",Fruits,1989,1.64
+"Cocoa, green bean equivalent",Fruits,1990,1.14
+"Cocoa, green bean equivalent",Fruits,1991,1.7
+"Cocoa, green bean equivalent",Fruits,1992,1.45
+"Cocoa, green bean equivalent",Fruits,1993,1.8
+"Cocoa, green bean equivalent",Fruits,1994,1.28
+"Cocoa, green bean equivalent",Fruits,1995,1.65
+"Cocoa, green bean equivalent",Fruits,1996,1.4
+"Cocoa, green bean equivalent",Fruits,1997,1.39
+"Cocoa, green bean equivalent",Fruits,1998,1.38
+"Cocoa, green bean equivalent",Fruits,1999,1.39
+"Cocoa, green bean equivalent",Fruits,2000,1.4
+"Cocoa, green bean equivalent",Fruits,2001,1.38
+"Cocoa, green bean equivalent",Fruits,2002,1.4
+"Cocoa, green bean equivalent",Fruits,2003,1.42
+"Cocoa, green bean equivalent",Fruits,2004,1.43
+"Cocoa, green bean equivalent",Fruits,2005,1.43
+"Cocoa, green bean equivalent",Fruits,2006,1.42
+"Cocoa, green bean equivalent",Fruits,2007,1.49
+"Cocoa, green bean equivalent",Fruits,2008,1.37
+"Cocoa, green bean equivalent",Fruits,2009,1.36
+"Cocoa, green bean equivalent",Fruits,2010,1.36
+"Cocoa, green bean equivalent",Fruits,2011,1.34
+"Cocoa, green bean equivalent",Fruits,2012,1.29
+"Cocoa, green bean equivalent",Fruits,2013,1.3
+"Cocoa, green bean equivalent",Fruits,2014,1.3
+"Cocoa, green bean equivalent",Fruits,2015,1.25
+"Cocoa, green bean equivalent",Fruits,2016,1.21
+"Cocoa, green bean equivalent",Fruits,2017,1.17
+"Cocoa, green bean equivalent",Fruits,2018,1.03
+"Cocoa, green bean equivalent",Fruits,2019,1.02
+Dates fresh,Fruits,1988,1.26
+Dates fresh,Fruits,1989,1.17
+Dates fresh,Fruits,1990,1.22
+Dates fresh,Fruits,1991,1.04
+Dates fresh,Fruits,1992,0.86
+Dates fresh,Fruits,1993,1.01
+Dates fresh,Fruits,1994,0.97
+Dates fresh,Fruits,1995,0.78
+Dates fresh,Fruits,1996,0.75
+Dates fresh,Fruits,1997,0.82
+Dates fresh,Fruits,1998,0.9
+Dates fresh,Fruits,1999,0.81
+Dates fresh,Fruits,2000,0.62
+Dates fresh,Fruits,2001,0.52
+Dates fresh,Fruits,2002,0.71
+Dates fresh,Fruits,2003,0.75
+Dates fresh,Fruits,2004,0.9
+Dates fresh,Fruits,2005,1.07
+Dates fresh,Fruits,2006,1.26
+Dates fresh,Fruits,2007,1.31
+Dates fresh,Fruits,2008,1.07
+Dates fresh,Fruits,2009,1
+Dates fresh,Fruits,2010,1.23
+Dates fresh,Fruits,2011,1.28
+Dates fresh,Fruits,2012,1.3
+Dates fresh,Fruits,2013,1.39
+Dates fresh,Fruits,2014,1.48
+Dates fresh,Fruits,2015,1.5
+Dates fresh,Fruits,2016,1.54
+Dates fresh,Fruits,2017,1.77
+Dates fresh,Fruits,2018,1.72
+Dates fresh,Fruits,2019,1.78
+Sea Fish Processed,Proteins,1988,2.97
+Sea Fish Processed,Proteins,1989,3.29
+Sea Fish Processed,Proteins,1990,2.96
+Sea Fish Processed,Proteins,1991,2.63
+Sea Fish Processed,Proteins,1992,1.9
+Sea Fish Processed,Proteins,1993,2.84
+Sea Fish Processed,Proteins,1994,1.88
+Sea Fish Processed,Proteins,1995,2.2
+Sea Fish Processed,Proteins,1996,1.97
+Sea Fish Processed,Proteins,1997,2.26
+Sea Fish Processed,Proteins,1998,2.38
+Sea Fish Processed,Proteins,1999,2.5
+Sea Fish Processed,Proteins,2000,2.19
+Sea Fish Processed,Proteins,2001,2.67
+Sea Fish Processed,Proteins,2002,2.96
+Sea Fish Processed,Proteins,2003,2.81
+Sea Fish Processed,Proteins,2004,2.74
+Sea Fish Processed,Proteins,2005,2.91
+Sea Fish Processed,Proteins,2006,2.71
+Sea Fish Processed,Proteins,2007,2.45
+Sea Fish Processed,Proteins,2008,2.2
+Sea Fish Processed,Proteins,2009,2.45
+Sea Fish Processed,Proteins,2010,2.21
+Sea Fish Processed,Proteins,2011,2.5
+Sea Fish Processed,Proteins,2012,2.37
+Sea Fish Processed,Proteins,2013,2.62
+Sea Fish Processed,Proteins,2014,2.38
+Sea Fish Processed,Proteins,2015,2.68
+Sea Fish Processed,Proteins,2016,2.73
+Sea Fish Processed,Proteins,2017,2.33
+Sea Fish Processed,Proteins,2018,2.53
+Sea Fish Processed,Proteins,2019,2.71
+Table cream 18%,Dairy,1988,0.44
+Table cream 18%,Dairy,1989,0.46
+Table cream 18%,Dairy,1990,0.48
+Table cream 18%,Dairy,1991,0.49
+Table cream 18%,Dairy,1992,0.53
+Table cream 18%,Dairy,1993,0.57
+Table cream 18%,Dairy,1994,0.65
+Table cream 18%,Dairy,1995,0.75
+Table cream 18%,Dairy,1996,0.79
+Table cream 18%,Dairy,1997,0.95
+Table cream 18%,Dairy,1998,1.11
+Table cream 18%,Dairy,1999,1.36
+Table cream 18%,Dairy,2000,1.57
+Table cream 18%,Dairy,2001,1.8
+Table cream 18%,Dairy,2002,1.96
+Table cream 18%,Dairy,2003,2.37
+Table cream 18%,Dairy,2004,2.57
+Table cream 18%,Dairy,2005,2.77
+Table cream 18%,Dairy,2006,2.98
+Table cream 18%,Dairy,2007,3.12
+Table cream 18%,Dairy,2008,3.08
+Table cream 18%,Dairy,2009,3.12
+Table cream 18%,Dairy,2010,3.15
+Table cream 18%,Dairy,2011,3.16
+Table cream 18%,Dairy,2012,3.48
+Table cream 18%,Dairy,2013,3.85
+Table cream 18%,Dairy,2014,3.87
+Table cream 18%,Dairy,2015,3.94
+Table cream 18%,Dairy,2016,3.85
+Table cream 18%,Dairy,2017,3.72
+Table cream 18%,Dairy,2018,3.9
+Table cream 18%,Dairy,2019,4.21
+Pumpkins and squash fresh,Vegetables,1988,0.45
+Pumpkins and squash fresh,Vegetables,1989,0.49
+Pumpkins and squash fresh,Vegetables,1990,0.52
+Pumpkins and squash fresh,Vegetables,1991,0.5
+Pumpkins and squash fresh,Vegetables,1992,0.56
+Pumpkins and squash fresh,Vegetables,1993,0.97
+Pumpkins and squash fresh,Vegetables,1994,1.76
+Pumpkins and squash fresh,Vegetables,1995,1.93
+Pumpkins and squash fresh,Vegetables,1996,1.92
+Pumpkins and squash fresh,Vegetables,1997,1.75
+Pumpkins and squash fresh,Vegetables,1998,1.57
+Pumpkins and squash fresh,Vegetables,1999,2.01
+Pumpkins and squash fresh,Vegetables,2000,2.14
+Pumpkins and squash fresh,Vegetables,2001,2.55
+Pumpkins and squash fresh,Vegetables,2002,2.1
+Pumpkins and squash fresh,Vegetables,2003,2.39
+Pumpkins and squash fresh,Vegetables,2004,2.54
+Pumpkins and squash fresh,Vegetables,2005,2.63
+Pumpkins and squash fresh,Vegetables,2006,2.64
+Pumpkins and squash fresh,Vegetables,2007,2.52
+Pumpkins and squash fresh,Vegetables,2008,2.56
+Pumpkins and squash fresh,Vegetables,2009,3.02
+Pumpkins and squash fresh,Vegetables,2010,2.77
+Pumpkins and squash fresh,Vegetables,2011,3.04
+Pumpkins and squash fresh,Vegetables,2012,3.39
+Pumpkins and squash fresh,Vegetables,2013,3.22
+Pumpkins and squash fresh,Vegetables,2014,3.76
+Pumpkins and squash fresh,Vegetables,2015,3.33
+Pumpkins and squash fresh,Vegetables,2016,3.35
+Pumpkins and squash fresh,Vegetables,2017,3.44
+Pumpkins and squash fresh,Vegetables,2018,3.2
+Pumpkins and squash fresh,Vegetables,2019,3.17
+Mushrooms fresh,Vegetables,1988,1.38
+Mushrooms fresh,Vegetables,1989,1.48
+Mushrooms fresh,Vegetables,1990,1.55
+Mushrooms fresh,Vegetables,1991,1.51
+Mushrooms fresh,Vegetables,1992,1.49
+Mushrooms fresh,Vegetables,1993,1.52
+Mushrooms fresh,Vegetables,1994,1.56
+Mushrooms fresh,Vegetables,1995,1.7
+Mushrooms fresh,Vegetables,1996,1.43
+Mushrooms fresh,Vegetables,1997,1.64
+Mushrooms fresh,Vegetables,1998,1.45
+Mushrooms fresh,Vegetables,1999,1.66
+Mushrooms fresh,Vegetables,2000,1.87
+Mushrooms fresh,Vegetables,2001,1.95
+Mushrooms fresh,Vegetables,2002,1.45
+Mushrooms fresh,Vegetables,2003,1.73
+Mushrooms fresh,Vegetables,2004,1.62
+Mushrooms fresh,Vegetables,2005,1.49
+Mushrooms fresh,Vegetables,2006,1.68
+Mushrooms fresh,Vegetables,2007,1.61
+Mushrooms fresh,Vegetables,2008,2.57
+Mushrooms fresh,Vegetables,2009,2.59
+Mushrooms fresh,Vegetables,2010,2.31
+Mushrooms fresh,Vegetables,2011,2.56
+Mushrooms fresh,Vegetables,2012,2.49
+Mushrooms fresh,Vegetables,2013,2.37
+Mushrooms fresh,Vegetables,2014,2.39
+Mushrooms fresh,Vegetables,2015,2.32
+Mushrooms fresh,Vegetables,2016,2.15
+Mushrooms fresh,Vegetables,2017,2.16
+Mushrooms fresh,Vegetables,2018,2.13
+Mushrooms fresh,Vegetables,2019,1.84
+Pineapples fresh,Fruits,1988,0.45
+Pineapples fresh,Fruits,1989,0.55
+Pineapples fresh,Fruits,1990,0.59
+Pineapples fresh,Fruits,1991,0.58
+Pineapples fresh,Fruits,1992,0.59
+Pineapples fresh,Fruits,1993,0.61
+Pineapples fresh,Fruits,1994,0.57
+Pineapples fresh,Fruits,1995,0.55
+Pineapples fresh,Fruits,1996,0.57
+Pineapples fresh,Fruits,1997,0.77
+Pineapples fresh,Fruits,1998,0.8
+Pineapples fresh,Fruits,1999,1.02
+Pineapples fresh,Fruits,2000,1.27
+Pineapples fresh,Fruits,2001,1.51
+Pineapples fresh,Fruits,2002,1.71
+Pineapples fresh,Fruits,2003,1.87
+Pineapples fresh,Fruits,2004,2.1
+Pineapples fresh,Fruits,2005,2.47
+Pineapples fresh,Fruits,2006,3.03
+Pineapples fresh,Fruits,2007,2.95
+Pineapples fresh,Fruits,2008,2.97
+Pineapples fresh,Fruits,2009,2.68
+Pineapples fresh,Fruits,2010,2.84
+Pineapples fresh,Fruits,2011,2.97
+Pineapples fresh,Fruits,2012,3.28
+Pineapples fresh,Fruits,2013,3.31
+Pineapples fresh,Fruits,2014,3.37
+Pineapples fresh,Fruits,2015,2.91
+Pineapples fresh,Fruits,2016,3.11
+Pineapples fresh,Fruits,2017,3.31
+Pineapples fresh,Fruits,2018,3.23
+Pineapples fresh,Fruits,2019,3.02
+"Mutton and lamb, carcass weight",Proteins,1988,0.85
+"Mutton and lamb, carcass weight",Proteins,1989,0.79
+"Mutton and lamb, carcass weight",Proteins,1990,0.83
+"Mutton and lamb, carcass weight",Proteins,1991,0.87
+"Mutton and lamb, carcass weight",Proteins,1992,0.84
+"Mutton and lamb, carcass weight",Proteins,1993,0.85
+"Mutton and lamb, carcass weight",Proteins,1994,0.82
+"Mutton and lamb, carcass weight",Proteins,1995,0.81
+"Mutton and lamb, carcass weight",Proteins,1996,0.75
+"Mutton and lamb, carcass weight",Proteins,1997,0.74
+"Mutton and lamb, carcass weight",Proteins,1998,0.83
+"Mutton and lamb, carcass weight",Proteins,1999,0.86
+"Mutton and lamb, carcass weight",Proteins,2000,0.94
+"Mutton and lamb, carcass weight",Proteins,2001,1.03
+"Mutton and lamb, carcass weight",Proteins,2002,1.03
+"Mutton and lamb, carcass weight",Proteins,2003,1.08
+"Mutton and lamb, carcass weight",Proteins,2004,1.11
+"Mutton and lamb, carcass weight",Proteins,2005,1.12
+"Mutton and lamb, carcass weight",Proteins,2006,1.21
+"Mutton and lamb, carcass weight",Proteins,2007,1.22
+"Mutton and lamb, carcass weight",Proteins,2008,1.17
+"Mutton and lamb, carcass weight",Proteins,2009,1.16
+"Mutton and lamb, carcass weight",Proteins,2010,1.09
+"Mutton and lamb, carcass weight",Proteins,2011,1.06
+"Mutton and lamb, carcass weight",Proteins,2012,0.97
+"Mutton and lamb, carcass weight",Proteins,2013,1
+"Mutton and lamb, carcass weight",Proteins,2014,1.05
+"Mutton and lamb, carcass weight",Proteins,2015,1.05
+"Mutton and lamb, carcass weight",Proteins,2016,1.06
+"Mutton and lamb, carcass weight",Proteins,2017,1.11
+"Mutton and lamb, carcass weight",Proteins,2018,1.07
+"Mutton and lamb, carcass weight",Proteins,2019,0.98
+Tree nuts,Proteins,1988,1.27
+Tree nuts,Proteins,1989,1.37
+Tree nuts,Proteins,1990,1.24
+Tree nuts,Proteins,1991,1.29
+Tree nuts,Proteins,1992,1.12
+Tree nuts,Proteins,1993,1.2
+Tree nuts,Proteins,1994,1.13
+Tree nuts,Proteins,1995,0.92
+Tree nuts,Proteins,1996,0.94
+Tree nuts,Proteins,1997,0.91
+Tree nuts,Proteins,1998,1.08
+Tree nuts,Proteins,1999,1.33
+Tree nuts,Proteins,2000,1.5
+Tree nuts,Proteins,2001,1.59
+Tree nuts,Proteins,2002,1.64
+Tree nuts,Proteins,2003,1.43
+Tree nuts,Proteins,2004,1.49
+Tree nuts,Proteins,2005,1.34
+Tree nuts,Proteins,2006,1.43
+Tree nuts,Proteins,2007,1.55
+Tree nuts,Proteins,2008,1.47
+Tree nuts,Proteins,2009,1.49
+Tree nuts,Proteins,2010,1.58
+Tree nuts,Proteins,2011,1.65
+Tree nuts,Proteins,2012,1.78
+Tree nuts,Proteins,2013,1.79
+Tree nuts,Proteins,2014,1.76
+Tree nuts,Proteins,2015,1.78
+Tree nuts,Proteins,2016,1.79
+Tree nuts,Proteins,2017,1.8
+Tree nuts,Proteins,2018,2.03
+Tree nuts,Proteins,2019,1.94
+Peaches canned,Fruits,1988,1.33
+Peaches canned,Fruits,1989,0.98
+Peaches canned,Fruits,1990,0.91
+Peaches canned,Fruits,1991,0.86
+Peaches canned,Fruits,1992,0.9
+Peaches canned,Fruits,1993,0.9
+Peaches canned,Fruits,1994,0.88
+Peaches canned,Fruits,1995,0.91
+Peaches canned,Fruits,1996,1
+Peaches canned,Fruits,1997,1.09
+Peaches canned,Fruits,1998,1.08
+Peaches canned,Fruits,1999,1.09
+Peaches canned,Fruits,2000,1.07
+Peaches canned,Fruits,2001,1.08
+Peaches canned,Fruits,2002,1.03
+Peaches canned,Fruits,2003,1
+Peaches canned,Fruits,2004,0.92
+Peaches canned,Fruits,2005,0.93
+Peaches canned,Fruits,2006,0.77
+Peaches canned,Fruits,2007,0.74
+Peaches canned,Fruits,2008,0.72
+Peaches canned,Fruits,2009,0.72
+Peaches canned,Fruits,2010,0.66
+Peaches canned,Fruits,2011,0.62
+Peaches canned,Fruits,2012,0.57
+Peaches canned,Fruits,2013,0.55
+Peaches canned,Fruits,2014,0.56
+Peaches canned,Fruits,2015,0.52
+Peaches canned,Fruits,2016,0.53
+Peaches canned,Fruits,2017,0.47
+Peaches canned,Fruits,2018,0.5
+Peaches canned,Fruits,2019,0.49
+Lemons fresh,Fruits,1988,0.88
+Lemons fresh,Fruits,1989,0.93
+Lemons fresh,Fruits,1990,0.94
+Lemons fresh,Fruits,1991,0.88
+Lemons fresh,Fruits,1992,0.9
+Lemons fresh,Fruits,1993,0.89
+Lemons fresh,Fruits,1994,0.92
+Lemons fresh,Fruits,1995,0.93
+Lemons fresh,Fruits,1996,0.95
+Lemons fresh,Fruits,1997,0.99
+Lemons fresh,Fruits,1998,1.05
+Lemons fresh,Fruits,1999,1.09
+Lemons fresh,Fruits,2000,1.06
+Lemons fresh,Fruits,2001,1.16
+Lemons fresh,Fruits,2002,1.2
+Lemons fresh,Fruits,2003,1.23
+Lemons fresh,Fruits,2004,1.18
+Lemons fresh,Fruits,2005,1.22
+Lemons fresh,Fruits,2006,1.23
+Lemons fresh,Fruits,2007,1.19
+Lemons fresh,Fruits,2008,1.16
+Lemons fresh,Fruits,2009,1.16
+Lemons fresh,Fruits,2010,1.2
+Lemons fresh,Fruits,2011,1.31
+Lemons fresh,Fruits,2012,1.4
+Lemons fresh,Fruits,2013,1.43
+Lemons fresh,Fruits,2014,1.53
+Lemons fresh,Fruits,2015,1.7
+Lemons fresh,Fruits,2016,1.72
+Lemons fresh,Fruits,2017,1.81
+Lemons fresh,Fruits,2018,1.85
+Lemons fresh,Fruits,2019,1.86
+Peas frozen,Vegetables,1988,1.1
+Peas frozen,Vegetables,1989,1.16
+Peas frozen,Vegetables,1990,1.13
+Peas frozen,Vegetables,1991,1.28
+Peas frozen,Vegetables,1992,1.03
+Peas frozen,Vegetables,1993,1.02
+Peas frozen,Vegetables,1994,1.21
+Peas frozen,Vegetables,1995,1.12
+Peas frozen,Vegetables,1996,1.18
+Peas frozen,Vegetables,1997,1.2
+Peas frozen,Vegetables,1998,1.25
+Peas frozen,Vegetables,1999,1.18
+Peas frozen,Vegetables,2000,1.21
+Peas frozen,Vegetables,2001,1.18
+Peas frozen,Vegetables,2002,0.99
+Peas frozen,Vegetables,2003,1.16
+Peas frozen,Vegetables,2004,1.13
+Peas frozen,Vegetables,2005,0.98
+Peas frozen,Vegetables,2006,0.83
+Peas frozen,Vegetables,2007,0.72
+Peas frozen,Vegetables,2008,0.74
+Peas frozen,Vegetables,2009,0.64
+Peas frozen,Vegetables,2010,0.58
+Peas frozen,Vegetables,2011,0.62
+Peas frozen,Vegetables,2012,0.79
+Peas frozen,Vegetables,2013,0.69
+Peas frozen,Vegetables,2014,0.72
+Peas frozen,Vegetables,2015,0.72
+Peas frozen,Vegetables,2016,0.7
+Peas frozen,Vegetables,2017,0.66
+Peas frozen,Vegetables,2018,0.67
+Peas frozen,Vegetables,2019,0.67
+Pineapples canned,Fruits,1988,1.18
+Pineapples canned,Fruits,1989,1.31
+Pineapples canned,Fruits,1990,1.22
+Pineapples canned,Fruits,1991,1.34
+Pineapples canned,Fruits,1992,1.28
+Pineapples canned,Fruits,1993,1.26
+Pineapples canned,Fruits,1994,1.08
+Pineapples canned,Fruits,1995,1.01
+Pineapples canned,Fruits,1996,1.04
+Pineapples canned,Fruits,1997,1.06
+Pineapples canned,Fruits,1998,0.96
+Pineapples canned,Fruits,1999,1.04
+Pineapples canned,Fruits,2000,0.95
+Pineapples canned,Fruits,2001,0.97
+Pineapples canned,Fruits,2002,0.93
+Pineapples canned,Fruits,2003,0.92
+Pineapples canned,Fruits,2004,0.91
+Pineapples canned,Fruits,2005,0.89
+Pineapples canned,Fruits,2006,0.85
+Pineapples canned,Fruits,2007,0.85
+Pineapples canned,Fruits,2008,0.82
+Pineapples canned,Fruits,2009,0.78
+Pineapples canned,Fruits,2010,0.68
+Pineapples canned,Fruits,2011,0.68
+Pineapples canned,Fruits,2012,0.65
+Pineapples canned,Fruits,2013,0.69
+Pineapples canned,Fruits,2014,0.63
+Pineapples canned,Fruits,2015,0.66
+Pineapples canned,Fruits,2016,0.65
+Pineapples canned,Fruits,2017,0.65
+Pineapples canned,Fruits,2018,0.61
+Pineapples canned,Fruits,2019,0.61
+Plums total fresh,Fruits,1988,1.05
+Plums total fresh,Fruits,1989,1.17
+Plums total fresh,Fruits,1990,1.12
+Plums total fresh,Fruits,1991,1.06
+Plums total fresh,Fruits,1992,1.07
+Plums total fresh,Fruits,1993,0.94
+Plums total fresh,Fruits,1994,1.01
+Plums total fresh,Fruits,1995,0.73
+Plums total fresh,Fruits,1996,0.97
+Plums total fresh,Fruits,1997,1.04
+Plums total fresh,Fruits,1998,0.87
+Plums total fresh,Fruits,1999,0.87
+Plums total fresh,Fruits,2000,0.85
+Plums total fresh,Fruits,2001,0.97
+Plums total fresh,Fruits,2002,0.98
+Plums total fresh,Fruits,2003,0.95
+Plums total fresh,Fruits,2004,0.82
+Plums total fresh,Fruits,2005,0.9
+Plums total fresh,Fruits,2006,0.81
+Plums total fresh,Fruits,2007,0.82
+Plums total fresh,Fruits,2008,0.84
+Plums total fresh,Fruits,2009,0.74
+Plums total fresh,Fruits,2010,0.75
+Plums total fresh,Fruits,2011,0.77
+Plums total fresh,Fruits,2012,0.68
+Plums total fresh,Fruits,2013,0.72
+Plums total fresh,Fruits,2014,0.62
+Plums total fresh,Fruits,2015,0.56
+Plums total fresh,Fruits,2016,0.61
+Plums total fresh,Fruits,2017,0.55
+Plums total fresh,Fruits,2018,0.51
+Plums total fresh,Fruits,2019,0.5
+Cottage cheese,Dairy,1988,1.16
+Cottage cheese,Dairy,1989,1.11
+Cottage cheese,Dairy,1990,1.12
+Cottage cheese,Dairy,1991,1.03
+Cottage cheese,Dairy,1992,0.92
+Cottage cheese,Dairy,1993,0.88
+Cottage cheese,Dairy,1994,0.87
+Cottage cheese,Dairy,1995,0.83
+Cottage cheese,Dairy,1996,0.76
+Cottage cheese,Dairy,1997,0.72
+Cottage cheese,Dairy,1998,0.71
+Cottage cheese,Dairy,1999,0.71
+Cottage cheese,Dairy,2000,0.79
+Cottage cheese,Dairy,2001,0.78
+Cottage cheese,Dairy,2002,0.79
+Cottage cheese,Dairy,2003,0.78
+Cottage cheese,Dairy,2004,0.82
+Cottage cheese,Dairy,2005,0.85
+Cottage cheese,Dairy,2006,0.85
+Cottage cheese,Dairy,2007,0.91
+Cottage cheese,Dairy,2008,0.9
+Cottage cheese,Dairy,2009,0.78
+Cottage cheese,Dairy,2010,0.77
+Cottage cheese,Dairy,2011,0.75
+Cottage cheese,Dairy,2012,0.75
+Cottage cheese,Dairy,2013,0.72
+Cottage cheese,Dairy,2014,0.68
+Cottage cheese,Dairy,2015,0.6
+Cottage cheese,Dairy,2016,0.59
+Cottage cheese,Dairy,2017,0.64
+Cottage cheese,Dairy,2018,0.63
+Cottage cheese,Dairy,2019,0.62
+"Total shellfish, edible weight",Proteins,1988,1.2
+"Total shellfish, edible weight",Proteins,1989,1.57
+"Total shellfish, edible weight",Proteins,1990,1.49
+"Total shellfish, edible weight",Proteins,1991,1.51
+"Total shellfish, edible weight",Proteins,1992,1.76
+"Total shellfish, edible weight",Proteins,1993,1.59
+"Total shellfish, edible weight",Proteins,1994,1.47
+"Total shellfish, edible weight",Proteins,1995,1.49
+"Total shellfish, edible weight",Proteins,1996,1.66
+"Total shellfish, edible weight",Proteins,1997,1.86
+"Total shellfish, edible weight",Proteins,1998,2.11
+"Total shellfish, edible weight",Proteins,1999,2.29
+"Total shellfish, edible weight",Proteins,2000,2.35
+"Total shellfish, edible weight",Proteins,2001,2.12
+"Total shellfish, edible weight",Proteins,2002,2.17
+"Total shellfish, edible weight",Proteins,2003,2.03
+"Total shellfish, edible weight",Proteins,2004,1.93
+"Total shellfish, edible weight",Proteins,2005,1.91
+"Total shellfish, edible weight",Proteins,2006,1.89
+"Total shellfish, edible weight",Proteins,2007,1.55
+"Total shellfish, edible weight",Proteins,2008,1.39
+"Total shellfish, edible weight",Proteins,2009,1.53
+"Total shellfish, edible weight",Proteins,2010,1.57
+"Total shellfish, edible weight",Proteins,2011,1.49
+"Total shellfish, edible weight",Proteins,2012,1.5
+"Total shellfish, edible weight",Proteins,2013,1.21
+"Total shellfish, edible weight",Proteins,2014,1.32
+"Total shellfish, edible weight",Proteins,2015,1.16
+"Total shellfish, edible weight",Proteins,2016,1.18
+"Total shellfish, edible weight",Proteins,2017,1.31
+"Total shellfish, edible weight",Proteins,2018,1.54
+"Total shellfish, edible weight",Proteins,2019,1.41
+Honey,"Fats, Oils, Sweets",1988,0.88
+Honey,"Fats, Oils, Sweets",1989,0.88
+Honey,"Fats, Oils, Sweets",1990,0.89
+Honey,"Fats, Oils, Sweets",1991,0.78
+Honey,"Fats, Oils, Sweets",1992,0.7
+Honey,"Fats, Oils, Sweets",1993,0.83
+Honey,"Fats, Oils, Sweets",1994,0.97
+Honey,"Fats, Oils, Sweets",1995,0.65
+Honey,"Fats, Oils, Sweets",1996,1.03
+Honey,"Fats, Oils, Sweets",1997,0.86
+Honey,"Fats, Oils, Sweets",1998,1.24
+Honey,"Fats, Oils, Sweets",1999,0.83
+Honey,"Fats, Oils, Sweets",2000,0.63
+Honey,"Fats, Oils, Sweets",2001,0.9
+Honey,"Fats, Oils, Sweets",2002,0.74
+Honey,"Fats, Oils, Sweets",2003,0.9
+Honey,"Fats, Oils, Sweets",2004,0.91
+Honey,"Fats, Oils, Sweets",2005,0.99
+Honey,"Fats, Oils, Sweets",2006,1.22
+Honey,"Fats, Oils, Sweets",2007,0.58
+Honey,"Fats, Oils, Sweets",2008,0.36
+Honey,"Fats, Oils, Sweets",2009,0.78
+Honey,"Fats, Oils, Sweets",2010,0.79
+Honey,"Fats, Oils, Sweets",2011,0.91
+Honey,"Fats, Oils, Sweets",2012,0.82
+Honey,"Fats, Oils, Sweets",2013,0.85
+Honey,"Fats, Oils, Sweets",2014,1.06
+Honey,"Fats, Oils, Sweets",2015,1.1
+Honey,"Fats, Oils, Sweets",2016,0.93
+Honey,"Fats, Oils, Sweets",2017,0.9
+Honey,"Fats, Oils, Sweets",2018,0.86
+Honey,"Fats, Oils, Sweets",2019,0.87
+Whipping cream 32% or 35%,Dairy,1988,0.86
+Whipping cream 32% or 35%,Dairy,1989,0.84
+Whipping cream 32% or 35%,Dairy,1990,0.85
+Whipping cream 32% or 35%,Dairy,1991,0.82
+Whipping cream 32% or 35%,Dairy,1992,0.84
+Whipping cream 32% or 35%,Dairy,1993,0.81
+Whipping cream 32% or 35%,Dairy,1994,0.84
+Whipping cream 32% or 35%,Dairy,1995,0.86
+Whipping cream 32% or 35%,Dairy,1996,0.87
+Whipping cream 32% or 35%,Dairy,1997,0.85
+Whipping cream 32% or 35%,Dairy,1998,0.9
+Whipping cream 32% or 35%,Dairy,1999,0.92
+Whipping cream 32% or 35%,Dairy,2000,1.05
+Whipping cream 32% or 35%,Dairy,2001,1.03
+Whipping cream 32% or 35%,Dairy,2002,1.1
+Whipping cream 32% or 35%,Dairy,2003,1.19
+Whipping cream 32% or 35%,Dairy,2004,1.13
+Whipping cream 32% or 35%,Dairy,2005,1.16
+Whipping cream 32% or 35%,Dairy,2006,1.17
+Whipping cream 32% or 35%,Dairy,2007,1.21
+Whipping cream 32% or 35%,Dairy,2008,1.22
+Whipping cream 32% or 35%,Dairy,2009,1.24
+Whipping cream 32% or 35%,Dairy,2010,1.15
+Whipping cream 32% or 35%,Dairy,2011,1.24
+Whipping cream 32% or 35%,Dairy,2012,1.33
+Whipping cream 32% or 35%,Dairy,2013,1.36
+Whipping cream 32% or 35%,Dairy,2014,1.35
+Whipping cream 32% or 35%,Dairy,2015,1.33
+Whipping cream 32% or 35%,Dairy,2016,1.4
+Whipping cream 32% or 35%,Dairy,2017,1.69
+Whipping cream 32% or 35%,Dairy,2018,1.6
+Whipping cream 32% or 35%,Dairy,2019,1.42
+Ice milk,Dairy,1988,0.68
+Ice milk,Dairy,1989,0.69
+Ice milk,Dairy,1990,0.62
+Ice milk,Dairy,1991,0.66
+Ice milk,Dairy,1992,0.56
+Ice milk,Dairy,1993,0.72
+Ice milk,Dairy,1994,0.78
+Ice milk,Dairy,1995,0.93
+Ice milk,Dairy,1996,1.04
+Ice milk,Dairy,1997,0.99
+Ice milk,Dairy,1998,1.04
+Ice milk,Dairy,1999,0.99
+Ice milk,Dairy,2000,1.11
+Ice milk,Dairy,2001,1.18
+Ice milk,Dairy,2002,1.15
+Ice milk,Dairy,2003,1.09
+Ice milk,Dairy,2004,1.03
+Ice milk,Dairy,2005,0.97
+Ice milk,Dairy,2006,0.9
+Ice milk,Dairy,2007,0.87
+Ice milk,Dairy,2008,0.91
+Ice milk,Dairy,2009,0.87
+Ice milk,Dairy,2010,1.18
+Ice milk,Dairy,2011,1.53
+Ice milk,Dairy,2012,1.49
+Ice milk,Dairy,2013,1.48
+Ice milk,Dairy,2014,1.43
+Ice milk,Dairy,2015,1.6
+Ice milk,Dairy,2016,1.6
+Ice milk,Dairy,2017,1.68
+Ice milk,Dairy,2018,1.69
+Ice milk,Dairy,2019,1.66
+Grapefruit juice,Non-Alcoholic Drink,1988,1.15
+Grapefruit juice,Non-Alcoholic Drink,1989,0.99
+Grapefruit juice,Non-Alcoholic Drink,1990,1.02
+Grapefruit juice,Non-Alcoholic Drink,1991,0.94
+Grapefruit juice,Non-Alcoholic Drink,1992,0.93
+Grapefruit juice,Non-Alcoholic Drink,1993,0.81
+Grapefruit juice,Non-Alcoholic Drink,1994,0.97
+Grapefruit juice,Non-Alcoholic Drink,1995,0.98
+Grapefruit juice,Non-Alcoholic Drink,1996,1.05
+Grapefruit juice,Non-Alcoholic Drink,1997,0.99
+Grapefruit juice,Non-Alcoholic Drink,1998,0.73
+Grapefruit juice,Non-Alcoholic Drink,1999,0.82
+Grapefruit juice,Non-Alcoholic Drink,2000,1.02
+Grapefruit juice,Non-Alcoholic Drink,2001,0.79
+Grapefruit juice,Non-Alcoholic Drink,2002,1.35
+Grapefruit juice,Non-Alcoholic Drink,2003,1.13
+Grapefruit juice,Non-Alcoholic Drink,2004,1.26
+Grapefruit juice,Non-Alcoholic Drink,2005,0.96
+Grapefruit juice,Non-Alcoholic Drink,2006,0.54
+Grapefruit juice,Non-Alcoholic Drink,2007,0.5
+Grapefruit juice,Non-Alcoholic Drink,2008,0.47
+Grapefruit juice,Non-Alcoholic Drink,2009,0.53
+Grapefruit juice,Non-Alcoholic Drink,2010,0.47
+Grapefruit juice,Non-Alcoholic Drink,2011,0.44
+Grapefruit juice,Non-Alcoholic Drink,2012,0.42
+Grapefruit juice,Non-Alcoholic Drink,2013,0.38
+Grapefruit juice,Non-Alcoholic Drink,2014,0.32
+Grapefruit juice,Non-Alcoholic Drink,2015,0.32
+Grapefruit juice,Non-Alcoholic Drink,2016,0.33
+Grapefruit juice,Non-Alcoholic Drink,2017,0.3
+Grapefruit juice,Non-Alcoholic Drink,2018,0.27
+Grapefruit juice,Non-Alcoholic Drink,2019,0.25
+Sour cream,Dairy,1988,0.82
+Sour cream,Dairy,1989,0.85
+Sour cream,Dairy,1990,0.99
+Sour cream,Dairy,1991,0.99
+Sour cream,Dairy,1992,0.95
+Sour cream,Dairy,1993,1.04
+Sour cream,Dairy,1994,1.02
+Sour cream,Dairy,1995,0.95
+Sour cream,Dairy,1996,0.94
+Sour cream,Dairy,1997,0.96
+Sour cream,Dairy,1998,1.11
+Sour cream,Dairy,1999,1.2
+Sour cream,Dairy,2000,1.22
+Sour cream,Dairy,2001,1.36
+Sour cream,Dairy,2002,1.29
+Sour cream,Dairy,2003,1.35
+Sour cream,Dairy,2004,1.35
+Sour cream,Dairy,2005,1.33
+Sour cream,Dairy,2006,1.39
+Sour cream,Dairy,2007,1.38
+Sour cream,Dairy,2008,1.2
+Sour cream,Dairy,2009,1.04
+Sour cream,Dairy,2010,1.02
+Sour cream,Dairy,2011,1.25
+Sour cream,Dairy,2012,1.32
+Sour cream,Dairy,2013,1.33
+Sour cream,Dairy,2014,1.35
+Sour cream,Dairy,2015,1.25
+Sour cream,Dairy,2016,1.27
+Sour cream,Dairy,2017,1.39
+Sour cream,Dairy,2018,1.43
+Sour cream,Dairy,2019,1.43
+Beans green and wax fresh,Vegetables,1988,0.75
+Beans green and wax fresh,Vegetables,1989,0.73
+Beans green and wax fresh,Vegetables,1990,0.71
+Beans green and wax fresh,Vegetables,1991,0.83
+Beans green and wax fresh,Vegetables,1992,0.95
+Beans green and wax fresh,Vegetables,1993,0.83
+Beans green and wax fresh,Vegetables,1994,0.9
+Beans green and wax fresh,Vegetables,1995,0.85
+Beans green and wax fresh,Vegetables,1996,0.74
+Beans green and wax fresh,Vegetables,1997,0.77
+Beans green and wax fresh,Vegetables,1998,0.83
+Beans green and wax fresh,Vegetables,1999,0.85
+Beans green and wax fresh,Vegetables,2000,0.85
+Beans green and wax fresh,Vegetables,2001,0.82
+Beans green and wax fresh,Vegetables,2002,0.93
+Beans green and wax fresh,Vegetables,2003,0.96
+Beans green and wax fresh,Vegetables,2004,1.14
+Beans green and wax fresh,Vegetables,2005,0.92
+Beans green and wax fresh,Vegetables,2006,1.08
+Beans green and wax fresh,Vegetables,2007,1.01
+Beans green and wax fresh,Vegetables,2008,0.98
+Beans green and wax fresh,Vegetables,2009,0.98
+Beans green and wax fresh,Vegetables,2010,0.93
+Beans green and wax fresh,Vegetables,2011,0.97
+Beans green and wax fresh,Vegetables,2012,0.92
+Beans green and wax fresh,Vegetables,2013,0.89
+Beans green and wax fresh,Vegetables,2014,0.85
+Beans green and wax fresh,Vegetables,2015,0.9
+Beans green and wax fresh,Vegetables,2016,0.91
+Beans green and wax fresh,Vegetables,2017,0.86
+Beans green and wax fresh,Vegetables,2018,0.89
+Beans green and wax fresh,Vegetables,2019,0.92
+Cranberries fresh,Fruits,1988,0.61
+Cranberries fresh,Fruits,1989,0.55
+Cranberries fresh,Fruits,1990,0.68
+Cranberries fresh,Fruits,1991,0.64
+Cranberries fresh,Fruits,1992,0.74
+Cranberries fresh,Fruits,1993,0.58
+Cranberries fresh,Fruits,1994,0.55
+Cranberries fresh,Fruits,1995,0.52
+Cranberries fresh,Fruits,1996,0.5
+Cranberries fresh,Fruits,1997,0.47
+Cranberries fresh,Fruits,1998,0.49
+Cranberries fresh,Fruits,1999,0.43
+Cranberries fresh,Fruits,2000,0.4
+Cranberries fresh,Fruits,2001,0.39
+Cranberries fresh,Fruits,2002,0.44
+Cranberries fresh,Fruits,2003,0.59
+Cranberries fresh,Fruits,2004,0.74
+Cranberries fresh,Fruits,2005,0.72
+Cranberries fresh,Fruits,2006,0.94
+Cranberries fresh,Fruits,2007,0.83
+Cranberries fresh,Fruits,2008,1.07
+Cranberries fresh,Fruits,2009,1.35
+Cranberries fresh,Fruits,2010,1.24
+Cranberries fresh,Fruits,2011,1.5
+Cranberries fresh,Fruits,2012,1.97
+Cranberries fresh,Fruits,2013,1.78
+Cranberries fresh,Fruits,2014,2.77
+Cranberries fresh,Fruits,2015,2.19
+Cranberries fresh,Fruits,2016,3.15
+Cranberries fresh,Fruits,2017,2.04
+Cranberries fresh,Fruits,2018,2.77
+Cranberries fresh,Fruits,2019,3.45
+Nectarines fresh,Fruits,1988,1
+Nectarines fresh,Fruits,1989,1.1
+Nectarines fresh,Fruits,1990,1.14
+Nectarines fresh,Fruits,1991,1.01
+Nectarines fresh,Fruits,1992,1.16
+Nectarines fresh,Fruits,1993,0.97
+Nectarines fresh,Fruits,1994,1.06
+Nectarines fresh,Fruits,1995,0.86
+Nectarines fresh,Fruits,1996,1.01
+Nectarines fresh,Fruits,1997,1.08
+Nectarines fresh,Fruits,1998,0.86
+Nectarines fresh,Fruits,1999,1.02
+Nectarines fresh,Fruits,2000,1.03
+Nectarines fresh,Fruits,2001,1.12
+Nectarines fresh,Fruits,2002,1.19
+Nectarines fresh,Fruits,2003,1.22
+Nectarines fresh,Fruits,2004,1.14
+Nectarines fresh,Fruits,2005,1.03
+Nectarines fresh,Fruits,2006,0.87
+Nectarines fresh,Fruits,2007,0.95
+Nectarines fresh,Fruits,2008,1.07
+Nectarines fresh,Fruits,2009,0.82
+Nectarines fresh,Fruits,2010,0.86
+Nectarines fresh,Fruits,2011,0.81
+Nectarines fresh,Fruits,2012,0.69
+Nectarines fresh,Fruits,2013,0.75
+Nectarines fresh,Fruits,2014,0.63
+Nectarines fresh,Fruits,2015,0.62
+Nectarines fresh,Fruits,2016,0.66
+Nectarines fresh,Fruits,2017,0.57
+Nectarines fresh,Fruits,2018,0.56
+Nectarines fresh,Fruits,2019,0.51
+Pineapple juice,Non-Alcoholic Drink,1988,0.94
+Pineapple juice,Non-Alcoholic Drink,1989,0.8
+Pineapple juice,Non-Alcoholic Drink,1990,0.78
+Pineapple juice,Non-Alcoholic Drink,1991,0.8
+Pineapple juice,Non-Alcoholic Drink,1992,0.74
+Pineapple juice,Non-Alcoholic Drink,1993,0.69
+Pineapple juice,Non-Alcoholic Drink,1994,0.77
+Pineapple juice,Non-Alcoholic Drink,1995,0.69
+Pineapple juice,Non-Alcoholic Drink,1996,0.7
+Pineapple juice,Non-Alcoholic Drink,1997,0.72
+Pineapple juice,Non-Alcoholic Drink,1998,0.67
+Pineapple juice,Non-Alcoholic Drink,1999,0.75
+Pineapple juice,Non-Alcoholic Drink,2000,0.81
+Pineapple juice,Non-Alcoholic Drink,2001,0.99
+Pineapple juice,Non-Alcoholic Drink,2002,0.76
+Pineapple juice,Non-Alcoholic Drink,2003,0.72
+Pineapple juice,Non-Alcoholic Drink,2004,0.8
+Pineapple juice,Non-Alcoholic Drink,2005,0.95
+Pineapple juice,Non-Alcoholic Drink,2006,0.92
+Pineapple juice,Non-Alcoholic Drink,2007,1.13
+Pineapple juice,Non-Alcoholic Drink,2008,1.12
+Pineapple juice,Non-Alcoholic Drink,2009,0.81
+Pineapple juice,Non-Alcoholic Drink,2010,0.59
+Pineapple juice,Non-Alcoholic Drink,2011,0.56
+Pineapple juice,Non-Alcoholic Drink,2012,0.65
+Pineapple juice,Non-Alcoholic Drink,2013,0.62
+Pineapple juice,Non-Alcoholic Drink,2014,0.64
+Pineapple juice,Non-Alcoholic Drink,2015,0.73
+Pineapple juice,Non-Alcoholic Drink,2016,0.59
+Pineapple juice,Non-Alcoholic Drink,2017,0.44
+Pineapple juice,Non-Alcoholic Drink,2018,0.49
+Pineapple juice,Non-Alcoholic Drink,2019,0.61
+Powder whey,Dairy,1988,0.72
+Powder whey,Dairy,1989,0.69
+Powder whey,Dairy,1990,0.68
+Powder whey,Dairy,1991,0.87
+Powder whey,Dairy,1992,0.79
+Powder whey,Dairy,1993,1.01
+Powder whey,Dairy,1994,0.97
+Powder whey,Dairy,1995,0.94
+Powder whey,Dairy,1996,1.1
+Powder whey,Dairy,1997,0.8
+Powder whey,Dairy,1998,0.65
+Powder whey,Dairy,1999,0.43
+Powder whey,Dairy,2000,0.93
+Powder whey,Dairy,2001,0.99
+Powder whey,Dairy,2002,0.64
+Powder whey,Dairy,2003,0.37
+Powder whey,Dairy,2004,0.31
+Powder whey,Dairy,2005,0.29
+Powder whey,Dairy,2006,0.36
+Powder whey,Dairy,2007,0.32
+Powder whey,Dairy,2008,0.24
+Powder whey,Dairy,2009,0.22
+Powder whey,Dairy,2010,0.15
+Powder whey,Dairy,2011,0.13
+Powder whey,Dairy,2012,0.11
+Powder whey,Dairy,2013,0.15
+Powder whey,Dairy,2014,0.24
+Powder whey,Dairy,2015,0.44
+Powder whey,Dairy,2016,0.29
+Powder whey,Dairy,2017,0.34
+Powder whey,Dairy,2018,0.37
+Powder whey,Dairy,2019,0.28
+Potatoes sweet fresh,Vegetables,1988,0.3
+Potatoes sweet fresh,Vegetables,1989,0.28
+Potatoes sweet fresh,Vegetables,1990,0.25
+Potatoes sweet fresh,Vegetables,1991,0.28
+Potatoes sweet fresh,Vegetables,1992,0.35
+Potatoes sweet fresh,Vegetables,1993,0.43
+Potatoes sweet fresh,Vegetables,1994,0.38
+Potatoes sweet fresh,Vegetables,1995,0.41
+Potatoes sweet fresh,Vegetables,1996,0.42
+Potatoes sweet fresh,Vegetables,1997,0.47
+Potatoes sweet fresh,Vegetables,1998,0.55
+Potatoes sweet fresh,Vegetables,1999,0.59
+Potatoes sweet fresh,Vegetables,2000,0.6
+Potatoes sweet fresh,Vegetables,2001,0.61
+Potatoes sweet fresh,Vegetables,2002,0.62
+Potatoes sweet fresh,Vegetables,2003,0.67
+Potatoes sweet fresh,Vegetables,2004,0.75
+Potatoes sweet fresh,Vegetables,2005,0.75
+Potatoes sweet fresh,Vegetables,2006,0.78
+Potatoes sweet fresh,Vegetables,2007,0.73
+Potatoes sweet fresh,Vegetables,2008,0.82
+Potatoes sweet fresh,Vegetables,2009,1.04
+Potatoes sweet fresh,Vegetables,2010,1.49
+Potatoes sweet fresh,Vegetables,2011,1.51
+Potatoes sweet fresh,Vegetables,2012,1.48
+Potatoes sweet fresh,Vegetables,2013,1.48
+Potatoes sweet fresh,Vegetables,2014,1.36
+Potatoes sweet fresh,Vegetables,2015,1.4
+Potatoes sweet fresh,Vegetables,2016,1.25
+Potatoes sweet fresh,Vegetables,2017,1.13
+Potatoes sweet fresh,Vegetables,2018,1.11
+Potatoes sweet fresh,Vegetables,2019,0.89
+Cherries fresh,Fruits,1988,0.36
+Cherries fresh,Fruits,1989,0.47
+Cherries fresh,Fruits,1990,0.34
+Cherries fresh,Fruits,1991,0.31
+Cherries fresh,Fruits,1992,0.4
+Cherries fresh,Fruits,1993,0.3
+Cherries fresh,Fruits,1994,0.36
+Cherries fresh,Fruits,1995,0.29
+Cherries fresh,Fruits,1996,0.28
+Cherries fresh,Fruits,1997,0.34
+Cherries fresh,Fruits,1998,0.39
+Cherries fresh,Fruits,1999,0.38
+Cherries fresh,Fruits,2000,0.36
+Cherries fresh,Fruits,2001,0.48
+Cherries fresh,Fruits,2002,0.36
+Cherries fresh,Fruits,2003,0.59
+Cherries fresh,Fruits,2004,0.49
+Cherries fresh,Fruits,2005,0.55
+Cherries fresh,Fruits,2006,0.69
+Cherries fresh,Fruits,2007,0.83
+Cherries fresh,Fruits,2008,0.81
+Cherries fresh,Fruits,2009,1.09
+Cherries fresh,Fruits,2010,0.87
+Cherries fresh,Fruits,2011,0.97
+Cherries fresh,Fruits,2012,1.19
+Cherries fresh,Fruits,2013,0.81
+Cherries fresh,Fruits,2014,0.95
+Cherries fresh,Fruits,2015,0.72
+Cherries fresh,Fruits,2016,0.76
+Cherries fresh,Fruits,2017,1.13
+Cherries fresh,Fruits,2018,0.97
+Cherries fresh,Fruits,2019,0.97
+Guavas and mangoes fresh,Fruits,1988,0.32
+Guavas and mangoes fresh,Fruits,1989,0.33
+Guavas and mangoes fresh,Fruits,1990,0.33
+Guavas and mangoes fresh,Fruits,1991,0.45
+Guavas and mangoes fresh,Fruits,1992,0.42
+Guavas and mangoes fresh,Fruits,1993,0.49
+Guavas and mangoes fresh,Fruits,1994,0.52
+Guavas and mangoes fresh,Fruits,1995,0.58
+Guavas and mangoes fresh,Fruits,1996,0.69
+Guavas and mangoes fresh,Fruits,1997,0.71
+Guavas and mangoes fresh,Fruits,1998,0.85
+Guavas and mangoes fresh,Fruits,1999,0.95
+Guavas and mangoes fresh,Fruits,2000,0.93
+Guavas and mangoes fresh,Fruits,2001,0.96
+Guavas and mangoes fresh,Fruits,2002,0.93
+Guavas and mangoes fresh,Fruits,2003,1.09
+Guavas and mangoes fresh,Fruits,2004,1.21
+Guavas and mangoes fresh,Fruits,2005,1.06
+Guavas and mangoes fresh,Fruits,2006,1.21
+Guavas and mangoes fresh,Fruits,2007,1.33
+Guavas and mangoes fresh,Fruits,2008,1.2
+Guavas and mangoes fresh,Fruits,2009,1.16
+Guavas and mangoes fresh,Fruits,2010,1.29
+Guavas and mangoes fresh,Fruits,2011,1.55
+Guavas and mangoes fresh,Fruits,2012,1.47
+Guavas and mangoes fresh,Fruits,2013,1.61
+Guavas and mangoes fresh,Fruits,2014,1.52
+Guavas and mangoes fresh,Fruits,2015,1.45
+Guavas and mangoes fresh,Fruits,2016,1.45
+Guavas and mangoes fresh,Fruits,2017,1.62
+Guavas and mangoes fresh,Fruits,2018,1.67
+Guavas and mangoes fresh,Fruits,2019,1.74
+Spinach fresh,Vegetables,1988,0.54
+Spinach fresh,Vegetables,1989,0.55
+Spinach fresh,Vegetables,1990,0.49
+Spinach fresh,Vegetables,1991,0.49
+Spinach fresh,Vegetables,1992,0.48
+Spinach fresh,Vegetables,1993,0.47
+Spinach fresh,Vegetables,1994,0.45
+Spinach fresh,Vegetables,1995,0.47
+Spinach fresh,Vegetables,1996,0.49
+Spinach fresh,Vegetables,1997,0.51
+Spinach fresh,Vegetables,1998,0.56
+Spinach fresh,Vegetables,1999,0.61
+Spinach fresh,Vegetables,2000,0.67
+Spinach fresh,Vegetables,2001,0.83
+Spinach fresh,Vegetables,2002,0.9
+Spinach fresh,Vegetables,2003,0.89
+Spinach fresh,Vegetables,2004,0.8
+Spinach fresh,Vegetables,2005,0.62
+Spinach fresh,Vegetables,2006,0.53
+Spinach fresh,Vegetables,2007,0.54
+Spinach fresh,Vegetables,2008,0.6
+Spinach fresh,Vegetables,2009,0.66
+Spinach fresh,Vegetables,2010,0.74
+Spinach fresh,Vegetables,2011,0.74
+Spinach fresh,Vegetables,2012,0.81
+Spinach fresh,Vegetables,2013,0.9
+Spinach fresh,Vegetables,2014,0.98
+Spinach fresh,Vegetables,2015,0.95
+Spinach fresh,Vegetables,2016,0.93
+Spinach fresh,Vegetables,2017,0.97
+Spinach fresh,Vegetables,2018,0.94
+Spinach fresh,Vegetables,2019,0.92
+Buttermilk,Dairy,1988,0.51
+Buttermilk,Dairy,1989,0.5
+Buttermilk,Dairy,1990,0.48
+Buttermilk,Dairy,1991,0.46
+Buttermilk,Dairy,1992,0.44
+Buttermilk,Dairy,1993,0.42
+Buttermilk,Dairy,1994,0.42
+Buttermilk,Dairy,1995,0.42
+Buttermilk,Dairy,1996,0.4
+Buttermilk,Dairy,1997,0.38
+Buttermilk,Dairy,1998,0.43
+Buttermilk,Dairy,1999,0.43
+Buttermilk,Dairy,2000,0.39
+Buttermilk,Dairy,2001,0.39
+Buttermilk,Dairy,2002,0.42
+Buttermilk,Dairy,2003,0.43
+Buttermilk,Dairy,2004,0.44
+Buttermilk,Dairy,2005,0.42
+Buttermilk,Dairy,2006,0.42
+Buttermilk,Dairy,2007,0.45
+Buttermilk,Dairy,2008,0.44
+Buttermilk,Dairy,2009,0.38
+Buttermilk,Dairy,2010,0.33
+Buttermilk,Dairy,2011,0.34
+Buttermilk,Dairy,2012,0.34
+Buttermilk,Dairy,2013,0.37
+Buttermilk,Dairy,2014,0.34
+Buttermilk,Dairy,2015,0.32
+Buttermilk,Dairy,2016,0.28
+Buttermilk,Dairy,2017,0.28
+Buttermilk,Dairy,2018,0.32
+Buttermilk,Dairy,2019,0.39
+Pears canned,Fruits,1988,0.52
+Pears canned,Fruits,1989,0.43
+Pears canned,Fruits,1990,0.4
+Pears canned,Fruits,1991,0.36
+Pears canned,Fruits,1992,0.44
+Pears canned,Fruits,1993,0.35
+Pears canned,Fruits,1994,0.39
+Pears canned,Fruits,1995,0.33
+Pears canned,Fruits,1996,0.35
+Pears canned,Fruits,1997,0.37
+Pears canned,Fruits,1998,0.38
+Pears canned,Fruits,1999,0.38
+Pears canned,Fruits,2000,0.37
+Pears canned,Fruits,2001,0.37
+Pears canned,Fruits,2002,0.35
+Pears canned,Fruits,2003,0.34
+Pears canned,Fruits,2004,0.31
+Pears canned,Fruits,2005,0.31
+Pears canned,Fruits,2006,0.31
+Pears canned,Fruits,2007,0.27
+Pears canned,Fruits,2008,0.25
+Pears canned,Fruits,2009,0.22
+Pears canned,Fruits,2010,0.23
+Pears canned,Fruits,2011,0.22
+Pears canned,Fruits,2012,0.21
+Pears canned,Fruits,2013,0.19
+Pears canned,Fruits,2014,0.19
+Pears canned,Fruits,2015,0.17
+Pears canned,Fruits,2016,0.17
+Pears canned,Fruits,2017,0.17
+Pears canned,Fruits,2018,0.16
+Pears canned,Fruits,2019,0.16
+Blueberries fresh,Fruits,1988,0.29
+Blueberries fresh,Fruits,1989,0.35
+Blueberries fresh,Fruits,1990,0.34
+Blueberries fresh,Fruits,1991,0.38
+Blueberries fresh,Fruits,1992,0.4
+Blueberries fresh,Fruits,1993,0.55
+Blueberries fresh,Fruits,1994,0.65
+Blueberries fresh,Fruits,1995,0.51
+Blueberries fresh,Fruits,1996,0.24
+Blueberries fresh,Fruits,1997,0.11
+Blueberries fresh,Fruits,1998,0.13
+Blueberries fresh,Fruits,1999,0.17
+Blueberries fresh,Fruits,2000,0.51
+Blueberries fresh,Fruits,2001,0.39
+Blueberries fresh,Fruits,2002,0.38
+Blueberries fresh,Fruits,2003,0.56
+Blueberries fresh,Fruits,2004,0.56
+Blueberries fresh,Fruits,2005,0.8
+Blueberries fresh,Fruits,2006,0.73
+Blueberries fresh,Fruits,2007,0.91
+Blueberries fresh,Fruits,2008,1.13
+Blueberries fresh,Fruits,2009,1.11
+Blueberries fresh,Fruits,2010,1.29
+Blueberries fresh,Fruits,2011,1.41
+Blueberries fresh,Fruits,2012,1.18
+Blueberries fresh,Fruits,2013,1.29
+Blueberries fresh,Fruits,2014,1.07
+Blueberries fresh,Fruits,2015,0.78
+Blueberries fresh,Fruits,2016,1.01
+Blueberries fresh,Fruits,2017,1.09
+Blueberries fresh,Fruits,2018,1.19
+Blueberries fresh,Fruits,2019,1.46
+Avocados fresh,Vegetables,1988,0.24
+Avocados fresh,Vegetables,1989,0.23
+Avocados fresh,Vegetables,1990,0.19
+Avocados fresh,Vegetables,1991,0.2
+Avocados fresh,Vegetables,1992,0.22
+Avocados fresh,Vegetables,1993,0.25
+Avocados fresh,Vegetables,1994,0.26
+Avocados fresh,Vegetables,1995,0.31
+Avocados fresh,Vegetables,1996,0.34
+Avocados fresh,Vegetables,1997,0.3
+Avocados fresh,Vegetables,1998,0.34
+Avocados fresh,Vegetables,1999,0.3
+Avocados fresh,Vegetables,2000,0.39
+Avocados fresh,Vegetables,2001,0.38
+Avocados fresh,Vegetables,2002,0.44
+Avocados fresh,Vegetables,2003,0.47
+Avocados fresh,Vegetables,2004,0.56
+Avocados fresh,Vegetables,2005,0.53
+Avocados fresh,Vegetables,2006,0.63
+Avocados fresh,Vegetables,2007,0.66
+Avocados fresh,Vegetables,2008,0.71
+Avocados fresh,Vegetables,2009,0.8
+Avocados fresh,Vegetables,2010,0.98
+Avocados fresh,Vegetables,2011,0.99
+Avocados fresh,Vegetables,2012,1.32
+Avocados fresh,Vegetables,2013,1.54
+Avocados fresh,Vegetables,2014,1.62
+Avocados fresh,Vegetables,2015,1.84
+Avocados fresh,Vegetables,2016,2.02
+Avocados fresh,Vegetables,2017,2.05
+Avocados fresh,Vegetables,2018,2.38
+Avocados fresh,Vegetables,2019,2.37
+Radishes fresh,Vegetables,1988,0.59
+Radishes fresh,Vegetables,1989,0.51
+Radishes fresh,Vegetables,1990,0.52
+Radishes fresh,Vegetables,1991,0.53
+Radishes fresh,Vegetables,1992,0.56
+Radishes fresh,Vegetables,1993,0.55
+Radishes fresh,Vegetables,1994,0.53
+Radishes fresh,Vegetables,1995,0.57
+Radishes fresh,Vegetables,1996,0.55
+Radishes fresh,Vegetables,1997,0.5
+Radishes fresh,Vegetables,1998,0.47
+Radishes fresh,Vegetables,1999,0.52
+Radishes fresh,Vegetables,2000,0.93
+Radishes fresh,Vegetables,2001,0.5
+Radishes fresh,Vegetables,2002,0.53
+Radishes fresh,Vegetables,2003,0.63
+Radishes fresh,Vegetables,2004,0.55
+Radishes fresh,Vegetables,2005,0.49
+Radishes fresh,Vegetables,2006,0.43
+Radishes fresh,Vegetables,2007,0.39
+Radishes fresh,Vegetables,2008,0.33
+Radishes fresh,Vegetables,2009,0.48
+Radishes fresh,Vegetables,2010,0.47
+Radishes fresh,Vegetables,2011,0.35
+Radishes fresh,Vegetables,2012,0.38
+Radishes fresh,Vegetables,2013,0.39
+Radishes fresh,Vegetables,2014,0.45
+Radishes fresh,Vegetables,2015,0.44
+Radishes fresh,Vegetables,2016,0.43
+Radishes fresh,Vegetables,2017,0.44
+Radishes fresh,Vegetables,2018,0.35
+Radishes fresh,Vegetables,2019,0.36
+Beets fresh,Vegetables,1988,0.37
+Beets fresh,Vegetables,1989,0.27
+Beets fresh,Vegetables,1990,0.27
+Beets fresh,Vegetables,1991,0.29
+Beets fresh,Vegetables,1992,0.35
+Beets fresh,Vegetables,1993,0.32
+Beets fresh,Vegetables,1994,0.31
+Beets fresh,Vegetables,1995,0.32
+Beets fresh,Vegetables,1996,0.29
+Beets fresh,Vegetables,1997,0.3
+Beets fresh,Vegetables,1998,0.29
+Beets fresh,Vegetables,1999,0.28
+Beets fresh,Vegetables,2000,0.34
+Beets fresh,Vegetables,2001,0.37
+Beets fresh,Vegetables,2002,0.33
+Beets fresh,Vegetables,2003,0.32
+Beets fresh,Vegetables,2004,0.32
+Beets fresh,Vegetables,2005,0.3
+Beets fresh,Vegetables,2006,0.48
+Beets fresh,Vegetables,2007,0.38
+Beets fresh,Vegetables,2008,0.31
+Beets fresh,Vegetables,2009,0.45
+Beets fresh,Vegetables,2010,0.51
+Beets fresh,Vegetables,2011,0.67
+Beets fresh,Vegetables,2012,0.77
+Beets fresh,Vegetables,2013,0.78
+Beets fresh,Vegetables,2014,0.79
+Beets fresh,Vegetables,2015,1.05
+Beets fresh,Vegetables,2016,0.91
+Beets fresh,Vegetables,2017,0.98
+Beets fresh,Vegetables,2018,0.97
+Beets fresh,Vegetables,2019,0.97
+Lemon juice,Non-Alcoholic Drink,1988,0.31
+Lemon juice,Non-Alcoholic Drink,1989,0.34
+Lemon juice,Non-Alcoholic Drink,1990,0.47
+Lemon juice,Non-Alcoholic Drink,1991,0.35
+Lemon juice,Non-Alcoholic Drink,1992,0.7
+Lemon juice,Non-Alcoholic Drink,1993,0.59
+Lemon juice,Non-Alcoholic Drink,1994,0.35
+Lemon juice,Non-Alcoholic Drink,1995,0.41
+Lemon juice,Non-Alcoholic Drink,1996,0.41
+Lemon juice,Non-Alcoholic Drink,1997,0.36
+Lemon juice,Non-Alcoholic Drink,1998,0.34
+Lemon juice,Non-Alcoholic Drink,1999,0.39
+Lemon juice,Non-Alcoholic Drink,2000,0.35
+Lemon juice,Non-Alcoholic Drink,2001,0.4
+Lemon juice,Non-Alcoholic Drink,2002,0.57
+Lemon juice,Non-Alcoholic Drink,2003,0.58
+Lemon juice,Non-Alcoholic Drink,2004,0.58
+Lemon juice,Non-Alcoholic Drink,2005,0.58
+Lemon juice,Non-Alcoholic Drink,2006,0.64
+Lemon juice,Non-Alcoholic Drink,2007,0.67
+Lemon juice,Non-Alcoholic Drink,2008,0.66
+Lemon juice,Non-Alcoholic Drink,2009,0.69
+Lemon juice,Non-Alcoholic Drink,2010,0.68
+Lemon juice,Non-Alcoholic Drink,2011,0.63
+Lemon juice,Non-Alcoholic Drink,2012,0.53
+Lemon juice,Non-Alcoholic Drink,2013,0.62
+Lemon juice,Non-Alcoholic Drink,2014,0.72
+Lemon juice,Non-Alcoholic Drink,2015,0.66
+Lemon juice,Non-Alcoholic Drink,2016,0.68
+Lemon juice,Non-Alcoholic Drink,2017,1.07
+Lemon juice,Non-Alcoholic Drink,2018,1.14
+Lemon juice,Non-Alcoholic Drink,2019,1.1
+Milkshake,Non-Alcoholic Drink,1988,0.9
+Milkshake,Non-Alcoholic Drink,1989,0.76
+Milkshake,Non-Alcoholic Drink,1990,0.82
+Milkshake,Non-Alcoholic Drink,1991,0.69
+Milkshake,Non-Alcoholic Drink,1992,0.63
+Milkshake,Non-Alcoholic Drink,1993,0.6
+Milkshake,Non-Alcoholic Drink,1994,0.48
+Milkshake,Non-Alcoholic Drink,1995,0.52
+Milkshake,Non-Alcoholic Drink,1996,0.6
+Milkshake,Non-Alcoholic Drink,1997,0.71
+Milkshake,Non-Alcoholic Drink,1998,0.78
+Milkshake,Non-Alcoholic Drink,1999,0.76
+Milkshake,Non-Alcoholic Drink,2000,0.6
+Milkshake,Non-Alcoholic Drink,2001,0.49
+Milkshake,Non-Alcoholic Drink,2002,0.29
+Milkshake,Non-Alcoholic Drink,2003,0.25
+Milkshake,Non-Alcoholic Drink,2004,0.19
+Milkshake,Non-Alcoholic Drink,2005,0.18
+Milkshake,Non-Alcoholic Drink,2006,0.22
+Milkshake,Non-Alcoholic Drink,2007,0.27
+Milkshake,Non-Alcoholic Drink,2008,0.33
+Milkshake,Non-Alcoholic Drink,2009,0.23
+Milkshake,Non-Alcoholic Drink,2010,0.23
+Milkshake,Non-Alcoholic Drink,2011,0.23
+Milkshake,Non-Alcoholic Drink,2012,0.25
+Milkshake,Non-Alcoholic Drink,2013,0.16
+Milkshake,Non-Alcoholic Drink,2014,0.1
+Milkshake,Non-Alcoholic Drink,2015,0.09
+Milkshake,Non-Alcoholic Drink,2016,0.07
+Milkshake,Non-Alcoholic Drink,2017,0.08
+Milkshake,Non-Alcoholic Drink,2018,0.18
+Milkshake,Non-Alcoholic Drink,2019,0.08
+Figs fresh,Fruits,1988,0.42
+Figs fresh,Fruits,1989,0.39
+Figs fresh,Fruits,1990,0.27
+Figs fresh,Fruits,1991,0.31
+Figs fresh,Fruits,1992,0.28
+Figs fresh,Fruits,1993,0.32
+Figs fresh,Fruits,1994,0.33
+Figs fresh,Fruits,1995,0.28
+Figs fresh,Fruits,1996,0.27
+Figs fresh,Fruits,1997,0.25
+Figs fresh,Fruits,1998,0.24
+Figs fresh,Fruits,1999,0.27
+Figs fresh,Fruits,2000,0.3
+Figs fresh,Fruits,2001,0.31
+Figs fresh,Fruits,2002,0.29
+Figs fresh,Fruits,2003,0.31
+Figs fresh,Fruits,2004,0.34
+Figs fresh,Fruits,2005,0.39
+Figs fresh,Fruits,2006,0.4
+Figs fresh,Fruits,2007,0.3
+Figs fresh,Fruits,2008,0.3
+Figs fresh,Fruits,2009,0.34
+Figs fresh,Fruits,2010,0.35
+Figs fresh,Fruits,2011,0.35
+Figs fresh,Fruits,2012,0.38
+Figs fresh,Fruits,2013,0.43
+Figs fresh,Fruits,2014,0.43
+Figs fresh,Fruits,2015,0.39
+Figs fresh,Fruits,2016,0.38
+Figs fresh,Fruits,2017,0.42
+Figs fresh,Fruits,2018,0.45
+Figs fresh,Fruits,2019,0.38
+Asparagus fresh,Vegetables,1988,0.32
+Asparagus fresh,Vegetables,1989,0.32
+Asparagus fresh,Vegetables,1990,0.31
+Asparagus fresh,Vegetables,1991,0.37
+Asparagus fresh,Vegetables,1992,0.4
+Asparagus fresh,Vegetables,1993,0.42
+Asparagus fresh,Vegetables,1994,0.33
+Asparagus fresh,Vegetables,1995,0.28
+Asparagus fresh,Vegetables,1996,0.22
+Asparagus fresh,Vegetables,1997,0.25
+Asparagus fresh,Vegetables,1998,0.27
+Asparagus fresh,Vegetables,1999,0.32
+Asparagus fresh,Vegetables,2000,0.36
+Asparagus fresh,Vegetables,2001,0.37
+Asparagus fresh,Vegetables,2002,0.4
+Asparagus fresh,Vegetables,2003,0.47
+Asparagus fresh,Vegetables,2004,0.46
+Asparagus fresh,Vegetables,2005,0.53
+Asparagus fresh,Vegetables,2006,0.6
+Asparagus fresh,Vegetables,2007,0.59
+Asparagus fresh,Vegetables,2008,0.64
+Asparagus fresh,Vegetables,2009,0.7
+Asparagus fresh,Vegetables,2010,0.71
+Asparagus fresh,Vegetables,2011,0.76
+Asparagus fresh,Vegetables,2012,0.73
+Asparagus fresh,Vegetables,2013,0.68
+Asparagus fresh,Vegetables,2014,0.72
+Asparagus fresh,Vegetables,2015,0.65
+Asparagus fresh,Vegetables,2016,0.68
+Asparagus fresh,Vegetables,2017,0.68
+Asparagus fresh,Vegetables,2018,0.75
+Asparagus fresh,Vegetables,2019,0.75
+Rye flour,"Bread, Cereal, Rice, Pasta",1988,0.34
+Rye flour,"Bread, Cereal, Rice, Pasta",1989,0.36
+Rye flour,"Bread, Cereal, Rice, Pasta",1990,0.33
+Rye flour,"Bread, Cereal, Rice, Pasta",1991,0.32
+Rye flour,"Bread, Cereal, Rice, Pasta",1992,0.31
+Rye flour,"Bread, Cereal, Rice, Pasta",1993,0.34
+Rye flour,"Bread, Cereal, Rice, Pasta",1994,0.34
+Rye flour,"Bread, Cereal, Rice, Pasta",1995,0.36
+Rye flour,"Bread, Cereal, Rice, Pasta",1996,0.29
+Rye flour,"Bread, Cereal, Rice, Pasta",1997,0.36
+Rye flour,"Bread, Cereal, Rice, Pasta",1998,0.34
+Rye flour,"Bread, Cereal, Rice, Pasta",1999,0.32
+Rye flour,"Bread, Cereal, Rice, Pasta",2000,0.3
+Rye flour,"Bread, Cereal, Rice, Pasta",2001,0.32
+Rye flour,"Bread, Cereal, Rice, Pasta",2002,0.3
+Rye flour,"Bread, Cereal, Rice, Pasta",2003,0.31
+Rye flour,"Bread, Cereal, Rice, Pasta",2004,0.32
+Rye flour,"Bread, Cereal, Rice, Pasta",2005,0.27
+Rye flour,"Bread, Cereal, Rice, Pasta",2006,0.27
+Rye flour,"Bread, Cereal, Rice, Pasta",2007,0.28
+Rye flour,"Bread, Cereal, Rice, Pasta",2008,0.28
+Rye flour,"Bread, Cereal, Rice, Pasta",2009,0.28
+Rye flour,"Bread, Cereal, Rice, Pasta",2010,0.24
+Rye flour,"Bread, Cereal, Rice, Pasta",2011,0.24
+Rye flour,"Bread, Cereal, Rice, Pasta",2012,0.24
+Rye flour,"Bread, Cereal, Rice, Pasta",2013,0.25
+Rye flour,"Bread, Cereal, Rice, Pasta",2014,0.26
+Rye flour,"Bread, Cereal, Rice, Pasta",2015,0.24
+Rye flour,"Bread, Cereal, Rice, Pasta",2016,0.23
+Rye flour,"Bread, Cereal, Rice, Pasta",2017,0.23
+Rye flour,"Bread, Cereal, Rice, Pasta",2018,0.17
+Rye flour,"Bread, Cereal, Rice, Pasta",2019,0.19
+Limes fresh,Fruits,1988,0.13
+Limes fresh,Fruits,1989,0.17
+Limes fresh,Fruits,1990,0.17
+Limes fresh,Fruits,1991,0.18
+Limes fresh,Fruits,1992,0.17
+Limes fresh,Fruits,1993,0.18
+Limes fresh,Fruits,1994,0.19
+Limes fresh,Fruits,1995,0.22
+Limes fresh,Fruits,1996,0.22
+Limes fresh,Fruits,1997,0.26
+Limes fresh,Fruits,1998,0.28
+Limes fresh,Fruits,1999,0.31
+Limes fresh,Fruits,2000,0.31
+Limes fresh,Fruits,2001,0.35
+Limes fresh,Fruits,2002,0.36
+Limes fresh,Fruits,2003,0.37
+Limes fresh,Fruits,2004,0.41
+Limes fresh,Fruits,2005,0.42
+Limes fresh,Fruits,2006,0.46
+Limes fresh,Fruits,2007,0.51
+Limes fresh,Fruits,2008,0.53
+Limes fresh,Fruits,2009,0.49
+Limes fresh,Fruits,2010,0.66
+Limes fresh,Fruits,2011,0.9
+Limes fresh,Fruits,2012,1.09
+Limes fresh,Fruits,2013,1.35
+Limes fresh,Fruits,2014,1.05
+Limes fresh,Fruits,2015,0.68
+Limes fresh,Fruits,2016,0.98
+Limes fresh,Fruits,2017,0.71
+Limes fresh,Fruits,2018,0.73
+Limes fresh,Fruits,2019,0.78
+Coconut fresh,Fruits,1988,0.3
+Coconut fresh,Fruits,1989,0.25
+Coconut fresh,Fruits,1990,0.28
+Coconut fresh,Fruits,1991,0.3
+Coconut fresh,Fruits,1992,0.33
+Coconut fresh,Fruits,1993,0.29
+Coconut fresh,Fruits,1994,0.26
+Coconut fresh,Fruits,1995,0.25
+Coconut fresh,Fruits,1996,0.24
+Coconut fresh,Fruits,1997,0.25
+Coconut fresh,Fruits,1998,0.24
+Coconut fresh,Fruits,1999,0.25
+Coconut fresh,Fruits,2000,0.3
+Coconut fresh,Fruits,2001,0.28
+Coconut fresh,Fruits,2002,0.28
+Coconut fresh,Fruits,2003,0.29
+Coconut fresh,Fruits,2004,0.28
+Coconut fresh,Fruits,2005,0.29
+Coconut fresh,Fruits,2006,0.3
+Coconut fresh,Fruits,2007,0.29
+Coconut fresh,Fruits,2008,0.29
+Coconut fresh,Fruits,2009,0.25
+Coconut fresh,Fruits,2010,0.28
+Coconut fresh,Fruits,2011,0.31
+Coconut fresh,Fruits,2012,0.31
+Coconut fresh,Fruits,2013,0.32
+Coconut fresh,Fruits,2014,0.36
+Coconut fresh,Fruits,2015,0.36
+Coconut fresh,Fruits,2016,0.32
+Coconut fresh,Fruits,2017,0.4
+Coconut fresh,Fruits,2018,0.41
+Coconut fresh,Fruits,2019,0.38
+"Freshwater fish, edible weight",Proteins,1988,0.2
+"Freshwater fish, edible weight",Proteins,1989,0.2
+"Freshwater fish, edible weight",Proteins,1990,0.21
+"Freshwater fish, edible weight",Proteins,1991,0.21
+"Freshwater fish, edible weight",Proteins,1992,0.22
+"Freshwater fish, edible weight",Proteins,1993,0.2
+"Freshwater fish, edible weight",Proteins,1994,0.2
+"Freshwater fish, edible weight",Proteins,1995,0.25
+"Freshwater fish, edible weight",Proteins,1996,0.3
+"Freshwater fish, edible weight",Proteins,1997,0.36
+"Freshwater fish, edible weight",Proteins,1998,0.32
+"Freshwater fish, edible weight",Proteins,1999,0.42
+"Freshwater fish, edible weight",Proteins,2000,0.46
+"Freshwater fish, edible weight",Proteins,2001,0.47
+"Freshwater fish, edible weight",Proteins,2002,0.43
+"Freshwater fish, edible weight",Proteins,2003,0.53
+"Freshwater fish, edible weight",Proteins,2004,0.51
+"Freshwater fish, edible weight",Proteins,2005,0.47
+"Freshwater fish, edible weight",Proteins,2006,0.5
+"Freshwater fish, edible weight",Proteins,2007,0.37
+"Freshwater fish, edible weight",Proteins,2008,0.36
+"Freshwater fish, edible weight",Proteins,2009,0.44
+"Freshwater fish, edible weight",Proteins,2010,0.36
+"Freshwater fish, edible weight",Proteins,2011,0.45
+"Freshwater fish, edible weight",Proteins,2012,0.94
+"Freshwater fish, edible weight",Proteins,2013,0.91
+"Freshwater fish, edible weight",Proteins,2014,0.92
+"Freshwater fish, edible weight",Proteins,2015,0.93
+"Freshwater fish, edible weight",Proteins,2016,0.94
+"Freshwater fish, edible weight",Proteins,2017,0.91
+"Freshwater fish, edible weight",Proteins,2018,1.09
+"Freshwater fish, edible weight",Proteins,2019,1.02
+Eggplants fresh,Vegetables,1988,0.29
+Eggplants fresh,Vegetables,1989,0.25
+Eggplants fresh,Vegetables,1990,0.26
+Eggplants fresh,Vegetables,1991,0.26
+Eggplants fresh,Vegetables,1992,0.3
+Eggplants fresh,Vegetables,1993,0.3
+Eggplants fresh,Vegetables,1994,0.3
+Eggplants fresh,Vegetables,1995,0.31
+Eggplants fresh,Vegetables,1996,0.32
+Eggplants fresh,Vegetables,1997,0.36
+Eggplants fresh,Vegetables,1998,0.33
+Eggplants fresh,Vegetables,1999,0.35
+Eggplants fresh,Vegetables,2000,0.4
+Eggplants fresh,Vegetables,2001,0.4
+Eggplants fresh,Vegetables,2002,0.41
+Eggplants fresh,Vegetables,2003,0.42
+Eggplants fresh,Vegetables,2004,0.42
+Eggplants fresh,Vegetables,2005,0.42
+Eggplants fresh,Vegetables,2006,0.44
+Eggplants fresh,Vegetables,2007,0.44
+Eggplants fresh,Vegetables,2008,0.45
+Eggplants fresh,Vegetables,2009,0.51
+Eggplants fresh,Vegetables,2010,0.5
+Eggplants fresh,Vegetables,2011,0.46
+Eggplants fresh,Vegetables,2012,0.54
+Eggplants fresh,Vegetables,2013,0.59
+Eggplants fresh,Vegetables,2014,0.59
+Eggplants fresh,Vegetables,2015,0.57
+Eggplants fresh,Vegetables,2016,0.57
+Eggplants fresh,Vegetables,2017,0.58
+Eggplants fresh,Vegetables,2018,0.62
+Eggplants fresh,Vegetables,2019,0.65
+Maple sugar,"Fats, Oils, Sweets",1988,0.11
+Maple sugar,"Fats, Oils, Sweets",1989,0.14
+Maple sugar,"Fats, Oils, Sweets",1990,0.14
+Maple sugar,"Fats, Oils, Sweets",1991,0.14
+Maple sugar,"Fats, Oils, Sweets",1992,0.18
+Maple sugar,"Fats, Oils, Sweets",1993,0.13
+Maple sugar,"Fats, Oils, Sweets",1994,0.16
+Maple sugar,"Fats, Oils, Sweets",1995,0.16
+Maple sugar,"Fats, Oils, Sweets",1996,0.18
+Maple sugar,"Fats, Oils, Sweets",1997,0.17
+Maple sugar,"Fats, Oils, Sweets",1998,0.17
+Maple sugar,"Fats, Oils, Sweets",1999,0.17
+Maple sugar,"Fats, Oils, Sweets",2000,0.18
+Maple sugar,"Fats, Oils, Sweets",2001,0.12
+Maple sugar,"Fats, Oils, Sweets",2002,0.15
+Maple sugar,"Fats, Oils, Sweets",2003,0.18
+Maple sugar,"Fats, Oils, Sweets",2004,0.19
+Maple sugar,"Fats, Oils, Sweets",2005,0.18
+Maple sugar,"Fats, Oils, Sweets",2006,0.15
+Maple sugar,"Fats, Oils, Sweets",2007,0.18
+Maple sugar,"Fats, Oils, Sweets",2008,0.11
+Maple sugar,"Fats, Oils, Sweets",2009,0.21
+Maple sugar,"Fats, Oils, Sweets",2010,0.19
+Maple sugar,"Fats, Oils, Sweets",2011,0.2
+Maple sugar,"Fats, Oils, Sweets",2012,0.32
+Maple sugar,"Fats, Oils, Sweets",2013,0.29
+Maple sugar,"Fats, Oils, Sweets",2014,0.3
+Maple sugar,"Fats, Oils, Sweets",2015,0.35
+Maple sugar,"Fats, Oils, Sweets",2016,0.32
+Maple sugar,"Fats, Oils, Sweets",2017,0.32
+Maple sugar,"Fats, Oils, Sweets",2018,0.34
+Maple sugar,"Fats, Oils, Sweets",2019,0.36
+Garlic fresh,Vegetables,1988,0.13
+Garlic fresh,Vegetables,1989,0.17
+Garlic fresh,Vegetables,1990,0.17
+Garlic fresh,Vegetables,1991,0.18
+Garlic fresh,Vegetables,1992,0.18
+Garlic fresh,Vegetables,1993,0.22
+Garlic fresh,Vegetables,1994,0.21
+Garlic fresh,Vegetables,1995,0.29
+Garlic fresh,Vegetables,1996,0.34
+Garlic fresh,Vegetables,1997,0.27
+Garlic fresh,Vegetables,1998,0.32
+Garlic fresh,Vegetables,1999,0.35
+Garlic fresh,Vegetables,2000,0.36
+Garlic fresh,Vegetables,2001,0.36
+Garlic fresh,Vegetables,2002,0.36
+Garlic fresh,Vegetables,2003,0.36
+Garlic fresh,Vegetables,2004,0.37
+Garlic fresh,Vegetables,2005,0.35
+Garlic fresh,Vegetables,2006,0.34
+Garlic fresh,Vegetables,2007,0.45
+Garlic fresh,Vegetables,2008,0.44
+Garlic fresh,Vegetables,2009,0.44
+Garlic fresh,Vegetables,2010,0.39
+Garlic fresh,Vegetables,2011,0.47
+Garlic fresh,Vegetables,2012,0.47
+Garlic fresh,Vegetables,2013,0.49
+Garlic fresh,Vegetables,2014,0.5
+Garlic fresh,Vegetables,2015,0.52
+Garlic fresh,Vegetables,2016,0.51
+Garlic fresh,Vegetables,2017,0.51
+Garlic fresh,Vegetables,2018,0.57
+Garlic fresh,Vegetables,2019,0.54
+Wintermelons fresh,Vegetables,1988,0.72
+Wintermelons fresh,Vegetables,1989,0.62
+Wintermelons fresh,Vegetables,1990,0.61
+Wintermelons fresh,Vegetables,1991,0.64
+Wintermelons fresh,Vegetables,1992,0.53
+Wintermelons fresh,Vegetables,1993,0.59
+Wintermelons fresh,Vegetables,1994,0.62
+Wintermelons fresh,Vegetables,1995,0.7
+Wintermelons fresh,Vegetables,1996,0.17
+Wintermelons fresh,Vegetables,1997,0.11
+Wintermelons fresh,Vegetables,1998,0.03
+Wintermelons fresh,Vegetables,1999,0.02
+Wintermelons fresh,Vegetables,2000,0.02
+Wintermelons fresh,Vegetables,2001,0.03
+Wintermelons fresh,Vegetables,2002,0.03
+Wintermelons fresh,Vegetables,2003,0.03
+Wintermelons fresh,Vegetables,2004,0.07
+Wintermelons fresh,Vegetables,2005,0.18
+Wintermelons fresh,Vegetables,2006,0.3
+Wintermelons fresh,Vegetables,2007,0.32
+Wintermelons fresh,Vegetables,2008,0.31
+Wintermelons fresh,Vegetables,2009,0.14
+Wintermelons fresh,Vegetables,2010,0.08
+Wintermelons fresh,Vegetables,2011,0.06
+Wintermelons fresh,Vegetables,2012,0.05
+Wintermelons fresh,Vegetables,2013,0.08
+Wintermelons fresh,Vegetables,2014,0.04
+Wintermelons fresh,Vegetables,2015,0.03
+Wintermelons fresh,Vegetables,2016,0.05
+Wintermelons fresh,Vegetables,2017,0.06
+Wintermelons fresh,Vegetables,2018,0.05
+Wintermelons fresh,Vegetables,2019,0.05
+Powder buttermilk,Dairy,1988,0.18
+Powder buttermilk,Dairy,1989,0.16
+Powder buttermilk,Dairy,1990,0.16
+Powder buttermilk,Dairy,1991,0.16
+Powder buttermilk,Dairy,1992,0.13
+Powder buttermilk,Dairy,1993,0.17
+Powder buttermilk,Dairy,1994,0.19
+Powder buttermilk,Dairy,1995,0.25
+Powder buttermilk,Dairy,1996,0.19
+Powder buttermilk,Dairy,1997,0.14
+Powder buttermilk,Dairy,1998,0.28
+Powder buttermilk,Dairy,1999,0.15
+Powder buttermilk,Dairy,2000,0.16
+Powder buttermilk,Dairy,2001,0.19
+Powder buttermilk,Dairy,2002,0.13
+Powder buttermilk,Dairy,2003,0.15
+Powder buttermilk,Dairy,2004,0.12
+Powder buttermilk,Dairy,2005,0.16
+Powder buttermilk,Dairy,2006,0.09
+Powder buttermilk,Dairy,2007,0.09
+Powder buttermilk,Dairy,2008,0.09
+Powder buttermilk,Dairy,2009,0.06
+Powder buttermilk,Dairy,2010,0.05
+Powder buttermilk,Dairy,2011,0.19
+Powder buttermilk,Dairy,2012,0.25
+Powder buttermilk,Dairy,2013,0.24
+Powder buttermilk,Dairy,2014,0.27
+Powder buttermilk,Dairy,2015,0.29
+Powder buttermilk,Dairy,2016,0.43
+Powder buttermilk,Dairy,2017,0.51
+Powder buttermilk,Dairy,2018,0.48
+Powder buttermilk,Dairy,2019,0.49
+Peas fresh,Vegetables,1988,0.08
+Peas fresh,Vegetables,1989,0.1
+Peas fresh,Vegetables,1990,0.14
+Peas fresh,Vegetables,1991,0.13
+Peas fresh,Vegetables,1992,0.27
+Peas fresh,Vegetables,1993,0.24
+Peas fresh,Vegetables,1994,0.22
+Peas fresh,Vegetables,1995,0.23
+Peas fresh,Vegetables,1996,0.2
+Peas fresh,Vegetables,1997,0.21
+Peas fresh,Vegetables,1998,0.21
+Peas fresh,Vegetables,1999,0.23
+Peas fresh,Vegetables,2000,0.22
+Peas fresh,Vegetables,2001,0.25
+Peas fresh,Vegetables,2002,0.24
+Peas fresh,Vegetables,2003,0.23
+Peas fresh,Vegetables,2004,0.25
+Peas fresh,Vegetables,2005,0.27
+Peas fresh,Vegetables,2006,0.34
+Peas fresh,Vegetables,2007,0.3
+Peas fresh,Vegetables,2008,0.29
+Peas fresh,Vegetables,2009,0.31
+Peas fresh,Vegetables,2010,0.28
+Peas fresh,Vegetables,2011,0.3
+Peas fresh,Vegetables,2012,0.15
+Peas fresh,Vegetables,2013,0.27
+Peas fresh,Vegetables,2014,0.22
+Peas fresh,Vegetables,2015,0.22
+Peas fresh,Vegetables,2016,0.19
+Peas fresh,Vegetables,2017,0.31
+Peas fresh,Vegetables,2018,0.32
+Peas fresh,Vegetables,2019,0.27
+Parsnips fresh,Vegetables,1988,0.11
+Parsnips fresh,Vegetables,1989,0.1
+Parsnips fresh,Vegetables,1990,0.1
+Parsnips fresh,Vegetables,1991,0.1
+Parsnips fresh,Vegetables,1992,0.08
+Parsnips fresh,Vegetables,1993,0.21
+Parsnips fresh,Vegetables,1994,0.2
+Parsnips fresh,Vegetables,1995,0.18
+Parsnips fresh,Vegetables,1996,0.14
+Parsnips fresh,Vegetables,1997,0.13
+Parsnips fresh,Vegetables,1998,0.12
+Parsnips fresh,Vegetables,1999,0.12
+Parsnips fresh,Vegetables,2000,0.12
+Parsnips fresh,Vegetables,2001,0.12
+Parsnips fresh,Vegetables,2002,0.1
+Parsnips fresh,Vegetables,2003,0.11
+Parsnips fresh,Vegetables,2004,0.1
+Parsnips fresh,Vegetables,2005,0.09
+Parsnips fresh,Vegetables,2006,0.12
+Parsnips fresh,Vegetables,2007,0.09
+Parsnips fresh,Vegetables,2008,0.11
+Parsnips fresh,Vegetables,2009,0.14
+Parsnips fresh,Vegetables,2010,0.14
+Parsnips fresh,Vegetables,2011,0.18
+Parsnips fresh,Vegetables,2012,0.22
+Parsnips fresh,Vegetables,2013,0.18
+Parsnips fresh,Vegetables,2014,0.27
+Parsnips fresh,Vegetables,2015,0.22
+Parsnips fresh,Vegetables,2016,0.2
+Parsnips fresh,Vegetables,2017,0.23
+Parsnips fresh,Vegetables,2018,0.19
+Parsnips fresh,Vegetables,2019,0.16
+Sherbet,Dairy,1988,0.11
+Sherbet,Dairy,1989,0.12
+Sherbet,Dairy,1990,0.12
+Sherbet,Dairy,1991,0.12
+Sherbet,Dairy,1992,0.12
+Sherbet,Dairy,1993,0.14
+Sherbet,Dairy,1994,0.17
+Sherbet,Dairy,1995,0.19
+Sherbet,Dairy,1996,0.17
+Sherbet,Dairy,1997,0.22
+Sherbet,Dairy,1998,0.18
+Sherbet,Dairy,1999,0.21
+Sherbet,Dairy,2000,0.39
+Sherbet,Dairy,2001,0.35
+Sherbet,Dairy,2002,0.21
+Sherbet,Dairy,2003,0.19
+Sherbet,Dairy,2004,0.29
+Sherbet,Dairy,2005,0.19
+Sherbet,Dairy,2006,0.17
+Sherbet,Dairy,2007,0.17
+Sherbet,Dairy,2008,0.17
+Sherbet,Dairy,2009,0.14
+Sherbet,Dairy,2010,0.18
+Sherbet,Dairy,2011,0.15
+Sherbet,Dairy,2012,0.13
+Sherbet,Dairy,2013,0.11
+Sherbet,Dairy,2014,0.1
+Sherbet,Dairy,2015,0.12
+Sherbet,Dairy,2016,0.11
+Sherbet,Dairy,2017,0.15
+Sherbet,Dairy,2018,0.13
+Sherbet,Dairy,2019,0.12
+Brussels sprouts fresh,Vegetables,1988,0.17
+Brussels sprouts fresh,Vegetables,1989,0.17
+Brussels sprouts fresh,Vegetables,1990,0.15
+Brussels sprouts fresh,Vegetables,1991,0.15
+Brussels sprouts fresh,Vegetables,1992,0.14
+Brussels sprouts fresh,Vegetables,1993,0.16
+Brussels sprouts fresh,Vegetables,1994,0.18
+Brussels sprouts fresh,Vegetables,1995,0.16
+Brussels sprouts fresh,Vegetables,1996,0.17
+Brussels sprouts fresh,Vegetables,1997,0.15
+Brussels sprouts fresh,Vegetables,1998,0.15
+Brussels sprouts fresh,Vegetables,1999,0.14
+Brussels sprouts fresh,Vegetables,2000,0.17
+Brussels sprouts fresh,Vegetables,2001,0.17
+Brussels sprouts fresh,Vegetables,2002,0.17
+Brussels sprouts fresh,Vegetables,2003,0.14
+Brussels sprouts fresh,Vegetables,2004,0.16
+Brussels sprouts fresh,Vegetables,2005,0.13
+Brussels sprouts fresh,Vegetables,2006,0.14
+Brussels sprouts fresh,Vegetables,2007,0.15
+Brussels sprouts fresh,Vegetables,2008,0.16
+Brussels sprouts fresh,Vegetables,2009,0.14
+Brussels sprouts fresh,Vegetables,2010,0.15
+Brussels sprouts fresh,Vegetables,2011,0.21
+Brussels sprouts fresh,Vegetables,2012,0.21
+Brussels sprouts fresh,Vegetables,2013,0.24
+Brussels sprouts fresh,Vegetables,2014,0.25
+Brussels sprouts fresh,Vegetables,2015,0.24
+Brussels sprouts fresh,Vegetables,2016,0.29
+Brussels sprouts fresh,Vegetables,2017,0.29
+Brussels sprouts fresh,Vegetables,2018,0.34
+Brussels sprouts fresh,Vegetables,2019,0.34
+Kohlrabi fresh,Vegetables,1988,0.04
+Kohlrabi fresh,Vegetables,1989,0.05
+Kohlrabi fresh,Vegetables,1990,0.06
+Kohlrabi fresh,Vegetables,1991,0.08
+Kohlrabi fresh,Vegetables,1992,0.14
+Kohlrabi fresh,Vegetables,1993,0.13
+Kohlrabi fresh,Vegetables,1994,0.11
+Kohlrabi fresh,Vegetables,1995,0.11
+Kohlrabi fresh,Vegetables,1996,0.11
+Kohlrabi fresh,Vegetables,1997,0.11
+Kohlrabi fresh,Vegetables,1998,0.15
+Kohlrabi fresh,Vegetables,1999,0.13
+Kohlrabi fresh,Vegetables,2000,0.14
+Kohlrabi fresh,Vegetables,2001,0.16
+Kohlrabi fresh,Vegetables,2002,0.22
+Kohlrabi fresh,Vegetables,2003,0.22
+Kohlrabi fresh,Vegetables,2004,0.19
+Kohlrabi fresh,Vegetables,2005,0.2
+Kohlrabi fresh,Vegetables,2006,0.21
+Kohlrabi fresh,Vegetables,2007,0.25
+Kohlrabi fresh,Vegetables,2008,0.24
+Kohlrabi fresh,Vegetables,2009,0.26
+Kohlrabi fresh,Vegetables,2010,0.36
+Kohlrabi fresh,Vegetables,2011,0.38
+Kohlrabi fresh,Vegetables,2012,0.42
+Kohlrabi fresh,Vegetables,2013,0.58
+Kohlrabi fresh,Vegetables,2014,0.89
+Kohlrabi fresh,Vegetables,2015,0.98
+Kohlrabi fresh,Vegetables,2016,0.91
+Kohlrabi fresh,Vegetables,2017,0.88
+Kohlrabi fresh,Vegetables,2018,0.91
+Kohlrabi fresh,Vegetables,2019,0.91
+Parsley fresh,Vegetables,1988,0.14
+Parsley fresh,Vegetables,1989,0.13
+Parsley fresh,Vegetables,1990,0.13
+Parsley fresh,Vegetables,1991,0.15
+Parsley fresh,Vegetables,1992,0.18
+Parsley fresh,Vegetables,1993,0.19
+Parsley fresh,Vegetables,1994,0.17
+Parsley fresh,Vegetables,1995,0.18
+Parsley fresh,Vegetables,1996,0.19
+Parsley fresh,Vegetables,1997,0.2
+Parsley fresh,Vegetables,1998,0.25
+Parsley fresh,Vegetables,1999,0.24
+Parsley fresh,Vegetables,2000,0.26
+Parsley fresh,Vegetables,2001,0.27
+Parsley fresh,Vegetables,2002,0.26
+Parsley fresh,Vegetables,2003,0.24
+Parsley fresh,Vegetables,2004,0.24
+Parsley fresh,Vegetables,2005,0.22
+Parsley fresh,Vegetables,2006,0.26
+Parsley fresh,Vegetables,2007,0.26
+Parsley fresh,Vegetables,2008,0.26
+Parsley fresh,Vegetables,2009,0.25
+Parsley fresh,Vegetables,2010,0.25
+Parsley fresh,Vegetables,2011,0.25
+Parsley fresh,Vegetables,2012,0.28
+Parsley fresh,Vegetables,2013,0.3
+Parsley fresh,Vegetables,2014,0.29
+Parsley fresh,Vegetables,2015,0.31
+Parsley fresh,Vegetables,2016,0.29
+Parsley fresh,Vegetables,2017,0.32
+Parsley fresh,Vegetables,2018,0.3
+Parsley fresh,Vegetables,2019,0.3
+Apricots fresh,Fruits,1988,0.15
+Apricots fresh,Fruits,1989,0.1
+Apricots fresh,Fruits,1990,0.13
+Apricots fresh,Fruits,1991,0.1
+Apricots fresh,Fruits,1992,0.14
+Apricots fresh,Fruits,1993,0.12
+Apricots fresh,Fruits,1994,0.15
+Apricots fresh,Fruits,1995,0.14
+Apricots fresh,Fruits,1996,0.12
+Apricots fresh,Fruits,1997,0.18
+Apricots fresh,Fruits,1998,0.14
+Apricots fresh,Fruits,1999,0.15
+Apricots fresh,Fruits,2000,0.15
+Apricots fresh,Fruits,2001,0.17
+Apricots fresh,Fruits,2002,0.16
+Apricots fresh,Fruits,2003,0.16
+Apricots fresh,Fruits,2004,0.16
+Apricots fresh,Fruits,2005,0.16
+Apricots fresh,Fruits,2006,0.1
+Apricots fresh,Fruits,2007,0.16
+Apricots fresh,Fruits,2008,0.17
+Apricots fresh,Fruits,2009,0.14
+Apricots fresh,Fruits,2010,0.14
+Apricots fresh,Fruits,2011,0.13
+Apricots fresh,Fruits,2012,0.14
+Apricots fresh,Fruits,2013,0.14
+Apricots fresh,Fruits,2014,0.13
+Apricots fresh,Fruits,2015,0.1
+Apricots fresh,Fruits,2016,0.13
+Apricots fresh,Fruits,2017,0.1
+Apricots fresh,Fruits,2018,0.09
+Apricots fresh,Fruits,2019,0.11
+Leeks fresh,Vegetables,1988,0.06
+Leeks fresh,Vegetables,1989,0.07
+Leeks fresh,Vegetables,1990,0.07
+Leeks fresh,Vegetables,1991,0.09
+Leeks fresh,Vegetables,1992,0.1
+Leeks fresh,Vegetables,1993,0.19
+Leeks fresh,Vegetables,1994,0.19
+Leeks fresh,Vegetables,1995,0.2
+Leeks fresh,Vegetables,1996,0.21
+Leeks fresh,Vegetables,1997,0.21
+Leeks fresh,Vegetables,1998,0.22
+Leeks fresh,Vegetables,1999,0.23
+Leeks fresh,Vegetables,2000,0.24
+Leeks fresh,Vegetables,2001,0.25
+Leeks fresh,Vegetables,2002,0.27
+Leeks fresh,Vegetables,2003,0.26
+Leeks fresh,Vegetables,2004,0.24
+Leeks fresh,Vegetables,2005,0.24
+Leeks fresh,Vegetables,2006,0.24
+Leeks fresh,Vegetables,2007,0.25
+Leeks fresh,Vegetables,2008,0.25
+Leeks fresh,Vegetables,2009,0.27
+Leeks fresh,Vegetables,2010,0.29
+Leeks fresh,Vegetables,2011,0.27
+Leeks fresh,Vegetables,2012,0.25
+Leeks fresh,Vegetables,2013,0.24
+Leeks fresh,Vegetables,2014,0.24
+Leeks fresh,Vegetables,2015,0.27
+Leeks fresh,Vegetables,2016,0.28
+Leeks fresh,Vegetables,2017,0.27
+Leeks fresh,Vegetables,2018,0.27
+Leeks fresh,Vegetables,2019,0.3
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",1988,0.05
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",1989,0.02
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",1990,0.08
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",1991,0.05
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",1992,0.05
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",1993,0.12
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",1994,0.12
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",1995,0.11
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",1996,0.11
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",1997,0.09
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",1998,0.08
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",1999,0.06
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2000,0.06
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2001,0.05
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2002,0.03
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2003,0.04
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2004,0.08
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2005,0.09
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2006,0.12
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2007,0.35
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2008,0.18
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2009,0.19
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2010,0.08
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2011,0.46
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2012,0.37
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2013,0.38
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2014,0.35
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2015,0.25
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2016,0.08
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2017,0.32
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2018,0.51
+Pot and pearl barley,"Bread, Cereal, Rice, Pasta",2019,0.47
+Rappini fresh,Vegetables,1988,0.11
+Rappini fresh,Vegetables,1989,0.1
+Rappini fresh,Vegetables,1990,0.12
+Rappini fresh,Vegetables,1991,0.11
+Rappini fresh,Vegetables,1992,0.12
+Rappini fresh,Vegetables,1993,0.13
+Rappini fresh,Vegetables,1994,0.14
+Rappini fresh,Vegetables,1995,0.15
+Rappini fresh,Vegetables,1996,0.15
+Rappini fresh,Vegetables,1997,0.15
+Rappini fresh,Vegetables,1998,0.15
+Rappini fresh,Vegetables,1999,0.15
+Rappini fresh,Vegetables,2000,0.15
+Rappini fresh,Vegetables,2001,0.16
+Rappini fresh,Vegetables,2002,0.16
+Rappini fresh,Vegetables,2003,0.16
+Rappini fresh,Vegetables,2004,0.17
+Rappini fresh,Vegetables,2005,0.16
+Rappini fresh,Vegetables,2006,0.15
+Rappini fresh,Vegetables,2007,0.18
+Rappini fresh,Vegetables,2008,0.17
+Rappini fresh,Vegetables,2009,0.16
+Rappini fresh,Vegetables,2010,0.16
+Rappini fresh,Vegetables,2011,0.15
+Rappini fresh,Vegetables,2012,0.15
+Rappini fresh,Vegetables,2013,0.2
+Rappini fresh,Vegetables,2014,0.21
+Rappini fresh,Vegetables,2015,0.18
+Rappini fresh,Vegetables,2016,0.18
+Rappini fresh,Vegetables,2017,0.21
+Rappini fresh,Vegetables,2018,0.18
+Rappini fresh,Vegetables,2019,0.18
+Artichokes fresh,Vegetables,1988,0.1
+Artichokes fresh,Vegetables,1989,0.1
+Artichokes fresh,Vegetables,1990,0.08
+Artichokes fresh,Vegetables,1991,0.08
+Artichokes fresh,Vegetables,1992,0.07
+Artichokes fresh,Vegetables,1993,0.06
+Artichokes fresh,Vegetables,1994,0.07
+Artichokes fresh,Vegetables,1995,0.05
+Artichokes fresh,Vegetables,1996,0.07
+Artichokes fresh,Vegetables,1997,0.06
+Artichokes fresh,Vegetables,1998,0.07
+Artichokes fresh,Vegetables,1999,0.09
+Artichokes fresh,Vegetables,2000,0.09
+Artichokes fresh,Vegetables,2001,0.08
+Artichokes fresh,Vegetables,2002,0.07
+Artichokes fresh,Vegetables,2003,0.06
+Artichokes fresh,Vegetables,2004,0.05
+Artichokes fresh,Vegetables,2005,0.06
+Artichokes fresh,Vegetables,2006,0.05
+Artichokes fresh,Vegetables,2007,0.06
+Artichokes fresh,Vegetables,2008,0.08
+Artichokes fresh,Vegetables,2009,0.05
+Artichokes fresh,Vegetables,2010,0.06
+Artichokes fresh,Vegetables,2011,0.06
+Artichokes fresh,Vegetables,2012,0.06
+Artichokes fresh,Vegetables,2013,0.05
+Artichokes fresh,Vegetables,2014,0.04
+Artichokes fresh,Vegetables,2015,0.03
+Artichokes fresh,Vegetables,2016,0.03
+Artichokes fresh,Vegetables,2017,0.03
+Artichokes fresh,Vegetables,2018,0.04
+Artichokes fresh,Vegetables,2019,0.03
+Okra fresh,Vegetables,1988,0.05
+Okra fresh,Vegetables,1989,0.05
+Okra fresh,Vegetables,1990,0.04
+Okra fresh,Vegetables,1991,0.04
+Okra fresh,Vegetables,1992,0.04
+Okra fresh,Vegetables,1993,0.04
+Okra fresh,Vegetables,1994,0.05
+Okra fresh,Vegetables,1995,0.05
+Okra fresh,Vegetables,1996,0.05
+Okra fresh,Vegetables,1997,0.06
+Okra fresh,Vegetables,1998,0.06
+Okra fresh,Vegetables,1999,0.06
+Okra fresh,Vegetables,2000,0.08
+Okra fresh,Vegetables,2001,0.08
+Okra fresh,Vegetables,2002,0.09
+Okra fresh,Vegetables,2003,0.08
+Okra fresh,Vegetables,2004,0.1
+Okra fresh,Vegetables,2005,0.09
+Okra fresh,Vegetables,2006,0.1
+Okra fresh,Vegetables,2007,0.1
+Okra fresh,Vegetables,2008,0.09
+Okra fresh,Vegetables,2009,0.1
+Okra fresh,Vegetables,2010,0.11
+Okra fresh,Vegetables,2011,0.11
+Okra fresh,Vegetables,2012,0.13
+Okra fresh,Vegetables,2013,0.13
+Okra fresh,Vegetables,2014,0.16
+Okra fresh,Vegetables,2015,0.15
+Okra fresh,Vegetables,2016,0.16
+Okra fresh,Vegetables,2017,0.16
+Okra fresh,Vegetables,2018,0.17
+Okra fresh,Vegetables,2019,0.18
+Manioc fresh,Vegetables,1988,0.01
+Manioc fresh,Vegetables,1989,0.01
+Manioc fresh,Vegetables,1990,0.02
+Manioc fresh,Vegetables,1991,0.02
+Manioc fresh,Vegetables,1992,0.02
+Manioc fresh,Vegetables,1993,0.02
+Manioc fresh,Vegetables,1994,0.02
+Manioc fresh,Vegetables,1995,0.04
+Manioc fresh,Vegetables,1996,0.05
+Manioc fresh,Vegetables,1997,0.06
+Manioc fresh,Vegetables,1998,0.05
+Manioc fresh,Vegetables,1999,0.05
+Manioc fresh,Vegetables,2000,0.05
+Manioc fresh,Vegetables,2001,0.06
+Manioc fresh,Vegetables,2002,0.05
+Manioc fresh,Vegetables,2003,0.06
+Manioc fresh,Vegetables,2004,0.07
+Manioc fresh,Vegetables,2005,0.06
+Manioc fresh,Vegetables,2006,0.07
+Manioc fresh,Vegetables,2007,0.09
+Manioc fresh,Vegetables,2008,0.08
+Manioc fresh,Vegetables,2009,0.09
+Manioc fresh,Vegetables,2010,0.09
+Manioc fresh,Vegetables,2011,0.09
+Manioc fresh,Vegetables,2012,0.11
+Manioc fresh,Vegetables,2013,0.11
+Manioc fresh,Vegetables,2014,0.1
+Manioc fresh,Vegetables,2015,0.1
+Manioc fresh,Vegetables,2016,0.1
+Manioc fresh,Vegetables,2017,0.11
+Manioc fresh,Vegetables,2018,0.12
+Manioc fresh,Vegetables,2019,0.13
+Olives fresh,Vegetables,1988,0.02
+Olives fresh,Vegetables,1989,0.02
+Olives fresh,Vegetables,1990,0.02
+Olives fresh,Vegetables,1991,0.02
+Olives fresh,Vegetables,1992,0.02
+Olives fresh,Vegetables,1993,0.02
+Olives fresh,Vegetables,1994,0.01
+Olives fresh,Vegetables,1995,0.01
+Olives fresh,Vegetables,1996,0.02
+Olives fresh,Vegetables,1997,0.01
+Olives fresh,Vegetables,1998,0.01
+Olives fresh,Vegetables,1999,0.03
+Olives fresh,Vegetables,2000,0.01
+Olives fresh,Vegetables,2001,0.02
+Olives fresh,Vegetables,2002,0.02
+Olives fresh,Vegetables,2003,0.02
+Olives fresh,Vegetables,2004,0.02
+Olives fresh,Vegetables,2005,0.02
+Olives fresh,Vegetables,2006,0.01
+Olives fresh,Vegetables,2007,0.01
+Olives fresh,Vegetables,2008,0.01
+Olives fresh,Vegetables,2009,0
+Olives fresh,Vegetables,2010,0.01
+Olives fresh,Vegetables,2011,0.01
+Olives fresh,Vegetables,2012,0.01
+Olives fresh,Vegetables,2013,0.01
+Olives fresh,Vegetables,2014,0
+Olives fresh,Vegetables,2015,0.01
+Olives fresh,Vegetables,2016,0
+Olives fresh,Vegetables,2017,0.01
+Olives fresh,Vegetables,2018,0
+Olives fresh,Vegetables,2019,0.01
