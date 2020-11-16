@@ -1,0 +1,112 @@
+---
+title: "CIND 820 Project"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+library(dplyr)
+library(ggplot2)
+library(ggalt)
+library(reshape2)
+library(ggiraph)
+library(ggiraphExtra)
+knitr::opts_chunk$set(echo = TRUE)
+food = read.csv(file = "C:/Users/Derick/Desktop/CIND820 Project/CIND820.csv")
+foodtall = read.csv(file = "C:/Users/Derick/Desktop/CIND820 Project/Food_tall.csv")
+lngdp = read.csv(file = "C:/Users/Derick/Desktop/CIND820 Project/lnGDP.csv")
+```
+
+# GDP Visualized
+
+```{r GDP}
+gdphighlight = food[food$Year %in% c("1990", "1991", "1992", "2008", "2009", "2010", "2014", "2015", "2016"),]
+ggplot(food, aes(x=Year, y=GDP)) +
+  geom_point(shape=19, color = "black") +
+  geom_point(data = gdphighlight, aes(x=Year, y=GDP), color="red")
+```
+Canada has experienced multiple recessions throughout its economic history with the most recent ones occuring in the early 1990s, during the global financial crisis of 2008, and a slowdown mid-decade highlighted in red. These three time periods will be an area of interest.
+
+# The Canadian Basket of Goods
+
+## Alcohol Visualized
+
+```{r Beer Visualized}
+
+alcohol = foodtall[foodtall$Food.Group %in% c("Alcohol"), ]
+beer = foodtall[foodtall$Food.Items %in% c("Beer"),]
+winespirit = foodtall[foodtall$Food.Items %in% c("Wines", "Distilled spirits"), ]
+ggplot(beer, aes(Year, Value)) +
+  labs(title = "Beer Consumption over Time") +
+  geom_jitter(aes(col=Food.Items)) +
+  geom_smooth(aes(col=Food.Items), method = "loess", formula = y ~ x, se = F) +
+  theme(legend.position = "bottom")
+```
+The overall trend for the consumption of beer and its various names have been in decline. There was a plateau where consumption stabalized in the 2000s, but after 2007 the trend has been declining again. There may be various reasons for this decline such as changing tastes and public perceptions of these products, but the conincidental timing with the global financial crisis suggests it may be responsible. As consumers have less income or insecurity about their future outlooks, it would be reasonable to suspect that financial crisis is a driving factor in the decline of beer consumption.  
+
+```{r Wine&Spirit Visualized}
+
+ggplot(winespirit, aes(Year, Value)) +
+  labs(title = "Wine and Spirit Consumption over Time") +
+  geom_jitter(aes(col=Food.Items)) +
+  geom_smooth(aes(col=Food.Items), method = "loess", formula = y ~ x, se = F) +
+  theme(legend.position = "bottom") +
+  scale_color_manual(values = c("red", "blue"))
+```
+In contrary to beer consumption, wine consumption has been steadily increasing for the past 25 years with the exception of 2004 where there was a large dip. Nonetheless it was a one time event and consumption recovered within 3 years. Spirit consumption has been a increasing and decreasing through the years, however it also experienced a dip around the same time as wine. For spirits, consumption amounts never made a recovery and remained at a low til the present. 
+There is less aggregate spirit consumed over wine and beer, this is accounted by the fact spirit has a higher alcohol content. In general, the higher the alcohol content a product has, the more expensive it will be, and a consumer will need to consume less to achieve intoxication.
+In todays tough economic times where consumers may not be willing to fully abandon alcoholic products, value is the most important attribute. If the goal is to become intoxicated for the least amount of dollars spent, spirits would be the way to go as they are the highest in alcohol content.
+However, I think that the trends show a sophisticaion in consumers palates. Craft beer has expanded to rival the big beer companies. Instead of drinking for intoxication, beer is now about understanding and enjoying flavours similar to wine. We see wine has grown in popularity has more consumers have come to enjoy its flavours and potential health benefits.  
+
+## Proteins vs Vegetables
+```{r Proteins v Vegetables}
+protein_veggies = foodtall[foodtall$Food.Group %in% c("Proteins", "Vegetables", "Fruits", "Bread, Cereal, Rice, Pasta"), ]
+ggplot(protein_veggies, aes(Year, Value, colour = Food.Group)) +
+  stat_summary(fun=sum, geom = "line") +
+  stat_summary(fun=sum, geom = "point") +
+  labs(title = "Correlation between Protein, Vegetable, and Fruit food groups, 1988-2019") +
+  theme(legend.position = "bottom")
+
+```
+At a macro scale, we can see the historical patterns of food consumption dating back from 1988 to 2019. Food supply fluctuates year to year, but overall it remains stable. Fruits and grain products have been increasing in consumption, but grain products lost popularity mid-2010s.  
+## Luxury Items
+```{r}
+shellfish = foodtall[foodtall$Food.Items %in% c("Total shellfish, edible weight"), ]
+seafish = foodtall[foodtall$Food.Items %in% c("Sea Fish", "Sea Fish Processed"), ]
+ggplot(seafish, aes(Year, Value, colour = Food.Items)) +
+  stat_summary(fun=sum, geom = "line") +
+  stat_summary(fun=sum, geom = "point") +
+  theme(legend.position = "bottom")
+
+ggplot(shellfish, aes(Year, Value, colour = Food.Items)) +
+  stat_summary(fun=sum, geom = "line") +
+  stat_summary(fun=sum, geom = "point") +
+  theme(legend.position = "bottom")
+```
+As expected in my predictions, shellfish and seafood consumption went down during the 2008 financial crisis. The crisis started in 2007 and did not fully manifest until 2008 as shown in the chart above. 
+
+# Regression Analysis
+## GDP
+
+
+```{r lnY regression}
+fit1 = lm(ln.GDP ~ Alcohol + Grains + Dairy + FatsSugars + Fruits + NonAlcoholicDrink + Proteins + Vegetables, data = lngdp)
+summary(fit1)
+```
+Based off of this initial regression, the equation would be:
+  ln(y) = 0.014Alcohol + 0.015Grains - 0.028Dairy - 0.012FatsSugars + 0.026Fruits + 0.000045NonAlcoholicDrink + 0.010Proteins - 0.0044Vegetables
+
+This needs to be looked in more as I do not think it is necessarily correct. But at a glance this would mean that for a 1 unit increase in any category would lead to a BX increase in Y. Remember that X in this equation represents one kilogram of consumption per person in Canada. For example, lets take a look at Alcohol. If on average, every Canadian consumed one KG more of alcoholic products and equivalents, the Canadian GDP would increase by 0.014%. This is a very miniscule amount but it needs to be stated that Canada's GDP of 2019 was around $1.9 trillion dollars.   
+```{r lnY and lnB Regression}
+fit2 = lm(ln.GDP ~ Grains + Dairy + Fruits, data = lngdp)
+summary(fit2)
+
+
+```
+
+
+
+
+
+
